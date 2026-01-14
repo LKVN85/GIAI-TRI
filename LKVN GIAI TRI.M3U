@@ -45,6 +45,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extensi
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ
+https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/ 
 #EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO
 https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
@@ -55,8 +57,6 @@ https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP
 https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ
-https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU
 https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
@@ -64,29 +64,44 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TÔM
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", THIÊN LÔI
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV ", PHAN CÁO
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HẢI
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CÁO BASKET
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN SON
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHÈ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN SẾU
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanseu/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN BÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_cuhanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU BẢO
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", A PHỦ
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+https://bglive.edgemaxcdn.org/live/bgtv_blv_aphu/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", VĂN PHONG
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+https://bglive.edgemaxcdn.org/live/bgtv_blv_vanphong/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU TRÀ ĐÁ
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+https://bglive.edgemaxcdn.org/live/bgtv_blv_trada/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU PÁO
-https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieupao/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU ĐÔ
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieudo/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 group-title="VÒNG CẤM TV", DẾ LỬA
+https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU NGOAN ĐỒNG
+https://bglive.edgemaxcdn.org/live/bgtv_blv_ngoandong/playlist.m3u8|Referer=https://vongcam.live/
+https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="BLV TOPTOP", BLV ADAM 
@@ -610,9 +625,9 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", NINH BÌNH TV 
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG +
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HƯNG YÊN TV 
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
