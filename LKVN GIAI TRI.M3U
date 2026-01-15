@@ -16,29 +16,23 @@ https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad017
 #EXTINF:-1 group-title="BÓNG RỖ", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE ALEX
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE CỤ GIÀ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE CHYM
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", THIÊN ĐÔ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
+https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", VĂN MINH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", SÚP LƯƠN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8|Referer=https://quechoa2.live/
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
-#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA 1
-https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
-#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA 2
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
-#EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", LIVE QUÊ CHOA 3
-https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
 #EXTINF:-1 group-title="BÓNG CHUYỀN QUÊ CHOA", Polsat Sport 2
@@ -84,7 +78,7 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanseu/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN BÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_cuhanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU BẢO
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", A PHỦ
@@ -100,7 +94,6 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_tieudo/playlist.m3u8|Referer=https:/
 #EXTINF:-1 group-title="VÒNG CẤM TV", DẾ LỬA
 https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM TV", TIỂU NGOAN ĐỒNG
-https://bglive.edgemaxcdn.org/live/bgtv_blv_ngoandong/playlist.m3u8|Referer=https://vongcam.live/
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="BLV TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
@@ -625,9 +618,9 @@ https://live.mediatech.vn/live/2859591eef2e92249b682db021f4247c364/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv525&q=sd&pkg=pkg12.hni 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", NINH BÌNH TV 
 https://live.mediatech.vn/live/28597f8fd7ea5064d0f84ab00b3699dfd86/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV1
 https://live.mediatech.vn/live/285a4c99665fdf84e94956c66bc7dc7eb5d/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG +
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HẢI PHÒNG TV3
 https://live.mediatech.vn/live/28548ca35823d41426d8b3da7ed82bdab13/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HƯNG YÊN TV 
 https://live.mediatech.vn/live/285f5449d7d7d2946e0bd2d54b7e60f25a4/playlist.m3u8
