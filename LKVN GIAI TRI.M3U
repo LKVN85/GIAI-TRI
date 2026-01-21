@@ -83,15 +83,11 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV",  THIÊN ĐÔ
 https://live.quechoacdn.live/61d6afe29ba00790787c1565a1bbebc6/blv1/hls_blv1/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", KHU MẤN
-https://live.quechoacdn.live/78fe5336e9d38fb54009f284611285d4/blv2/hls_blv2/index.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", KHOAI TÂY
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV", SÚP LƯƠN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE QUÊ CHOA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
 
 #EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ
 https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/ 
