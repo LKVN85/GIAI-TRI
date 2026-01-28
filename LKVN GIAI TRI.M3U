@@ -277,6 +277,8 @@ https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766582069-0-0-82bf
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VODKA 
 https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
+https://live.inplyr.com/room/485739.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THẠCH TÚ 
 https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678fa328f31e8ad5&txTime=694c1e85 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI 
@@ -296,11 +298,23 @@ https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d9
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VOI 
-https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A BỆU 
-https://pull.niues.live/live/stream-484845_lhd.m3u8?auth_key=1766838570-0-0-8a012533f3061c7b6f1c8c47dcceedb3 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX 
-https://pull.niues.live/live/stream-515530_lsd.m3u8?auth_key=1766751689-0-0-c31bf30b3d89d73b7206d952ced60f29 
+https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
+#EXTINF:-1 group-title="SOCOLIVE", SÓI
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HOA VINH
+https://live.inplyr.com/room/579055.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PEWPEW
+https://live.inplyr.com/room/109053.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LOGAN
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VỊT BẠC
+https://live.inplyr.com/room/474421.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÒ
+https://live.inplyr.com/room/582342.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LUCAS
+https://live.inplyr.com/room/304148.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A PÁO
+https://live.inplyr.com/room/235232.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHAN SENA 
 https://live.inplyr.com/room/515530.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HENDRY
@@ -360,14 +374,12 @@ https://hls.cdnok9.com/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74
 https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
 #EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
-#EXTINF:-1 group-title="LƯƠNG SƠN", SÓI
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
 #EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33 
-#EXTINF:-1 group-title="LƯƠNG SƠN", LOGAN
-https://pull.niues.live/live/stream-552832_lhd.m3u8?auth_key=1767191430-0-0-255bc8157c9e2c84cf09a5c4cf673969
-#EXTINF:-1 group-title="LƯƠNG SƠN", SHIN
+#EXTNF:-1 group-title="LƯƠNG SƠN", SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTNF:-1 group-title="LƯƠNG SƠN", KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 
 #EXTINF:-1 group-title="4K UHD", Polsat Sport 1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
@@ -723,6 +735,7 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
 
 
 
