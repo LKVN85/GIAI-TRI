@@ -324,6 +324,10 @@ https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca
 
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
+#EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
+https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
+#EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
+https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
 #EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
 https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
 #EXTINF:-1 group-title="LƯƠNG SƠN", KEVILL 
@@ -344,10 +348,6 @@ https://hls.cdnok9.com/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f
 https://hls.cdnok9.com/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
 #EXTINF:-1 group-title="LƯƠNG SƠN", QUAN VŨ 
 https://hls.cdnok9.com/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
-#EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
-https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
-#EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
-https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
 #EXTINF:-1 group-title="LƯƠNG SƠN", NGŨ CA 
 https://hls.cdnok9.com/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TRIỆU TỬ LONG 
@@ -707,8 +707,14 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐIỆN BIÊN TV 
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
-https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni 
+https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", GREENLAND: THẢM HỌA THIÊN THẠCH
+https://vip.opstream14.com/20220320/1900_bb756cdc/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", ANACONDA: ĐỤNG ĐỘ SIÊU TRĂN
+https://hitmefirstcdn.store/hls/WoRhaa+crYiwMVokTuPy-XoIHqun1h9k5YFIv-pDvQf+tPm19jjDLPaVyo3baxrl4WUALUWOwoCJTTzL6rvvi3sax0bYYuTPbbvDrQOfhC0=/bWFzdGVyLm0zdTg=.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", RIP: RANH GIỚI TỘI ÁC
+https://snowbreeze49.live/hls/-tw4dq3vFJOWBU6gg8wVcKZ4fAOJJiqsgnEVEqBayI0l7LljpCl0LkL1yXOUYazlUVLSsfih36g5CSgEBbgChdETFqZz7XCTD4vGhTPafo8=/bWFzdGVyLm0zdTg=.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", AVATAR 2: DÒNG CHẢY CỦA NƯỚC
 https://s5.phim1280.tv/20250513/XQBfOc33/index.m3u8  
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP",AVATAR 3: LỬA VÀ TRO TÀN 
@@ -735,6 +741,7 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
 
 
 
