@@ -106,7 +106,7 @@ https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://
 #EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ A
 https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO THẦN
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8
+https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO A
 https://2335776525.global.cdnfastest.com/livebong/abao3/index.m3u8
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP
@@ -743,6 +743,7 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
 
 
 
