@@ -295,11 +295,11 @@ https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
 https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=56378f8e07c671b125fa2f9b628777f5&txTime=694ea439 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE DECO 
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=56378f8e07c671b125fa2f9b628777f5&txTime=694ea439 
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769651973-0-0-5c60b91d99a464112a61c463a8df6ed2
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦ CẢI
 https://live.inplyr.com/room/360663.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TẠ BIÊN GIỚI 
-https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=cc5159292314dbeaec35f876a18fa69e&txTime=694ea565 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769652033-0-0-bc8d70ff68e433939044a00215c53b67 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE FANTA
 https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=cc5159292314dbeaec35f876a18fa69e&txTime=694ea565 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAM MAO 
@@ -312,77 +312,84 @@ https://live.inplyr.com/room/414317.m3u8
 https://live.inplyr.com/room/414317.m3u8 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PIRLO
 https://live.inplyr.com/room/351530.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ENZO 
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI 
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766579309-0-0-37fad7ebaf099aaa6c5d31d96b0f3002
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CR BƯỞI
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XAVI
+https://live.inplyr.com/room/525090.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE GÔN
+https://live.inplyr.com/room/445260.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=48e7a760d7a959bd2554c10d1e0456a4&txTime=697b06bd
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMIA 
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766583329-0-0-c7cabd9cabda4eb17f6c80c672c84df9 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NIBO 
 https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766582069-0-0-82bfd2ddec023861a4679bfbbea213f7 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ENZO 
-https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VƯƠNG ANH
 https://live.inplyr.com/room/548860.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LÃO LÂM
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769650953-0-0-0c0c43b2e4ccd8c06bed967d7b623f9f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A LONG 
 https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=469a4b4104d376d5fe5db7986aebe3a6&txTime=694dad31 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NGỌA LONG 
 https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1766592089-0-0-7e97ef548bf98263ccf61bbf8db61416 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RAMBO 
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=734d3bcc5e5b58d0041af1f711bdfb27&txTime=694c1615 
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a26ef2cc28e28f133e140f2170536336&txTime=697b07ad
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE WUKONG 
 https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766596470-0-0-c928c5a40df1cbae337164f81f98afd5 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO ĐỎ 
-https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE FIREMAN 
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1766581769-0-0-fa5f1c3cae23eea52841ff3cdad70e04 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THỎ 
-https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1766581890-0-0-4519e47e80d2dc7190f6626ca6ed0824 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TYPN 
-https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
-#EXTINF:-1 group-title="SOCOLIVE",SOCOLIVE KAI 
-https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766582009-0-0-7a86ccd94a7e3c65ac1cc52ff5909c7f 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VODKA 
-https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
-https://live.inplyr.com/room/485739.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THẠCH TÚ 
-https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678fa328f31e8ad5&txTime=694c1e85 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI 
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766579309-0-0-37fad7ebaf099aaa6c5d31d96b0f3002 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SON 
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=23722fa0925392ef5483a110dc353a66&txTime=694f1b49 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
-https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766582070-0-0-032c2833d11d0e3d594eb134d2df5694 
-
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
-https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
-https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524528-0-0-9c0a75b41e227af68d5608b366f3ff79 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE JACK MAN 
-https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
-https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BÉO
-https://live.inplyr.com/room/459401.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÓI
-https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HOA VINH
-https://live.inplyr.com/room/579055.m3u8
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1766581769-0-0-fa5f1c3cae23eea52841ff3cdad70e04
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE JACKMAN 
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30  
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PEWPEW
 https://live.inplyr.com/room/109053.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LOGAN
 https://live.inplyr.com/room/552832.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VỊT BẠC
-https://live.inplyr.com/room/474421.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÒ
-https://live.inplyr.com/room/582342.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LUCAS
-https://live.inplyr.com/room/304148.m3u8
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769651073-0-0-55d5779d7b68e2912baddb2501998fc0
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TYPN 
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO ĐỎ 
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A PÁO
 https://live.inplyr.com/room/235232.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CR BƯỞI
-https://live.inplyr.com/room/387694.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KAN
-https://live.inplyr.com/room/283501.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XAVI
-https://live.inplyr.com/room/525090.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524528-0-0-9c0a75b41e227af68d5608b366f3ff79 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THẠCH TÚ 
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678fa328f31e8ad5&txTime=694c1e85 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VODKA 
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0793c866bb26924db3a4cf56019948a1&txTime=697b0915
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766582070-0-0-032c2833d11d0e3d594eb134d2df5694 
+#EXTINF:-1 group-title="SOCOLIVE",SOCOLIVE KAI 
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766582009-0-0-7a86ccd94a7e3c65ac1cc52ff5909c7f 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THỎ 
+https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1766581890-0-0-4519e47e80d2dc7190f6626ca6ed0824 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BÉO
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÒ
+https://live.inplyr.com/room/582342.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÓI
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VỊT BẠC
+https://live.inplyr.com/room/474421.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HOA VINH
+https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1769652573-0-0-05c16b285ce5852a891fdb26c65a5e3f
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SON 
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=23722fa0925392ef5483a110dc353a66&txTime=694f1b49 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG LÝ
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769652573-0-0-3794dc75c80cd1dc3add0bd171839d04
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KINH TẾ
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5dae4f9674706385c51282e1bedff3
 
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
@@ -1165,6 +1172,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85675667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | sport",sport | AR: Nile Sport
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675668.m3u8
+
 
 
 
