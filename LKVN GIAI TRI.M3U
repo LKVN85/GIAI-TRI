@@ -293,7 +293,7 @@ https://live5.msrktz.app/live/79665343.m3u8
 https://live5.msrktz.app/live/14830711.m3u8
 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=56378f8e07c671b125fa2f9b628777f5&txTime=694ea439 
+https://pull.niur.live/live/stream-9912041_lsd.m3u8?txSecret=c33ae2051d0e8db8f9f47285c528853b&txTime=697b1635
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE DECO 
 https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769651973-0-0-5c60b91d99a464112a61c463a8df6ed2
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦ CẢI
@@ -1174,6 +1174,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85675667.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | sport",sport | AR: Nile Sport
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675668.m3u8
+
 
 
 
