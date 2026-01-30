@@ -21,10 +21,8 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="BASKETBALL", NBA HD
+#EXTINF:-1 group-title="BASKETBALL", NBA TV 
 http://acces4k.info:8089/live/1256890450567/3724705289264/62113.m3u8
-#EXTINF:-1 group-title="BASKETBALL", NBA TV
-https://fl31.moveonjoy.com/NBA_TV/index.m3u8
 
 
 #EXTINF:-1 group-title="VOLLEYBALL", CỤ GIÀ
@@ -1083,6 +1081,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
 
 
