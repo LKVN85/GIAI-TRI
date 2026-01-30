@@ -286,7 +286,7 @@ https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769654253-0-0-6f12
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE GÔN
 https://live.inplyr.com/room/445260.m3u8 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=48e7a760d7a959bd2554c10d1e0456a4&txTime=697b06bd
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=a455a57f57785f62decc768bdb8e0257&txTime=697c51e9
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMIA 
 https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766583329-0-0-c7cabd9cabda4eb17f6c80c672c84df9 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NIBO 
@@ -326,7 +326,7 @@ https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VODKA 
 https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
-https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=0793c866bb26924db3a4cf56019948a1&txTime=697b0915
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=57bff280b61906b71369ee0fdaa866d5&txTime=697c529d
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
@@ -342,11 +342,11 @@ https://live.inplyr.com/room/582342.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÓI
 https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VỊT BẠC
-https://live.inplyr.com/room/474421.m3u8
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769737053-0-0-8631d48a87a5404099c2a5b27cebf215
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HOA VINH
 https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1769652573-0-0-05c16b285ce5852a891fdb26c65a5e3f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SON 
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=23722fa0925392ef5483a110dc353a66&txTime=694f1b49 
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0aca5a3ef2695df53decbb85bd24ef7a&txTime=697c5045
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG LÝ
@@ -355,21 +355,25 @@ https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769652573-0-0-379
 https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5dae4f9674706385c51282e1bedff3
 
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
-https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582 
+https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
+#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ QUỲ 
+https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
+#EXTINF:-1 group-title="LƯƠNG SƠN", SHINKA
+https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
+#EXTINF:-1 group-title="LƯƠNG SƠN", KENCHU
+https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
+#EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
+https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
 #EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
 https://hls.cdnok9.com/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
 #EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
 https://hls.cdnok9.com/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
-#EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
-https://hls.cdnok9.com/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
 #EXTINF:-1 group-title="LƯƠNG SƠN", KEVILL 
 https://hls.cdnok9.com/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107 
 #EXTINF:-1 group-title="LƯƠNG SƠN", TỐNG GIANG 
 https://hls.cdnok9.com/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
 #EXTINF:-1 group-title="LƯƠNG SƠN", HOA VINH 
 https://hls.cdnok9.com/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
-#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ QUỲ 
-https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
 #EXTINF:-1 group-title="LƯƠNG SƠN", VĂN VỸ 
 https://hls.cdnok9.com/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
 #EXTINF:-1 group-title="LƯƠNG SƠN", LƯU BỊ 
@@ -408,10 +412,6 @@ https://hls.cdnok9.com/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8
 https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
 #EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
-#EXTINF:-1 group-title="LƯƠNG SƠN", SHINKA
-https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LƯƠNG SƠN", KENCHU
-https://hls.cdnok9.com/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
 
 #EXTINF:-1 tvg-id="beIN sport HD 1 TR" tvg-name="beIN sport 1 HD+" tvg-logo="http://acces4k.info:8089/logo/chn/165.png" group-title="AR | SPORT HD",beIN sport 1 HD+
 http://acces4k.info:8089/live/1256890450567/3724705289264/165.m3u8
@@ -1049,4 +1049,5 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
