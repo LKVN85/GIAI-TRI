@@ -17,12 +17,15 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="BASKETBALL", NBA HD
-http://acces4k.info:8089/live/1256890450567/3724705289264/62113.m3u8
 #EXTINF:-1 group-title="BASKETBALL", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="BASKETBALL", NBA HD
+http://acces4k.info:8089/live/1256890450567/3724705289264/62113.m3u8
+#EXTINF:-1 group-title="BASKETBALL", NBA TV
+https://fl31.moveonjoy.com/NBA_TV/index.m3u8
+
 
 #EXTINF:-1 group-title="VOLLEYBALL", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
@@ -40,10 +43,6 @@ https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="VOLLEYBALL", LOVB
-https://traab.d4ssgk.su/o22/stream209/o/stream209/chunks.m3u8?nimblesessionid=34462832&wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MDU6NDQgQU0maGFzaF92YWx1ZT1TYVphcnFwSGxnTXN4c3FhUHRVQk9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-https://traab.d4ssgk.su/o22/stream209/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9MS8zMC8yMDI2IDM6MDU6NDQgQU0maGFzaF92YWx1ZT1TYVphcnFwSGxnTXN4c3FhUHRVQk9nPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-
 
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
@@ -532,10 +531,14 @@ http://202.80.222.20/cdn/iptv/Tvod/001/channel2000138/1024.m3u8
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675666.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="sport | AR: On Time Sport HD 2" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR | SPORT HD",sport | AR: On Time Sport 2 HD
 http://acces4k.info:8089/live/1256890450567/3724705289264/85675667.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Sharjah Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Sharjah%20Sport.jpg" group-title="AR | SPORT HD",sport | AR: Sharjah Sport HD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675646.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Sharjah Sport HD" tvg-logo="https://multiacs.com/logo/sportarab/Sharjah%20Sport.jpg" group-title="AR | SPORT HD",sport | AR: Sharjah Sport HD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675663.m3u8
+#EXTINF:-1 group-title="AR | SPORT HD", SPORT.1
+https://spstr.abntv.live/hls/psstream.m3u8
+#EXTINF:-1 group-title="AR | SPORT HD", SPORT.2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="AR | SPORT HD", SPORT.3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 group-title="AR | SPORT HD", SPORT.4
+https://pepsi4.abntv.live/hls/psp4.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport HD" tvg-logo="http://acces4k.info:8089/logo/chn/85692686.jpg" group-title="AR | SPORT HD",Thamanya 1 Sport HD
 http://acces4k.info:8089/live/1256890450567/3724705289264/85692686.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport HD" tvg-logo="http://acces4k.info:8089/logo/chn/85692686.jpg" group-title="AR | SPORT HD",Thamanya 1 Sport HD
@@ -558,12 +561,18 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85675647.m3u8
 http://195.26.87.150/ArenaSport1/index.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="EU | SPORT HD", AFREECA TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="EU | SPORT HD", Canal+ Foot
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="EU | SPORT HD", Canal+ Sport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 group-title="EU | SPORT HD", ESPN NEWS
+https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
+#EXTINF:-1 group-title="EU | SPORT HD", ESPN 2
+https://fl2.moveonjoy.com/ESPN_2/index.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", EUROSPORTS 1 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", EUROSPORTS 2
@@ -576,8 +585,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extensi
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
 #EXTINF:-1 group-title="EU | SPORT HD",NovaSport 1
 http://195.26.87.150/NovaSport1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", PSP3
-https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 group-title="EU | SPORT HD", FOX SPORTS
+https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", Polsat Sport 1
@@ -605,6 +614,8 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
 #EXTINF:-1 group-title="EU | SPORT HD", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="EU | SPORT HD", SNY
+https://fl7.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", SPORTS TUR TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", STRONGMAN 
@@ -662,6 +673,22 @@ https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist10
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1164000&extension=ts&play_token=HqvKowEeO4
 #EXTINF:-1 group-title="MOVIES", KIX TV
 https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="MOVIES", KOREA MOVIES
+https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
+#EXTINF:-1 group-title="MOVIES", RAKUTEN TV
+https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
+#EXTINF:-1 group-title="MOVIES", WOMEN TV
+https://fl31.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
+#EXTINF:-1 group-title="MOVIES", CINEMAX
+https://fl31.moveonjoy.com/CINEMAX/index.m3u8
+#EXTINF:-1 group-title="MOVIES", STAR MOVIES
+https://fl1.moveonjoy.com/STARZ/index.m3u8
+#EXTINF:-1 group-title="MOVIES", SONY CHANNEL
+https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
+#EXTINF:-1 group-title="MOVIES", FX MOVIES
+https://fxtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1 group-title="MOVIES", MOVIE BOX
+https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 group-title="MOVIES", Box Movie 1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
@@ -1056,7 +1083,6 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
-
 
 
 
