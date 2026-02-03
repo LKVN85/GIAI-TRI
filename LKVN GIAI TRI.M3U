@@ -89,8 +89,10 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", CỤ GIÀ B
 https://qxmvldlcjcwr-pull.bpmedialive.com/quechoa/blv2_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA TV", LIVE CHYM A
+#EXTINF:-1 group-title="QUÊ CHOA TV", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA TV", RICKY
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ A
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA TV", THIÊN ĐÔ B
@@ -1087,6 +1089,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
 
 
