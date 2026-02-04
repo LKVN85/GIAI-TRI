@@ -38,15 +38,16 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=ht
 #EXTINF:-1 group-title="VOLLEYBALL", XT| KHÁN ĐÀI A
 https://stm02bc48435558.stream.hdplaylink.com/live3/0e0b909153e54acf9d7d13c35a8acfc7_720/playlist.m3u8|Referer=https://khandaia2.me|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="VOLLEYBALL", XT| Champions League. Women: Alba Blaj (w) - Le Cannet (w)
-https://d302.soft4game.com/o22/stream198/o/stream198/chunks.m3u8?nimblesessionid=35988041&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMzo1ODoyNSBQTSZoYXNoX3ZhbHVlPUZEdFpBUWM0clVxZ0d3NnJZeTB0RUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==#EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 05:00 06/02 MACKENZIE vs BARUERI
-https://a111.azplay24.me/hls/streama247756/index.m3u8?cst=cfe0b2adfe4abc12f57fc81dd342b1cc
+https://d302.soft4game.com/o22/stream198/o/stream198/chunks.m3u8?nimblesessionid=35988041&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMzo1ODoyNSBQTSZoYXNoX3ZhbHVlPUZEdFpBUWM0clVxZ0d3NnJZeTB0RUE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
+#EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 05:00 06/02 MACKENZIE vs BARUERI
+https://a27.azplay24.me/hls/streama242325/index.m3u8?cst=c5e669b2d354f53054c9c77b0f632ece
 #EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 05:00 06/02 RENASCE SOROCABA vs FLUMINENSE
 https://d302.soft4game.com/o22/stream59/o/stream59/chunks.m3u8?nimblesessionid=35973661&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6MTE6MzEgQU0maGFzaF92YWx1ZT14TEVsZWhDNUZ4VFlaenBtbTJocHBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 07:30 06/02 OSASCO vs MARINGA
 https://d302.soft4game.com/o22/stream536/o/stream536/chunks.m3u8?nimblesessionid=35973720&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6MTI6MzEgQU0maGFzaF92YWx1ZT13bGpSbHRBWUZFRzNtMG9zaFhyWEZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", XT| LOVB Women: 08:00 06/02 Austin vs Atlanta
+#EXTINF:-1 group-title="VOLLEYBALL", XT| LOVB Women: 08:00 05/02 Austin vs Atlanta
 https://d302.soft4game.com/o22/stream586/o/stream586/chunks.m3u8?nimblesessionid=35977603&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTI6MzE6MTcgUE0maGFzaF92YWx1ZT1LNU0rdEdZOW1seSswNlRhaFBMNXZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", XT| MLV Women: 08:00 06/02 DALLAS PULSE vs OMAHA SUPERNOVAS
+#EXTINF:-1 group-title="VOLLEYBALL", XT| MLV Women: 08:00 05/02 DALLAS PULSE vs OMAHA SUPERNOVAS
 https://d302.soft4game.com/o22/stream199/o/stream199/chunks.m3u8?nimblesessionid=35973967&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6MTY6NTMgQU0maGFzaF92YWx1ZT0vSEV1d0FrSlBNbFpQQ0lHcTVnZmxBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="VOLLEYBALL", XT| CVL
 https://d302.soft4game.com/o22/stream62/o/stream62/chunks.m3u8?nimblesessionid=35975032&wmsAuthSign=c2VydmVyX3RpbWU9Mi80LzIwMjYgMTE6Mzc6MDcgQU0maGFzaF92YWx1ZT1rVXdDejk0c243ODhTUmNESnlnNUZ3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
@@ -1116,6 +1117,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
 
 
