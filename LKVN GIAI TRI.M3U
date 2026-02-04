@@ -126,6 +126,7 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
 
 #EXTINF:-1 group-title="XAYCON TV", XÂY CON
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="XAYCON TV", BỊP CON
 #EXTINF:-1 group-title="XAYCON TV", CÁ KOI
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
@@ -1119,6 +1120,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
 
 
