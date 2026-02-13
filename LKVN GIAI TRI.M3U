@@ -144,21 +144,20 @@ https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc/playlist.m3u8
 #EXTINF:-1 group-title="XAYCON TV", VĂN TÍCH
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
 
-#EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ A
-https://pjoo0925.edgemaxcdn.org/live/91537_stream/playlist.m3u8|Referer=https://hoadaotv.org/ 
-#EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ A
-https://pjoo0925.edgemaxcdn.org/live/28469_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", BÚN CHẢ
+https://live10.watchsoccerlivenews.net/live/chimnho_key/playlist.m3u8
+#EXTINF:-1 group-title="HOA ĐÀO TV", CHIM NHỎ
+https://live10.watchsoccerlivenews.net/live/chimnho_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", PHÁO THẦN
-https://pjoo0925.edgemaxcdn.org/live/76042_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO A
-https://pjoo0925.edgemaxcdn.org/live/63958_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="HOA ĐÀO TV", MÈO BÉO
+https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", GẠO NẾP
-https://pjoo0925.edgemaxcdn.org/live/48391_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", HẠT TIÊU
-https://pjoo0925.edgemaxcdn.org/live/17084_stream/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="HOA ĐÀO TV", TRÀ ĐÁ
-https://pjoo0925.edgemaxcdn.org/live/17089_stream/playlist.m3u8|Referer=https://hoadaotv.org/
-https://live1.jok1ker2.top/live/17089_stream/playlist.m3u8
+https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
 
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
@@ -1123,6 +1122,7 @@ http://acces4k.info:8089/live/1256890450567/3724705289264/85692685.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport 4K" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT 4K",StarzPlay Sport 4K
 http://acces4k.info:8089/live/1256890450567/3724705289264/472.m3u8
+
 
 
 
