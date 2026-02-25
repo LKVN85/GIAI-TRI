@@ -222,18 +222,6 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive1/Free.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive2/Free.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive3/Free.m3u8
 #EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 1
 https://a1xs.vip/ppv1
 #EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 2
@@ -301,7 +289,7 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 5 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="TENNIS", TSN4
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 6
 https://a1xs.vip/6000004
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
@@ -857,9 +845,8 @@ http://79.127.207.193:80/TringSport1HD/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png" group-title="Thể Thao", Tring Sport 2 HD
 http://79.127.207.193:80/TringSport2HD/playlist.m3u8
 
-#EXTINF:-1 group-title="EU | SPORT HD",ArenaSport 1
-http://195.26.87.150/ArenaSport1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", astro Football
+#EXTINF:-1 group-title="EU | SPORT HD", Astro Football
+https://a1xs.vip/1100032
 #EXTINF:-1 group-title="EU | SPORT HD", BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", AFREECA TV
@@ -1037,3 +1024,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
