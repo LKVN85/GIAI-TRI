@@ -62,7 +62,7 @@ http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
 http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
-https://ec03-pop5-hht.tv360.vn/bpk-token/ufgb4chkbywqrbvrlv72gta6bcquyhqi/bpk-tv/393/output/393-audio_198800_eng_iv_1=196800-video_iv_1=1067600.m3u8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/binh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
@@ -181,8 +181,75 @@ https://freem3u.xyz/api/live/play.m3u8?vid=187
 https://freem3u.xyz/api/live/play.m3u8?vid=179
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON LIFE 
 https://freem3u.xyz/api/live/play.m3u8?vid=188
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VIETNAM TODAY
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV5 PHẬT GIÁO
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/an-vien-hd/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV6
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv6/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV2
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv2-today-tv/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV16
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv16hd/Free.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV19
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv19hd/Free.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV21
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv21hd/Free.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV22
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/sctv22hd/Free.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HiTV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phim Việt
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 
-
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360 Live
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 9
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 10
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 11
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive1/Free.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive2/Free.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive3/Free.m3u8
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 1
+https://a1xs.vip/ppv1
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 2
+https://a1xs.vip/ppv2
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 3
+https://a1xs.vip/ppv3
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 4
+https://a1xs.vip/ppv4
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 5
+https://a1xs.vip/ppv5
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 6
+https://a1xs.vip/ppv6
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 7
+https://a1xs.vip/ppv7
+#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 8
+https://a1xs.vip/ppv8
 
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
@@ -206,9 +273,10 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="BASKETBALL", NBA TV 
-http://acces4k.info:8089/live/1256890450567/3724705289264/62113.m3u8
-
+#EXTINF:-1 group-title="BASKETBALL", TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 group-title="BASKETBALL", TSN2
+https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
@@ -222,28 +290,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="VOLLEYBALL", XT| 6H00 20/02: Superliga Unilife Maringa (w) - Minas (w)
-https://d302.soft4game.com/o22/stream542/o/stream542/chunks.m3u8?nimblesessionid=43498295&wmsAuthSign=c2VydmVyX3RpbWU9Mi8xOS8yMDI2IDExOjQ2OjMyIFBNJmhhc2hfdmFsdWU9TTJ2YktTS3Bla2hDeVNLRXNzNW1UQT09JnZhbGlkbWludXRlcz0xJmlkPTIy
-#EXTINF:-1 group-title="VOLLEYBALL", XT| 8G00 20/02: LOVB Houston W - Atlanta W
-https://d302.soft4game.com/o22/stream555/o/stream555/chunks.m3u8?nimblesessionid=36229018&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMTE6Mzc6NDkgQU0maGFzaF92YWx1ZT1KQllLSXFrenhpSi9iMXQ4Um5uakt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", XT| PVF: Orlando Valkyries (w) - Atlanta (w)
-https://d302.soft4game.com/o22/stream212/o/stream212/chunks.m3u8?nimblesessionid=36210128&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMToxOTozNCBBTSZoYXNoX3ZhbHVlPTlLN3RnTFFsWjd6VjlWSXc1b2lJUmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-#EXTINF:-1 group-title="VOLLEYBALL", XT| PVF: Ignite (w) - Grand Rapids Rise (w)
-https://d302.soft4game.com/o22/stream202/o/stream202/chunks.m3u8?nimblesessionid=36210190&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMToyMDo0MiBBTSZoYXNoX3ZhbHVlPVZ4dnVpNytPN08zUHJYVkoxR0NUL3c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-#EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: SESI Voley Bauru (w) - Dentil Praia Clube (w)
-https://d302.soft4game.com/o22/stream173/s/stream173/chunks.m3u8?nimblesessionid=36210039&wmsAuthSign=c2VydmVyX3RpbWU9Mi83LzIwMjYgMToxODowMiBBTSZoYXNoX3ZhbHVlPTl0aFc0R3IzZVFqZ2FObDJPcHMzN1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-#EXTINF:-1 group-title="VOLLEYBALL", XT| Superliga Women: 07:30 06/02 OSASCO vs MARINGA
-https://d302.soft4game.com/o22/stream174/s/stream174/chunks.m3u8?nimblesessionid=36136632&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0NzozMiBBTSZoYXNoX3ZhbHVlPXlLRk5hNm9ISko1OFZNMUxqTFlRRkE9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-#EXTINF:-1 group-title="VOLLEYBALL", XT| LOVB Women: 08:00 06/02 Madison (w) - LOVB Salt Lake (w)
-https://d302.soft4game.com/o22/stream169/o/stream169/chunks.m3u8?nimblesessionid=36136533&wmsAuthSign=c2VydmVyX3RpbWU9Mi82LzIwMjYgMTo0NDo0MSBBTSZoYXNoX3ZhbHVlPWpRZ25EaDFLdVVIS2hXTkhEdlhtc1E9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
-#EXTINF:-1 group-title="VOLLEYBALL", XT| MLV Women: 08:00 05/02 DALLAS PULSE vs OMAHA SUPERNOVAS
-https://saoke.cdn.khmer-hd.com/x8y1/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", XT| DAVIS CUP
-https://saoke.cdn.khmer-hd.com/x21y1/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", XT| DAVID CUP
-https://saoke.cdn.khmer-hd.com/x11y11/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", XT| PVL 
-https://saoke.cdn.khmer-hd.com/x10y1/playlist.m3u8
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -255,6 +301,8 @@ https://7pal.short.gy/skyspt1nz
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 5 
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="TENNIS", TSN4
+https://a1xs.vip/6000004
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="TENNIS", TENNIS CLASSIC
@@ -306,8 +354,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA A
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA B
-https://live.quechoacdn.live/41ba827db6f7fc8006a763bf2b7302ce/blv3/hls_blv3/index.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA C
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", BÚN CHẢ
 https://live10.watchsoccerlivenews.net/live/buncha_key/playlist.m3u8|Referer=https://hoadaotv.org/
@@ -813,6 +859,7 @@ http://79.127.207.193:80/TringSport2HD/playlist.m3u8
 
 #EXTINF:-1 group-title="EU | SPORT HD",ArenaSport 1
 http://195.26.87.150/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="EU | SPORT HD", astro Football
 #EXTINF:-1 group-title="EU | SPORT HD", BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", AFREECA TV
@@ -864,8 +911,9 @@ https://7pal.short.gy/tntspts3
 #EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 4
 https://7pal.short.gy/tntspts4
 #EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 5
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157975.ts
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+#EXTINF:-1 group-title="EU | SPORT HD", TSN5
+https://a1xs.vip/6000005
 #EXTINF:-1 group-title="EU | SPORT HD", REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORT HD", SNY
@@ -884,6 +932,34 @@ http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
 https://7pal.short.gy/skspmaine
 #EXTINF:-1 group-title="EU | SPORT HD", Sky SPORTS UHD F1
 https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="EU | SPORT HD",UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 group-title="EU | SPORT HD",UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports F1 FHD
+https://a1xs.vip/2000005
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Mix FHD
+https://a1xs.vip/2000008
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Racing FHD
+https://a1xs.vip/2000010
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports+ FHD
+https://a1xs.vip/2000012
+#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Tennis FHD
+https://a1xs.vip/2000013
 
 #EXTINF:-1 group-title="MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -895,38 +971,36 @@ https://live.fptplay53.net/fnxhd2/kixhd_vhls.smil/chunklist.m3u8
 https://newidco-rakutenviki-2-eu.rakuten.wurl.tv/playlist.m3u8
 #EXTINF:-1 group-title="MOVIES", RAKUTEN TV
 https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/master/0547f18649bd788bec7b67b746e47670f558b6b2/production-LiveChannel-5983/master.m3u8
-#EXTINF:-1 group-title="MOVIES", WOMEN TV
-https://fl31.moveonjoy.com/SHOWTIME_WOMEN/index.m3u8
-#EXTINF:-1 group-title="MOVIES", CINEMAX
-https://fl31.moveonjoy.com/CINEMAX/index.m3u8
-#EXTINF:-1 group-title="MOVIES", STAR MOVIES
-https://fl1.moveonjoy.com/STARZ/index.m3u8
-#EXTINF:-1 group-title="MOVIES", SONY CHANNEL
-https://fl31.moveonjoy.com/Sony_Movie_Channel/index.m3u8
 #EXTINF:-1 group-title="MOVIES", FX MOVIES
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES", MOVIE BOX
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 group-title="MOVIES", Box Movie 1
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-https://toiyeuvietnam.dpdns.org/Start/VMT678_BoxMovie1
-#EXTINF:-1 group-title="MOVIES", Hollywood Classics
-https://toiyeuvietnam.dpdns.org/Start/VMT678_HW
-#EXTINF:-1 group-title="MOVIES", In The Box
-https://toiyeuvietnam.dpdns.org/Start/VMT567_InTheBox
-#EXTINF:-1 group-title="MOVIES", Box Hits
-https://toiyeuvietnam.dpdns.org/Start/VMT456_BoxHit
-#EXTINF:-1 group-title="MOVIES", HBO 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/NguonOnliveTV/hbo/ToChaThangVThanh
-#EXTINF:-1 group-title="MOVIES", HBO Family
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
-#EXTINF:-1 group-title="MOVIES", HBO Signature
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
+https://toiyeuvietnam.dpdns.org/OnliveTV/box-movie-1-hd/Free.m3u8
+#EXTINF:-1 group-title="MOVIES", Hollywood Classics
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/hollywood-classic-hd/Free.m3u8
+#EXTINF:-1 group-title="MOVIES", In The Box
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/in-the-box/Free.m3u8
+#EXTINF:-1 group-title="MOVIES", Box Hits
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT: http-referrer=https://hoiquan.click/
+https://toiyeuvietnam.dpdns.org/OnliveTV/box-hits/Free.m3u8
 
+
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
+https://vip.opstream90.com/20260225/25764_7bd89d30/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Back to the Past: TẦM TẦN KÝ
 https://vip.opstream90.com/20260222/25568_07b6b142/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Exit Protocol: THOÁT KHỎI GIAO THỨC
+https://vip.opstream90.com/20260218/25330_a320d0ae/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", Misdirection: BẪY NGẦM
+https://vip.opstream90.com/20260224/25750_d717e27d/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", GREENLAND: THẢM HỌA THIÊN THẠCH
 https://vip.opstream14.com/20220320/1900_bb756cdc/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", ANACONDA: ĐỤNG ĐỘ SIÊU TRĂN
@@ -963,119 +1037,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR | SPORTS",AD Sport Premium 1
-http://acces4k.info:8089/live/1256890450567/3724705289264/476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR | SPORTS",AD Sport Premium 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Abu Dhabi Sport 1" tvg-logo="http://5.135.139.24/cover/logochannel/adsport1.jpg" group-title="AR | SPORTS",sport | AR: Abu Dhabi Sport 1
-http://acces4k.info:8089/live/1256890450567/3724705289264/465.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Abu Dhabi Sport 2" tvg-logo="http://5.135.139.24/cover/logochannel/adsport2.jpg" group-title="AR | SPORTS",sport | AR: Abu Dhabi Sport 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/594.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS1" tvg-logo="http://acces4k.info:8089/logo/chn/5002.jpg" group-title="AR | SPORTS",ALKASS1
-http://acces4k.info:8089/live/1256890450567/3724705289264/5002.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS2" tvg-logo="http://acces4k.info:8089/logo/chn/5003.jpg" group-title="AR | SPORTS",ALKASS2
-http://acces4k.info:8089/live/1256890450567/3724705289264/5003.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS3" tvg-logo="http://acces4k.info:8089/logo/chn/5004.jpg" group-title="AR | SPORTS",ALKASS3
-http://acces4k.info:8089/live/1256890450567/3724705289264/5004.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALKASS4" tvg-logo="http://acces4k.info:8089/logo/chn/5005.jpg" group-title="AR | SPORTS",ALKASS4
-http://acces4k.info:8089/live/1256890450567/3724705289264/5005.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN WORLD CUP" tvg-logo="http://acces4k.info:8089/logo/chn/4055.png" group-title="AR | SPORTS",ALWAN WORLD CUP
-http://acces4k.info:8089/live/1256890450567/3724705289264/4055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ALWAN WORLD CUP" tvg-logo="http://acces4k.info:8089/logo/chn/4055.png" group-title="AR | SPORTS",ALWAN WORLD CUP
-http://acces4k.info:8089/live/1256890450567/3724705289264/4055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Al Ahly Tv" tvg-logo="http://5.135.139.24/cover/logochannel/alahly.jpg" group-title="AR | SPORTS",sport | AR: Al Ahly Tv
-http://acces4k.info:8089/live/1256890450567/3724705289264/602.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Al Heddaf TV" tvg-logo="https://multiacs.com/logo/sportarab/El_Heddaf_TV.jpg" group-title="AR | SPORTS",sport | AR: Al Heddaf TV
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675639.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 1 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORTS",BeIN sport Extra 1
-http://acces4k.info:8089/live/1256890450567/3724705289264/826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 2 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORTS",BeIN sport Extra 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cameo sport" tvg-logo="http://acces4k.info:8089/logo/chn/390.jpg" group-title="AR | SPORTS",Cameo sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cameo sport" tvg-logo="http://acces4k.info:8089/logo/chn/390.jpg" group-title="AR | SPORTS",Cameo sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/390.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="***** CHAINES SPORT AR " tvg-logo="http://acces4k.info:8089/logo/cat/9.png" group-title="AR | SPORTS", CHAINES SPORT AR *****
-http://acces4k.info:8089/live/1256890450567/3724705289264/0.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Dubai Sport 3" tvg-logo="http://5.135.139.24/cover/logochannel/dubaisport.jpg" group-title="AR | SPORTS",sport | AR: Dubai Sport 3
-http://acces4k.info:8089/live/1256890450567/3724705289264/5873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Dubai Sport 2" tvg-logo="http://5.135.139.24/cover/logochannel/dubaisport.jpg" group-title="AR | SPORTS",sport | AR: Dubai Sport 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/1276.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Kuwait Sport Plus" tvg-logo="https://multiacs.com/logo/sportarab/logo_sport_kuwaim3u8port.jpg" group-title="AR | SPORTS",sport | AR: Kuwait Sport Plus
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675662.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Libya Sport 1" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",sport | AR: Libya Sport 1
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675641.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Libya Sport 2" tvg-logo="https://multiacs.com/logo/sportarab/libyasport.jpg" group-title="AR | SPORTS",sport | AR: Libya Sport 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675642.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | SPORTS",sport | AR: Nile Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675668.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Nile Sport" tvg-logo="http://5.135.139.24/cover/logochannel/nilesport.jpg" group-title="AR | SPORTS",sport | AR: Nile Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/421.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: ON TIME SPORT" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR | SPORTS",sport | AR: ON TIME SPORT 1
-http://acces4k.info:8089/live/1256890450567/3724705289264/5144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: ON TIME Sport 2" tvg-logo="http://5.135.139.24/cover/ontimesport.jpg" group-title="AR | SPORTS",sport | AR: ON TIME SPORT 2
-http://acces4k.info:8089/live/1256890450567/3724705289264/74302.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Palestine Sport" tvg-logo="https://multiacs.com/logo/sportarab/Palestine%20Sport.png" group-title="AR | SPORTS",sport | AR: Palestine Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675645.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Palestine Sport" tvg-logo="https://multiacs.com/logo/sportarab/Palestine%20Sport.png" group-title="AR | SPORTS",sport | AR: Palestine Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675656.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: RealMadrid TV" tvg-logo="https://multiacs.com/logo/sportarab/RealMadrid%20TV.jpg" group-title="AR | SPORTS",sport | AR: RealMadrid TV
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675651.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Saudi 24 Sport" tvg-logo="https://multiacs.com/logo/sportarab/Saudi%2024%20Sport.jpg" group-title="AR | SPORTS",sport | AR: Saudi 24 Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675630.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Saudi 24 Sport" tvg-logo="https://multiacs.com/logo/sportarab/Saudi%2024%20Sport.jpg" group-title="AR | SPORTS",sport | AR: Saudi 24 Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675664.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Yas Sport" tvg-logo="https://multiacs.com/logo/sportarab/yastv.png" group-title="AR | SPORTS",sport | AR: Yas Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675649.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Zamalek Sport" tvg-logo="https://multiacs.com/logo/sportarab/Zamalek_TV.jpg" group-title="AR | SPORTS",sport | AR: Zamalek Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675636.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="sport | AR: Zamalek Sport" tvg-logo="https://multiacs.com/logo/sportarab/Zamalek_TV.jpg" group-title="AR | SPORTS",sport | AR: Zamalek Sport
-http://acces4k.info:8089/live/1256890450567/3724705289264/85675665.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR | SPORT SD",AD Sport Premium 1 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR | SPORT SD",AD Sport Premium 2 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/473.m3u8
-#EXTINF:-1 tvg-id="beIN sport 1 FR" tvg-name="beIN sport 1 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 1 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54909.m3u8
-#EXTINF:-1 tvg-id="beIN sport 2 FR" tvg-name="beIN sport 2 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 2 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54910.m3u8
-#EXTINF:-1 tvg-id="beIN sport 3 FR" tvg-name="beIN sport 3 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 3 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54911.m3u8
-#EXTINF:-1 tvg-id="beIN sport 1 FR" tvg-name="beIN sport 4SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 4 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54913.m3u8
-#EXTINF:-1 tvg-id="BS6HD" tvg-name="beIN sport 5 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 5 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54914.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="beIN sport 6 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 6 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/79815.m3u8
-#EXTINF:-1 tvg-id="BS4HD" tvg-name="beIN sport 7 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 7 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54912.m3u8
-#EXTINF:-1 tvg-id="BS7HD" tvg-name="beIN sport 8 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 8 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54915.m3u8
-#EXTINF:-1 tvg-id="BS8HD" tvg-name="beIN sport 9 SD" tvg-logo="http://5.135.139.24/cover/logochannel/logochannel/Abiensport.png" group-title="AR | SPORT SD",beIN sport 9 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/54916.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 1 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT SD",BeIN sport Extra 1 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/826.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="BeIN sport Extra 2 SD" tvg-logo="http://5.135.139.24/cover/beinmax.jpg" group-title="AR | SPORT SD",BeIN sport Extra 2 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/827.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 1 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium1.jpg" group-title="AR | SPORT SD",AD Sport Premium 1 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/476.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="AD Sport Premium 2 SD" tvg-logo="http://multiacs.com/logo/sportarab/ADSportPremium2.jpg" group-title="AR | SPORT SD",AD Sport Premium 2 SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/473.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="StarzPlay Sport SD" tvg-logo="http://multiacs.com/logo/sportarab/StarzPlaySport%20.png" group-title="AR | SPORT SD",StarzPlay Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/470.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692689.jpg" group-title="AR | SPORT SD",Thamanya 1 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 1 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692689.jpg" group-title="AR | SPORT SD",Thamanya 1 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692689.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692690.jpg" group-title="AR | SPORT SD",Thamanya 2 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 2 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692690.jpg" group-title="AR | SPORT SD",Thamanya 2 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692690.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692691.jpg" group-title="AR | SPORT SD",Thamanya 3 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692691.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Thamanya 3 Sport SD" tvg-logo="http://acces4k.info:8089/logo/chn/85692691.jpg" group-title="AR | SPORT SD",Thamanya 3 Sport SD
-http://acces4k.info:8089/live/1256890450567/3724705289264/85692691.m3u8
-
