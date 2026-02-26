@@ -213,6 +213,12 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live1
+https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Live 4
+https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  TV360 Promo
+https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 9
@@ -221,6 +227,62 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+
+#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
+#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://freem3u.xyz/api/live/play.m3u8?vid=201
+#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3 - SEE TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
+#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
+#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTVLCOPT:http-user-agent=VThanhTivi
+https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp", SCTV7 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
+#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
+#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
+https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
+#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
+#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png", SCTV12 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
+#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
+#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
+#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
+https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
+#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png", SCTV19 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png", SCTV20 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22 HD
+https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+
 
 
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
@@ -264,6 +326,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="VOLLEYBALL", League One Volleyball: LOVB
 https://a1xs.vip/1100020
 
@@ -682,280 +746,346 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 #EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="Thể Thao", Arena Fight HD
-http://79.127.207.193:80/ArenaFight/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="Thể Thao", Arena Premium 1 HD
-http://79.127.207.193:80/ArenaPremiumHR1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="Thể Thao", Arena Premium 2 HD
-http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="Thể Thao", Arena Premium 3 HD
-http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsn4wz1643206149.png" group-title="Thể Thao", Arena Sport 1 HD
-http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="Thể Thao", Arena Sport 2 HD
-http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hugsy31643206186.png" group-title="Thể Thao", Arena Sport 3 HD
-http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mn99a31643206204.png" group-title="Thể Thao", Arena Sport 4 HD
-http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="Thể Thao", Arena Sport 5 HD
-http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png" group-title="Thể Thao", Arena Sport 6 HD
-http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1kc26o1643205642.png" group-title="Thể Thao", Arena Sport 7 HD
-http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png" group-title="Thể Thao", Arena Sport 9 HD
-http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wntrz71643205857.png" group-title="Thể Thao", Arena Sport 10 HD
-http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="Thể Thao", Art Sport 1 HD
-http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="Thể Thao", Art Sport 2 HD
-http://79.127.207.193:80/ArtSport2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="Thể Thao", Art Sport 3 HD
-http://79.127.207.193:80/ArtSport3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="Thể Thao", Art Sport 4 HD
-http://79.127.207.193:80/ArtSport4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="Thể Thao", Art Sport 5 HD
-http://79.127.207.193:80/ArtSport5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="Thể Thao", Art Sport 6 HD
-http://79.127.207.193:80/ArtSport6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="Thể Thao", BAND HD
-https://02.arlivre.online/band/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="Thể Thao", BAND Sport HD
-https://02.arlivre.online/bandsport/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="Thể Thao", Combate HD
-https://02.arlivre.online/combate/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="Thể Thao", Espn 2 HD
-https://02.arlivre.online/espn2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="Thể Thao", Espn 3 HD
-https://02.arlivre.online/espn3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="Thể Thao", Espn 4 HD
-https://02.arlivre.online/espn4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="Thể Thao", Espn HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn HD
 https://02.arlivre.online/espn/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.worldvectorlogo.com/logos/eurosport-1-logo-2015.svg" group-title="Thể Thao", Euro Sport 1 HD
-http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="Thể Thao", Euro Sport 2 HD
-http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="Thể Thao", Fight Network HD
-http://79.127.207.193:80/FightNetwork/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="Thể Thao", GLOBO SP HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 2 HD
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 3 HD
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 4 HD
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: GLOBO SP HD
 https://02.arlivre.online/globosp/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="Thể Thao", History 2 HD
-https://02.arlivre.online/history2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AIBCNjg.png" group-title="Thể Thao", KSport 1 HD
-http://79.127.207.193:80/KSport1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AgJVcFV.png" group-title="Thể Thao", KSport 2 HD
-http://79.127.207.193:80/KSport2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lws2hMt.png" group-title="Thể Thao", KSport 3 HD
-http://79.127.207.193:80/KSport3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0UNEZpU.png" group-title="Thể Thao", KSport 4 HD
-http://79.127.207.193:80/KSport4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 1 HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 1 HD
 https://02.arlivre.online/pre1/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 2 HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 2 HD
 https://02.arlivre.online/pre2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 3 HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 3 HD
 https://02.arlivre.online/pre3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 4 HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 4 HD
 https://02.arlivre.online/pre4/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="Thể Thao", PREMIERE 5 HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 5 HD
 https://02.arlivre.online/pre5/index.m3u8
-
-#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="Thể Thao", Rai Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="Thể Thao", RTSH Sport HD
-http://79.127.207.193:80/RTSHSport/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="Thể Thao", SBT HD
-https://02.arlivre.online/sbt/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SPACE_91.png/revision/latest/scale-to-width-down/250?cb=20190507161026" group-title="Thể Thao", SPACE HD
-https://02.arlivre.online/space/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="Thể Thao", SporTV 2 HD
-https://02.arlivre.online/sportv2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="Thể Thao", SporTV 3 HD
-https://02.arlivre.online/sportv3/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="Thể Thao", SporTV HD
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV HD
 https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV 2 HD
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV 3 HD
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN1
+https://a1xs.vip/6000001
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN2
+https://a1xs.vip/6000002
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN3
+https://a1xs.vip/6000003
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN4
+https://a1xs.vip/6000004
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN5
+https://a1xs.vip/6000005
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet Ontario FHD
+https://a1xs.vip/6000011
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet One FHD
+https://a1xs.vip/6000012
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet World FHD
+https://a1xs.vip/6000013
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet 360 FHD
+https://a1xs.vip/6000014
+#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet West
+https://a1xs.vip/6000015
+#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN HD
+https://a1xs.vip/40000011
+#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN2 HD
+https://a1xs.vip/40000012
+#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPNU HD
+https://a1xs.vip/40000013
+#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN News HD
+https://a1xs.vip/40000014
+#EXTINF:-1 group-title="NSA | SPORT HD", US: SEC Network HD
+https://a1xs.vip/40000015
+#EXTINF:-1 group-title="NSA | SPORT HD", US: ACC Network HD
+https://a1xs.vip/40000016
+#EXTINF:-1 group-title="NSA | SPORT HD", US: MLB Network
+https://a1xs.vip/40000030
+#EXTINF:-1 group-title="NSA | SPORT HD", US: NBA TV
+https://a1xs.vip/40000031
+#EXTINF:-1 group-title="NSA | SPORT HD", US: NFL Network
+https://a1xs.vip/40000032
+#EXTINF:-1 group-title="NSA | SPORT HD", US: NFL RedZone
+https://a1xs.vip/40000033
+#EXTINF:-1 group-title="NSA | SPORT HD", US: NHL Network
+https://a1xs.vip/40000034
+#EXTINF:-1 group-title="NSA | SPORT HD", US: Marquee Sports Network 
+https://a1xs.vip/4000010
+#EXTINF:-1 group-title="NSA | SPORT HD", US: Willow Cricket FHD
+https://a1xs.vip/40000042
+#EXTINF:-1 group-title="NSA | SPORT HD", US: Willow Cricket Xtra
+https://a1xs.vip/40000043
+#EXTINF:-1 group-title="NSA | SPORT HD", US: Tennis Channel FHD
+https://a1xs.vip/40000040
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Billiards+ TV
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
+#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports Network
+https://a1xs.vip/4000008
+#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports Golazo Network
+https://a1xs.vip/4000009
+#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports HQ FHD
+https://a1xs.vip/4000007
+#EXTINF:-1 group-title="NSA | SPORT HD", US: NESN UHD
+https://a1xs.vip/4000080
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Peacock Premier League TV
+https://a1xs.vip/1100021
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: PICKLE TV 
+https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS CHANNEL
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS + 
+https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS CLASSIC
+https://amg01470-amg01470c1-freeEU | SPORTS HDs-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-EU | SPORTStvclassics-freeEU | SPORTS HDsemea/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXdVDis.png" group-title="Thể Thao", Super Sport 1 HD
+
+#EXTINF:-1 group-title="EU | SPORTS HD", AU: REDBULL TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG: Max Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
+#EXTINF:-1 group-title="EU | SPORTS HD", BG: Max Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
+#EXTINF:-1 group-title="EU | SPORTS HD", BG: Max Sport 4
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ: NovaSport 1
+http://195.26.87.150/NovaSport1/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: Sportdigital Fussball FHD
+https://a1xs.vip/120001
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: Sky Sport Bundesliga FHD
+https://a1xs.vip/120002
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: Sky Sport Top Event FHD
+https://a1xs.vip/120003
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: Sky Sport Premier League FHD
+https://a1xs.vip/120004
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: SPORT.2
+https://pepsi.abntv.live/hls/4spstream.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: SPORT.3
+https://pepsi3.abntv.live/hls/psp3.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", DE: SPORT.4
+https://pepsi4.abntv.live/hls/psp4.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", FR: Canal+ Foot
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
+#EXTINF:-1 group-title="EU | SPORTS HD", FR: Canal+ Sport
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
+#EXTINF:-1 group-title="EU | SPORTS HD", FR: EUROSPORTS 1 
+http://151.80.18.177:86/Eurosport_HD/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", FR: EUROSPORTS 2
+http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", IRE: Premier Sports 1 FHD
+https://a1xs.vip/8000021
+#EXTINF:-1 group-title="EU | SPORTS HD", IRE: Premier Sports 2 FHD
+https://a1xs.vip/8000022
+#EXTINF:-1 group-title="EU | SPORTS HD", IT: Rai Sport HD
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport FHD
+https://a1xs.vip/140001
+#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 2 FHD
+https://a1xs.vip/140002
+#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 3 FHD
+https://a1xs.vip/140003
+#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 4 FHD
+https://a1xs.vip/140004
+#EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 1
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
+#EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 2
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+#EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 3
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="EU | SPORTS HD", SB: ArenaSport 1
+http://195.26.87.150/ArenaSport1/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", TR: SPORTS TUR TV
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: TNT SPORTS 1
+https://7pal.short.gy/tntspts1
+#EXTINF:-1 group-title="EU | SPORTS HD", UK:  TNT SPORTS 2
+https://7pal.short.gy/tntspts2
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: TNT SPORTS 3
+https://7pal.short.gy/tntspts3
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: TNT SPORTS 4
+https://7pal.short.gy/tntspts4
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: TNT SPORTS 5
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: STRONGMAN 
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky SPORT 1
+https://7pal.short.gy/skyspt1nz
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky SPORT 3
+https://7pal.short.gy/skyspt3nz
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky SPORT Tennis
+http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky SPORT Main Event
+https://7pal.short.gy/skspmaine
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky SPORTS UHD F1
+https://7pal.short.gy/SSF1uhd
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Main Event UHD
+https://a1xs.vip/2000015
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports F1 UHD
+https://a1xs.vip/2000016
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Main Event FHD
+https://a1xs.vip/2000001
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Premier League FHD
+https://a1xs.vip/2000002
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Football FHD
+https://a1xs.vip/2000003
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports News FHD
+https://a1xs.vip/2000004
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports F1 FHD
+https://a1xs.vip/2000005
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Cricket FHD
+https://a1xs.vip/2000006
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Mix FHD
+https://a1xs.vip/2000008
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Golf FHD
+https://a1xs.vip/2000009
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Racing FHD
+https://a1xs.vip/2000010
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Action FHD
+https://a1xs.vip/2000011
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports+ FHD
+https://a1xs.vip/2000012
+#EXTINF:-1 group-title="EU | SPORTS HD", UK: Sky Sports Tennis FHD
+https://a1xs.vip/2000013
+
+
+#EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 1 FHD
+https://a1xs.vip/1100041
+#EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 2 UHD
+https://a1xs.vip/9000012
+#EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 2 FHD
+https://a1xs.vip/1100042
+#EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 3 FHD
+https://a1xs.vip/1100043
+#EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 4 FHD
+https://a1xs.vip/1100044
+#EXTINF:-1 group-title="EU | SPORTS HD", MA: Astro Football
+https://a1xs.vip/1100032
+#EXTINF:-1 group-title="EU | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", KR: AFREECA TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORTS", Arena Fight HD
+http://79.127.207.193:80/ArenaFight/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wmvrmi1643205486.png" group-title="SPORTS", Arena Premium 1 HD
+http://79.127.207.193:80/ArenaPremiumHR1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/l4y8gt1643205498.png" group-title="SPORTS", Arena Premium 2 HD
+http://79.127.207.193:80/ArenaPremium2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gtlulj1643205508.png" group-title="SPORTS", Arena Premium 3 HD
+http://79.127.207.193:80/ArenaPremium3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fsn4wz1643206149.png" group-title="SPORTS", Arena Sport 1 HD
+http://79.127.207.193:80/ArenaSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/m4cqz91643205540.png" group-title="SPORTS", Arena Sport 2 HD
+http://79.127.207.193:80/ArenaSport2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/hugsy31643206186.png" group-title="SPORTS", Arena Sport 3 HD
+http://79.127.207.193:80/ArenaSport3HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/mn99a31643206204.png" group-title="SPORTS", Arena Sport 4 HD
+http://79.127.207.193:80/ArenaSport4HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/2kuqly1643205772.png" group-title="SPORTS", Arena Sport 5 HD
+http://79.127.207.193:80/ArenaSport5HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/gcy7ct1643205612.png" group-title="SPORTS", Arena Sport 6 HD
+http://79.127.207.193:80/ArenaSport6HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/1kc26o1643205642.png" group-title="SPORTS", Arena Sport 7 HD
+http://79.127.207.193:80/ArenaSport7HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/zuhnap1643205837.png" group-title="SPORTS", Arena Sport 9 HD
+http://79.127.207.193:80/ArenaSport9HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/wntrz71643205857.png" group-title="SPORTS", Arena Sport 10 HD
+http://79.127.207.193:80/ArenaSport10HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/4jcpre1657031942.png" group-title="SPORTS", Art Sport 1 HD
+http://79.127.207.193:80/ArtSport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/fwbqic1657031982.png" group-title="SPORTS", Art Sport 2 HD
+http://79.127.207.193:80/ArtSport2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/n5n1sd1657031998.png" group-title="SPORTS", Art Sport 3 HD
+http://79.127.207.193:80/ArtSport3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/YKroJkR.png" group-title="SPORTS", Art Sport 4 HD
+http://79.127.207.193:80/ArtSport4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Xh3tZ7F.png" group-title="SPORTS", Art Sport 5 HD
+http://79.127.207.193:80/ArtSport5/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/OneWQ24.png" group-title="SPORTS", Art Sport 6 HD
+http://79.127.207.193:80/ArtSport6/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/1r5T6Pw.png" group-title="SPORTS", BAND HD
+https://02.arlivre.online/band/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/EuPvzJe.png" group-title="SPORTS", BAND Sport HD
+https://02.arlivre.online/bandsport/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZPYK5jr.png" group-title="SPORTS", Combate HD
+https://02.arlivre.online/combate/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/bf/ESPN2_logo.svg/512px-ESPN2_logo.svg.png" group-title="SPORTS", Espn 2 HD
+https://02.arlivre.online/espn2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/ESPN3_Logo.png/512px-ESPN3_Logo.png" group-title="SPORTS", Espn 3 HD
+https://02.arlivre.online/espn3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/78/ESPN_4_logo.svg/512px-ESPN_4_logo.svg.png" group-title="SPORTS", Espn 4 HD
+https://02.arlivre.online/espn4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png" group-title="SPORTS", Espn HD
+https://02.arlivre.online/espn/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn.worldvectorlogo.com/logos/eurosport-1-logo-2015.svg" group-title="SPORTS", Euro Sport 1 HD
+http://79.127.207.193:80/Eurosport1HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d0/Eurosport_2_Logo_2015.png" group-title="SPORTS", Euro Sport 2 HD
+http://79.127.207.193:80/Eurosport2HD/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Fight_network_logo.svg/1280px-Fight_network_logo.svg.png" group-title="SPORTS", Fight Network HD
+http://79.127.207.193:80/FightNetwork/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co/WGXHDnF/logo-ge-fast.png" group-title="SPORTS", GLOBO SP HD
+https://02.arlivre.online/globosp/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/History2_logo_%282022%29.svg/512px-History2_logo_%282022%29.svg.png" group-title="SPORTS", History 2 HD
+https://02.arlivre.online/history2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AIBCNjg.png" group-title="SPORTS", KSport 1 HD
+http://79.127.207.193:80/KSport1/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/AgJVcFV.png" group-title="SPORTS", KSport 2 HD
+http://79.127.207.193:80/KSport2/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/Lws2hMt.png" group-title="SPORTS", KSport 3 HD
+http://79.127.207.193:80/KSport3/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/0UNEZpU.png" group-title="SPORTS", KSport 4 HD
+http://79.127.207.193:80/KSport4/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 1 HD
+https://02.arlivre.online/pre1/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 2 HD
+https://02.arlivre.online/pre2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 3 HD
+https://02.arlivre.online/pre3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 4 HD
+https://02.arlivre.online/pre4/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png" group-title="SPORTS", PREMIERE 5 HD
+https://02.arlivre.online/pre5/index.m3u8
+#EXTINF:1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b3/Rai_Sport_-_Logo_2022.svg" group-title="SPORTS", Rai Sport HD
+http://79.127.207.193:80/RaiSport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/wMrtS1qZ/rtshsport.png" group-title="SPORTS", RTSH Sport HD
+http://79.127.207.193:80/RTSHSport/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/tc1ALuu.png" group-title="SPORTS", SBT HD
+https://02.arlivre.online/sbt/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/72/SPACE_91.png/revision/latest/scale-to-width-down/250?cb=20190507161026" group-title="SPORTS", SPACE HD
+https://02.arlivre.online/space/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/pBiUnb2.png" group-title="SPORTS", SporTV 2 HD
+https://02.arlivre.online/sportv2/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/mWOR8pi.png" group-title="SPORTS", SporTV 3 HD
+https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/gr9x3z71/Spor-TV-2021.png" group-title="SPORTS", SporTV HD
+https://02.arlivre.online/sportv/index.m3u8
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/KXdVDis.png" group-title="SPORTS", Super Sport 1 HD
 http://79.127.207.193:80/Supersport1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dz2P72Mx/supersport2.png" group-title="Thể Thao", Super Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/Dz2P72Mx/supersport2.png" group-title="SPORTS", Super Sport 2 HD
 http://79.127.207.193:80/Supersport2/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7ySFzl.png" group-title="Thể Thao", Super Sport 3 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/c7ySFzl.png" group-title="SPORTS", Super Sport 3 HD
 http://79.127.207.193:80/Supersport3/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZF70zIL.png" group-title="Thể Thao", Super Sport 4 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/ZF70zIL.png" group-title="SPORTS", Super Sport 4 HD
 http://79.127.207.193:80/Supersport4/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ly2J9P.png" group-title="Thể Thao", Super Sport 5 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/8ly2J9P.png" group-title="SPORTS", Super Sport 5 HD
 http://79.127.207.193:80/Supersport5/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qIYK2nF.png" group-title="Thể Thao", Super Sport 6 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/qIYK2nF.png" group-title="SPORTS", Super Sport 6 HD
 http://79.127.207.193:80/Supersport6/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d3T85DhV/supersport7.png" group-title="Thể Thao", Super Sport 7 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.postimg.cc/d3T85DhV/supersport7.png" group-title="SPORTS", Super Sport 7 HD
 http://79.127.207.193:80/Supersport7/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="Thể Thao", TNT HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d3/TNT_Sports_2021_logo.svg/512px-TNT_Sports_2021_logo.svg.png" group-title="SPORTS", TNT HD
 https://02.arlivre.online/tnt/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u5MxGbS.png" group-title="Thể Thao", Tring Sport 1 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://i.imgur.com/u5MxGbS.png" group-title="SPORTS", Tring Sport 1 HD
 http://79.127.207.193:80/TringSport1HD/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png" group-title="Thể Thao", Tring Sport 2 HD
+#EXTINF:-1 tvg-id="" tvg-logo="https://cdn-0.tvprofil.com/cdn/100x40/4/img/kanali-logo/Tring_Sport_2_HD_AL_logo.png" group-title="SPORTS", Tring Sport 2 HD
 http://79.127.207.193:80/TringSport2HD/playlist.m3u8
 
-#EXTINF:-1 group-title="EU | SPORT HD",ArenaSport 1
-http://195.26.87.150/ArenaSport1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", astro Football
-#EXTINF:-1 group-title="EU | SPORT HD", BEIN SPORTS XTRA ESP 4K 
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", AFREECA TV
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", Billiards+ TV
-https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="EU | SPORT HD", Canal+ Foot
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
-#EXTINF:-1 group-title="EU | SPORT HD", Canal+ Sport
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1184930&extension=ts&play_token=fHBckk00nW
-#EXTINF:-1 group-title="EU | SPORT HD", ESPN NEWS
-https://fl31.moveonjoy.com/ESPN_NEWS/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", ESPN 2
-https://fl2.moveonjoy.com/ESPN_2/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", EUROSPORTS 1 
-http://151.80.18.177:86/Eurosport_HD/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", EUROSPORTS 2
-http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", Max Sport 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
-#EXTINF:-1 group-title="EU | SPORT HD", Max Sport 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 group-title="EU | SPORT HD", Max Sport 4
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-#EXTINF:-1 group-title="EU | SPORT HD",NovaSport 1
-http://195.26.87.150/NovaSport1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", FOX SPORTS
-https://fl7.moveonjoy.com/FOX_Sports_1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", PICKLE TV 
-https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", Polsat Sport 1
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
-#EXTINF:-1 group-title="EU | SPORT HD", Polsat Sport 2
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 group-title="EU | SPORT HD", Polsat Sport 3
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
-#EXTINF:-1 group-title="EU | SPORT HD", TENNIS CHANNEL
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", TENNIS + 
-https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="EU | SPORT HD", TENNIS CLASSIC
-https://amg01470-amg01470c1-freeEU | SPORT HDs-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-EU | SPORTStvclassics-freeEU | SPORT HDsemea/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 1
-https://7pal.short.gy/tntspts1
-#EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 2
-https://7pal.short.gy/tntspts2
-#EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 3
-https://7pal.short.gy/tntspts3
-#EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 4
-https://7pal.short.gy/tntspts4
-#EXTINF:-1 group-title="EU | SPORT HD", TNT SPORTS 5
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157977.ts
-#EXTINF:-1 group-title="EU | SPORT HD", TSN5
-https://a1xs.vip/6000005
-#EXTINF:-1 group-title="EU | SPORT HD", REDBULL TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", SNY
-https://fl7.moveonjoy.com/SNY/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", SPORTS TUR TV
-http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", STRONGMAN 
-https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1 group-title="EU | SPORT HD", Sky SPORT 1
-https://7pal.short.gy/skyspt1nz
-#EXTINF:-1 group-title="EU | SPORT HD", Sky SPORT 3
-https://7pal.short.gy/skyspt3nz
-#EXTINF:-1 group-title="EU | SPORT HD", Sky SPORT Tennis
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
-#EXTINF:-1 group-title="EU | SPORT HD", Sky SPORT Main Event
-https://7pal.short.gy/skspmaine
-#EXTINF:-1 group-title="EU | SPORT HD", Sky SPORTS UHD F1
-https://7pal.short.gy/SSF1uhd
-#EXTINF:-1 group-title="EU | SPORT HD",UK: Sky Sports Main Event UHD
-https://a1xs.vip/2000015
-#EXTINF:-1 group-title="EU | SPORT HD",UK: Sky Sports F1 UHD
-https://a1xs.vip/2000016
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Main Event FHD
-https://a1xs.vip/2000001
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Premier League FHD
-https://a1xs.vip/2000002
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Football FHD
-https://a1xs.vip/2000003
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports News FHD
-https://a1xs.vip/2000004
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports F1 FHD
-https://a1xs.vip/2000005
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Cricket FHD
-https://a1xs.vip/2000006
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Mix FHD
-https://a1xs.vip/2000008
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Golf FHD
-https://a1xs.vip/2000009
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Racing FHD
-https://a1xs.vip/2000010
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Action FHD
-https://a1xs.vip/2000011
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports+ FHD
-https://a1xs.vip/2000012
-#EXTINF:-1 group-title="EU | SPORT HD",Sky Sports Tennis FHD
-https://a1xs.vip/2000013
 
 #EXTINF:-1 group-title="MOVIES", TVB VIỆT NAM
 https://amg01868-amg01868c3-tvbanywhere-us-4491.playouts.now.amagi.tv/playlist1080p.m3u8
@@ -987,8 +1117,44 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/in-the-box/Free.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/box-hits/Free.m3u8
+#EXTINF:-1 group-title="MOVIES",  HBO
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
+https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
+#EXTINF:-1 group-title="MOVIES", HBO Hits
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
+#EXTINF:-1 group-title="MOVIES", HBO Family
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&extension=ts&play_token=xf9Vl3Lrhl
+#EXTINF:-1 group-title="MOVIES",  HBO Signature HD
+http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="MOVIES", HBO Comedy
 https://a1xs.vip/300005
+#EXTINF:-1 group-title="MOVIES", Sky Atlantic FHD
+https://a1xs.vip/210001
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Hits FHD
+https://a1xs.vip/210002
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Premiere FHD
+https://a1xs.vip/210003
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Select FHD
+https://a1xs.vip/210004
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Action FHD
+https://a1xs.vip/210006
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Family FHD
+https://a1xs.vip/210007
+#EXTINF:-1 group-title="MOVIES", Sky Cinema Comedy FHD
+https://a1xs.vip/210005
+#EXTINF:-1 group-title="MOVIES",  AXN HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
+#EXTINF:-1 group-title="MOVIES", Rock Entertainment
+#EXTVLCOPT:http-user-agent="KIIP"
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
+#EXTINF:-1 group-title="MOVIES", Rock Action
+#EXTVLCOPT:http-user-agent="KIIP"
+http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776183&extension=ts&play_token=FGea90JmbI
+
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
@@ -1035,4 +1201,6 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
+
 
