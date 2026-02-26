@@ -213,43 +213,15 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
-
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360 Live
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 9
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 9
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 10
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 10
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", TV360+ 11
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive1/Free.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive2/Free.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", FPT Live 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/fptlive3/Free.m3u8
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 1
-https://a1xs.vip/ppv1
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 2
-https://a1xs.vip/ppv2
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 3
-https://a1xs.vip/ppv3
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 4
-https://a1xs.vip/ppv4
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 5
-https://a1xs.vip/ppv5
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 6
-https://a1xs.vip/ppv6
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 7
-https://a1xs.vip/ppv7
-#EXTINF:-1 group-title="SỰ KIỆN TRỰC TIẾP", Live Event 8
-https://a1xs.vip/ppv8
+
 
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
@@ -263,6 +235,8 @@ https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
 #EXTINF:-1 group-title="BASKETBALL", BLV A CHÈ
 https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769650533-0-0-a40f3e49005a63422cb28386e86131c3
+#EXTINF:-1 group-title="BASKETBALL", BLV GẤU NÂU
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
@@ -273,9 +247,9 @@ https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="BASKETBALL", TSN1
+#EXTINF:-1 group-title="BASKETBALL", NBA 1
 https://a1xs.vip/6000001
-#EXTINF:-1 group-title="BASKETBALL", TSN2
+#EXTINF:-1 group-title="BASKETBALL", NBA 2
 https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CỤ GIÀ
@@ -290,6 +264,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="VOLLEYBALL", League One Volleyball: LOVB
+https://a1xs.vip/1100020
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -303,6 +279,8 @@ https://7pal.short.gy/tntspts1
 http://151.80.18.177:86/Eurosport_HD/index.m3u8
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 6
 https://a1xs.vip/6000004
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 7
+https://a1xs.vip/140004
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="TENNIS", TENNIS CLASSIC
@@ -343,8 +321,6 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", RICKY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", THIÊN ĐÔ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHOAI TÂY
@@ -355,6 +331,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA B
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5_full-hd.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", QUÊ CHOA C
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", BÚN CHẢ
 https://live10.watchsoccerlivenews.net/live/bunchasd/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHIM NHỎ
@@ -456,41 +434,41 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=h
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 
 
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV CÁ VIÊN
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV CÁ VIÊN
 https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV LÀNG CỒN
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV LÀNG CỒN
 https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV NGƯỜI KIẾN
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NGƯỜI KIẾN
 https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV ỐNG BƠ
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ỐNG BƠ
 https://live.sladdogg.com/OBS/08/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV FANTA
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV FANTA
 https://live.sladdogg.com/OBS/03/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV JACK
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV JACK
 https://live.sladdogg.com/OBS/02/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV ZORRO
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV NAM TÀO
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NAM TÀO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV BẮC ĐẨU
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV BẮC ĐẨU
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_bacdau/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO MÈO
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO MÈO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO XANH
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XANH
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO ZAI
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO ZAI
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO GIÁO DỤC
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIÁO DỤC
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO GIAO THÔNG
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIAO THÔNG
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO KINH TẾ
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO KINH TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO XÃ HỘI
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XÃ HỘI
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO VĂN HÓA
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO VĂN HÓA
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH TOP", BLV TÁO Y TẾ
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO Y TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA 
@@ -1009,6 +987,8 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/in-the-box/Free.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/box-hits/Free.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO Comedy
+https://a1xs.vip/300005
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
@@ -1055,3 +1035,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
