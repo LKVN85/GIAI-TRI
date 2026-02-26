@@ -198,89 +198,89 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 
-#EXTINF:-1 group-title="SCVCab", SCTV1 HD
+#EXTINF:-1 group-title="SCVcab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV2 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 group-title="SCVCab",  SCTV3
+#EXTINF:-1 group-title="SCVcab",  SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV4 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV6 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV7 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV8 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV10
+#EXTINF:-1 group-title="SCVcab",  SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV11 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV12 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV13 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV14 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV16 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV16 HD
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV18 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV19 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV20 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV20 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV21 HD
+#EXTINF:-1 group-title="SCVcab",  SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
-#EXTINF:-1 group-title="SCVCab", SCTV22 HD
+#EXTINF:-1 group-title="SCVcab", SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 group-title="SCVCab",  SCTV Phim Tổng Hợp
+#EXTINF:-1 group-title="SCVcab",  SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
-#EXTINF:-1 group-title="SCVCab", ON VIỆT GIẢI TRÍ
+#EXTINF:-1 group-title="SCVcab", ON VIỆT GIẢI TRÍ
 https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 group-title="SCVCab", ON PHIM VIỆT
+#EXTINF:-1 group-title="SCVcab", ON PHIM VIỆT
 https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 group-title="SCVCab", ON MOVIES
+#EXTINF:-1 group-title="SCVcab", ON MOVIES
 https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 group-title="SCVCab", ON E CHANNEL
+#EXTINF:-1 group-title="SCVcab", ON E CHANNEL
 https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 group-title="SCVCab", ON O2TV
+#EXTINF:-1 group-title="SCVcab", ON O2TV
 https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 group-title="SCVCab", ON BIBI
+#EXTINF:-1 group-title="SCVcab", ON BIBI
 https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 group-title="SCVCab", ON INFO TV
+#EXTINF:-1 group-title="SCVcab", ON INFO TV
 https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 group-title="SCVCab", ON CINE
+#EXTINF:-1 group-title="SCVcab", ON CINE
 https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 group-title="SCVCab", ON STYLE TV
+#EXTINF:-1 group-title="SCVcab", ON STYLE TV
 https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 group-title="SCVCab", ON MUSIC
+#EXTINF:-1 group-title="SCVcab", ON MUSIC
 https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 group-title="SCVCab", ON TRENDING TV
+#EXTINF:-1 group-title="SCVcab", ON TRENDING TV
 https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 group-title="SCVCab", ON VIE DRAMAS
+#EXTINF:-1 group-title="SCVcab", ON VIE DRAMAS
 https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="SCVCab", ON VFAMILY
+#EXTINF:-1 group-title="SCVcab", ON VFAMILY
 https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 group-title="SCVCab", ON KIDS
+#EXTINF:-1 group-title="SCVcab", ON KIDS
 https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 group-title="SCVCab", ON LIFE 
+#EXTINF:-1 group-title="SCVcab", ON LIFE 
 https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
@@ -353,6 +353,7 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
 #EXTINF:-1 group-title="COMBAT", WWE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 http://79.127.207.193:80/ArenaFight/playlist.m3u8
 #EXTINF:-1 group-title="COMBAT", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
@@ -412,7 +413,7 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=ht
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TRÀ ĐÁ
 https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẨY
-https://live10.watchsoccerlivenews.net/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://3046426067.global.cdnfastest.com/live/link-24/index.m3u8|Referer=https://hoadaotv.org/
 
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", XÂY CON
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
@@ -1178,3 +1179,6 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
+
+
