@@ -151,36 +151,6 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON VIỆT GIẢI TRÍ
-https://freem3u.xyz/api/live/play.m3u8?vid=180
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON PHIM VIỆT
-https://freem3u.xyz/api/live/play.m3u8?vid=175
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON MOVIES
-https://freem3u.xyz/api/live/play.m3u8?vid=181
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON E CHANNEL
-https://freem3u.xyz/api/live/play.m3u8?vid=182
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON O2TV
-https://freem3u.xyz/api/live/play.m3u8?vid=136
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON BIBI
-https://freem3u.xyz/api/live/play.m3u8?vid=178
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON INFO TV
-https://freem3u.xyz/api/live/play.m3u8?vid=189
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON CINE
-https://freem3u.xyz/api/live/play.m3u8?vid=176
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON STYLE TV
-https://freem3u.xyz/api/live/play.m3u8?vid=184
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON MUSIC
-https://freem3u.xyz/api/live/play.m3u8?vid=185
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON TRENDING TV
-https://freem3u.xyz/api/live/play.m3u8?vid=186
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON VIE DRAMAS
-https://freem3u.xyz/api/live/play.m3u8?vid=177
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON VFAMILY
-https://freem3u.xyz/api/live/play.m3u8?vid=187
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON KIDS
-https://freem3u.xyz/api/live/play.m3u8?vid=179
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ON LIFE 
-https://freem3u.xyz/api/live/play.m3u8?vid=188
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VIETNAM TODAY
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
@@ -228,60 +198,90 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
 
-#EXTINF:-1 tvg-id="sctv1hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1 HD
+#EXTINF:-1 group-title="SCVCab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV1/03.m3u8
-#EXTINF:-1 tvg-id="sctv2hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 HD - TODAY TV
+#EXTINF:-1 group-title="SCVCab",  SCTV2 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://freem3u.xyz/api/live/play.m3u8?vid=201
-#EXTINF:-1 tvg-id="sctv3hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3 - SEE TV
+#EXTINF:-1 group-title="SCVCab",  SCTV3
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV3/03.m3u8
-#EXTINF:-1 tvg-id="sctv4hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV4 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTV4/03.m3u8
-#EXTINF:-1 tvg-id="sctv6hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV6 HD
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 tvg-id="sctv7hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp", SCTV7 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV7 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV7/03.m3u8
-#EXTINF:-1 tvg-id="sctv8hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV8 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV8/03.m3u8
-#EXTINF:-1 tvg-id="sctv10hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
+#EXTINF:-1 group-title="SCVCab",  SCTV10
 https://liveh34.vtvprime.vn/hls/SCTV10/index.m3u8
-#EXTINF:-1 tvg-id="sctv11hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV11 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV11/03.m3u8
-#EXTINF:-1 tvg-id="sctv12hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png", SCTV12 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV12 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV12/03.m3u8
-#EXTINF:-1 tvg-id="sctv13hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV13 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV13/03.m3u8
-#EXTINF:-1 tvg-id="sctv14hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV14 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV14/03.m3u8
-#EXTINF:-1 tvg-id="sctv16hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV16 HD
 https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
-#EXTINF:-1 tvg-id="sctv18hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV18 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
-#EXTINF:-1 tvg-id="sctv19hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png", SCTV19 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV19 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
-#EXTINF:-1 tvg-id="sctv20hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png", SCTV20 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV20 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
-#EXTINF:-1 tvg-id="sctv21hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 HD
+#EXTINF:-1 group-title="SCVCab",  SCTV21 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
-#EXTINF:-1 tvg-id="sctv22hd" group-title="SCTV" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22 HD
+#EXTINF:-1 group-title="SCVCab", SCTV22 HD
 https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
-#EXTINF:-1 tvg-id="sctvhdpth" group-title="SCTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/ca/SCTVPTH.jpg", SCTV Phim Tổng Hợp
+#EXTINF:-1 group-title="SCVCab",  SCTV Phim Tổng Hợp
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+#EXTINF:-1 group-title="SCVCab", ON VIỆT GIẢI TRÍ
+https://freem3u.xyz/api/live/play.m3u8?vid=180
+#EXTINF:-1 group-title="SCVCab", ON PHIM VIỆT
+https://freem3u.xyz/api/live/play.m3u8?vid=175
+#EXTINF:-1 group-title="SCVCab", ON MOVIES
+https://freem3u.xyz/api/live/play.m3u8?vid=181
+#EXTINF:-1 group-title="SCVCab", ON E CHANNEL
+https://freem3u.xyz/api/live/play.m3u8?vid=182
+#EXTINF:-1 group-title="SCVCab", ON O2TV
+https://freem3u.xyz/api/live/play.m3u8?vid=136
+#EXTINF:-1 group-title="SCVCab", ON BIBI
+https://freem3u.xyz/api/live/play.m3u8?vid=178
+#EXTINF:-1 group-title="SCVCab", ON INFO TV
+https://freem3u.xyz/api/live/play.m3u8?vid=189
+#EXTINF:-1 group-title="SCVCab", ON CINE
+https://freem3u.xyz/api/live/play.m3u8?vid=176
+#EXTINF:-1 group-title="SCVCab", ON STYLE TV
+https://freem3u.xyz/api/live/play.m3u8?vid=184
+#EXTINF:-1 group-title="SCVCab", ON MUSIC
+https://freem3u.xyz/api/live/play.m3u8?vid=185
+#EXTINF:-1 group-title="SCVCab", ON TRENDING TV
+https://freem3u.xyz/api/live/play.m3u8?vid=186
+#EXTINF:-1 group-title="SCVCab", ON VIE DRAMAS
+https://freem3u.xyz/api/live/play.m3u8?vid=177
+#EXTINF:-1 group-title="SCVCab", ON VFAMILY
+https://freem3u.xyz/api/live/play.m3u8?vid=187
+#EXTINF:-1 group-title="SCVCab", ON KIDS
+https://freem3u.xyz/api/live/play.m3u8?vid=179
+#EXTINF:-1 group-title="SCVCab", ON LIFE 
+https://freem3u.xyz/api/live/play.m3u8?vid=188
 
 
 
@@ -326,9 +326,11 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
+https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 group-title="VOLLEYBALL", League One Volleyball: LOVB
+#EXTINF:-1 group-title="VOLLEYBALL", League One Volleyball LOVB
 https://a1xs.vip/1100020
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
@@ -347,8 +349,6 @@ https://a1xs.vip/6000004
 https://a1xs.vip/140004
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="TENNIS", TENNIS CLASSIC
-https://amg01470-amg01470c1-free4K UHDs-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-free4K UHDsemea/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
@@ -452,6 +452,44 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
 
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV CÁ VIÊN
+https://live.sladdogg.com/OBS/11/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV LÀNG CỒN
+https://live.sladdogg.com/OBS/10/index.m3u8 
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NGƯỜI KIẾN
+https://live.sladdogg.com/OBS/04/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ỐNG BƠ
+https://live.sladdogg.com/OBS/05/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV FANTA
+https://live.sladdogg.com/OBS/08/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV JACK
+https://live.sladdogg.com/OBS/02/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ZORRO
+https://live.sladdogg.com/OBS/07/index.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NAM TÀO
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV BẮC ĐẨU
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_bacdau/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO MÈO
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XANH
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO ZAI
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIÁO DỤC
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIAO THÔNG
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO KINH TẾ
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XÃ HỘI
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO VĂN HÓA
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO Y TẾ
+https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
+
+
 #EXTINF:-1 group-title="QUÁN TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
 #EXTINF:-1 group-title="QUÁN TOPTOP", BLV BẢN
@@ -497,43 +535,6 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=h
 #EXTINF:-1 group-title="QUÁN TOPTOP", CỦ HÀNH
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 
-
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV CÁ VIÊN
-https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV LÀNG CỒN
-https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NGƯỜI KIẾN
-https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ỐNG BƠ
-https://live.sladdogg.com/OBS/05/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV FANTA
-https://live.sladdogg.com/OBS/08/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV JACK
-https://live.sladdogg.com/OBS/02/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV ZORRO
-https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV NAM TÀO
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV BẮC ĐẨU
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_bacdau/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO MÈO
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XANH
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO ZAI
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIÁO DỤC
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO GIAO THÔNG
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO KINH TẾ
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO XÃ HỘI
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO VĂN HÓA
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO Y TẾ
-https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
@@ -747,91 +748,89 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn HD
 https://02.arlivre.online/espn/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 2 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 2 HD
 https://02.arlivre.online/espn2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 3 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 3 HD
 https://02.arlivre.online/espn3/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: Espn 4 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 4 HD
 https://02.arlivre.online/espn4/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: GLOBO SP HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: GLOBO SP HD
 https://02.arlivre.online/globosp/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 1 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 1 HD
 https://02.arlivre.online/pre1/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 2 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 2 HD
 https://02.arlivre.online/pre2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 3 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 3 HD
 https://02.arlivre.online/pre3/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 4 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 4 HD
 https://02.arlivre.online/pre4/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: PREMIERE 5 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 5 HD
 https://02.arlivre.online/pre5/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV HD
 https://02.arlivre.online/sportv/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV 2 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV 2 HD
 https://02.arlivre.online/sportv2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", BR: SporTV 3 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV 3 HD
 https://02.arlivre.online/sportv3/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN1
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN1
 https://a1xs.vip/6000001
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN2
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN2
 https://a1xs.vip/6000002
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN3
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN3
 https://a1xs.vip/6000003
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN4
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN4
 https://a1xs.vip/6000004
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: TSN5
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN5
 https://a1xs.vip/6000005
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet Ontario FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: Sportsnet Ontario FHD
 https://a1xs.vip/6000011
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet One FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: Sportsnet One FHD
 https://a1xs.vip/6000012
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet World FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: Sportsnet World FHD
 https://a1xs.vip/6000013
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet 360 FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: Sportsnet 360 FHD
 https://a1xs.vip/6000014
-#EXTINF:-1 group-title="NSA | SPORT HD", CA: Sportsnet West
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA: Sportsnet West
 https://a1xs.vip/6000015
-#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: ESPN HD
 https://a1xs.vip/40000011
-#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN2 HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: ESPN2 HD
 https://a1xs.vip/40000012
-#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPNU HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: ESPNU HD
 https://a1xs.vip/40000013
-#EXTINF:-1 group-title="NSA | SPORT HD", US: ESPN News HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: ESPN News HD
 https://a1xs.vip/40000014
-#EXTINF:-1 group-title="NSA | SPORT HD", US: SEC Network HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: SEC Network HD
 https://a1xs.vip/40000015
-#EXTINF:-1 group-title="NSA | SPORT HD", US: ACC Network HD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: ACC Network HD
 https://a1xs.vip/40000016
-#EXTINF:-1 group-title="NSA | SPORT HD", US: MLB Network
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: MLB Network
 https://a1xs.vip/40000030
-#EXTINF:-1 group-title="NSA | SPORT HD", US: NBA TV
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: NBA TV
 https://a1xs.vip/40000031
-#EXTINF:-1 group-title="NSA | SPORT HD", US: NFL Network
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: NFL Network
 https://a1xs.vip/40000032
-#EXTINF:-1 group-title="NSA | SPORT HD", US: NFL RedZone
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: NFL RedZone
 https://a1xs.vip/40000033
-#EXTINF:-1 group-title="NSA | SPORT HD", US: NHL Network
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: NHL Network
 https://a1xs.vip/40000034
-#EXTINF:-1 group-title="NSA | SPORT HD", US: Marquee Sports Network 
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Marquee Sports Network 
 https://a1xs.vip/4000010
-#EXTINF:-1 group-title="NSA | SPORT HD", US: Willow Cricket FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Willow Cricket FHD
 https://a1xs.vip/40000042
-#EXTINF:-1 group-title="NSA | SPORT HD", US: Willow Cricket Xtra
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Willow Cricket Xtra
 https://a1xs.vip/40000043
-#EXTINF:-1 group-title="NSA | SPORT HD", US: Tennis Channel FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Tennis Channel FHD
 https://a1xs.vip/40000040
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports Network
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: CBS Sports Network
 https://a1xs.vip/4000008
-#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports Golazo Network
-https://a1xs.vip/4000009
-#EXTINF:-1 group-title="NSA | SPORT HD", US: CBS Sports HQ FHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: CBS Sports HQ FHD
 https://a1xs.vip/4000007
-#EXTINF:-1 group-title="NSA | SPORT HD", US: NESN UHD
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: NESN UHD
 https://a1xs.vip/4000080
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: Peacock Premier League TV
 https://a1xs.vip/1100021
@@ -841,8 +840,6 @@ https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS CLASSIC
-https://amg01470-amg01470c1-freeEU | SPORTS HDs-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-EU | SPORTStvclassics-freeEU | SPORTS HDsemea/playlist.m3u8
 
 
 #EXTINF:-1 group-title="EU | SPORTS HD", AU: REDBULL TV
@@ -851,12 +848,10 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31801&extension=ts&play_token=MAaXIbHwPF
 #EXTINF:-1 group-title="EU | SPORTS HD", BG: Max Sport 2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31802&extension=ts&play_token=oKVP0gjuIKp
-#EXTINF:-1 group-title="EU | SPORTS HD", BG: Max Sport 4
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ: NovaSport
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=31804&extension=ts&play_token=h5UuqXNs2K
-#EXTINF:-1 group-title="EU | SPORTS HD", CZ: NovaSport 1
-http://195.26.87.150/NovaSport1/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", DE: Sportdigital Fussball FHD
-https://a1xs.vip/120001
+https://a1xs.vip/120005
 #EXTINF:-1 group-title="EU | SPORTS HD", DE: Sky Sport Bundesliga FHD
 https://a1xs.vip/120002
 #EXTINF:-1 group-title="EU | SPORTS HD", DE: Sky Sport Top Event FHD
@@ -881,7 +876,7 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://a1xs.vip/8000021
 #EXTINF:-1 group-title="EU | SPORTS HD", IRE: Premier Sports 2 FHD
 https://a1xs.vip/8000022
-#EXTINF:-1 group-title="EU | SPORTS HD", IT: Rai Sport HD
+#EXTINF:-1 group-title="EU | SPORTS HD", IT: RAI Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport FHD
 https://a1xs.vip/140001
@@ -953,6 +948,8 @@ https://a1xs.vip/2000012
 https://a1xs.vip/2000013
 
 
+#EXTINF:-1 group-title="AS | SPORTS HD", KR: AFREECA TV
+https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 1 FHD
 https://a1xs.vip/1100041
 #EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 2 UHD
@@ -963,12 +960,10 @@ https://a1xs.vip/1100042
 https://a1xs.vip/1100043
 #EXTINF:-1 group-title="AS | SPORTS HD", SG: Hub Premier 4 FHD
 https://a1xs.vip/1100044
-#EXTINF:-1 group-title="EU | SPORTS HD", MA: Astro Football
+#EXTINF:-1 group-title="AS | SPORTS HD", MA: Astro Football
 https://a1xs.vip/1100032
-#EXTINF:-1 group-title="EU | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
+#EXTINF:-1 group-title="AS | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", KR: AFREECA TV
-https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORTS", Arena Fight HD
@@ -1117,12 +1112,6 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/in-the-box/Free.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/box-hits/Free.m3u8
-#EXTINF:-1 group-title="MOVIES",  HBO
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key={"keys":[{"kty":"oct","k":"PeDzjc8BSCff1b7Dh0PGog","kid":"Cd3+PWOGPK+ut50FRrCYqw"}],"type":"temporary"}
-https://s2129134.cdn.mytvnet.vn/pkg20/live_dzones/hbo.smil/manifest.mpd
 #EXTINF:-1 group-title="MOVIES", HBO Hits
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776088&extension=ts&play_token=DDOOCF3plZ
 #EXTINF:-1 group-title="MOVIES", HBO Family
@@ -1131,30 +1120,18 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776089&exten
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776085&extension=ts&play_token=aEwVlYvLMR
 #EXTINF:-1 group-title="MOVIES", HBO Comedy
 https://a1xs.vip/300005
-#EXTINF:-1 group-title="MOVIES", Sky Atlantic FHD
-https://a1xs.vip/210001
 #EXTINF:-1 group-title="MOVIES", Sky Cinema Hits FHD
 https://a1xs.vip/210002
-#EXTINF:-1 group-title="MOVIES", Sky Cinema Premiere FHD
-https://a1xs.vip/210003
-#EXTINF:-1 group-title="MOVIES", Sky Cinema Select FHD
-https://a1xs.vip/210004
 #EXTINF:-1 group-title="MOVIES", Sky Cinema Action FHD
 https://a1xs.vip/210006
 #EXTINF:-1 group-title="MOVIES", Sky Cinema Family FHD
 https://a1xs.vip/210007
-#EXTINF:-1 group-title="MOVIES", Sky Cinema Comedy FHD
-https://a1xs.vip/210005
 #EXTINF:-1 group-title="MOVIES",  AXN HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 #EXTINF:-1 group-title="MOVIES", Rock Entertainment
 #EXTVLCOPT:http-user-agent="KIIP"
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
-#EXTINF:-1 group-title="MOVIES", Rock Action
-#EXTVLCOPT:http-user-agent="KIIP"
-http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776183&extension=ts&play_token=FGea90JmbI
-
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
@@ -1201,6 +1178,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
-
-
