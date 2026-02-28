@@ -183,10 +183,22 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phim Việt
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT LIVE 4K
+https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  Event 1
+https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 2
+https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  Event 2
+https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Live 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 6
+https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 7
+https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
@@ -489,6 +501,41 @@ https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", BLV TÁO Y TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI ĐÔ
+https://gckc0525.edgemaxcdn.org/live/chuoidoo/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI VÀNG
+https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI TÂY
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI TO
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHỒN
+https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI NƯỚNG
+https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", ZEMAN
+https://gckc0525.edgemaxcdn.org/live/zeman/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 01
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 02
+https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 03
+https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 04
+https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 05
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 06
+https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 07
+https://gckc0525.edgemaxcdn.org/live/m5x7/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 08
+https://gckc0525.edgemaxcdn.org/live/m5x8/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 09
+https://gckc0525.edgemaxcdn.org/live/m5x9/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="THIÊN ĐÌNH 8SPORTS", CHUỐI CHIÊN 10
+https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+
 
 
 #EXTINF:-1 group-title="QUÁN TOPTOP", BLV BÚN 
