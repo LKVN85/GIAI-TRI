@@ -317,9 +317,9 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="BASKETBALL", PHAN MÃO
+#EXTINF:-1 group-title="BASKETBALL", BLV PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="BASKETBALL", PHAN CÁO
+#EXTINF:-1 group-title="BASKETBALL", BLV PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="BASKETBALL", NBA 1
 https://a1xs.vip/6000001
@@ -328,19 +328,17 @@ https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV ALEX
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV GẤU NÂU
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", PHAN HẢI
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PHAN HẢI
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="VOLLEYBALL", PHAN CẬU CẢ
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="VOLLEYBALL", CHUỐI NƯỚNG
+#EXTINF:-1 group-title="VOLLEYBALL", BLV CHUỐI NƯỚNG
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="VOLLEYBALL", ZEMAN
+#EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 https://02.arlivre.online/sportv2/index.m3u8
@@ -395,8 +393,6 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CỤ GIÀ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DƯA HẤU
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", RICKY
@@ -407,6 +403,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh_full-hd.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DƯA HẤU
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LƠ ĐAO
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_7.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", THỊT XIÊN
@@ -436,33 +434,33 @@ https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=http
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẨY
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
 
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV NAM TÀO
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV BẮC ĐẨU
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV BẮC ĐẨU
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_bacdau/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO MÈO
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO MÈO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO XANH
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO XANH
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO TÀU
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO TÀU
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taotau/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO CHÈ
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO CHÈ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoche/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV NGỌC HOÀNG
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NGỌC HOÀNG
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO ZAI
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO ZAI
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO GIÁO DỤC
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO GIÁO DỤC
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaoduc/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO GIAO THÔNG
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO GIAO THÔNG
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taogiaothong/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO KINH TẾ
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO KINH TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO XÃ HỘI
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO XÃ HỘI
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taolu/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO VĂN HÓA
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO VĂN HÓA
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taovanhoa/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH", BLV TÁO Y TẾ
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO Y TẾ
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
 
 
@@ -563,54 +561,56 @@ https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.b
 
 
 
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV BÚN 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV BÚN 
 https://livestream.waebox.com/live/0dq4pt7si9/playlist.m3u8 
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV BẢN
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV BẢN
 https://cdn.xembanh.live/live/65urp2losr/playlist.m3u8
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV ADAM 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV ADAM 
 https://livestream.waebox.com/live/mjap0rrqv8/playlist.m3u8
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV CHAIEN 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV CHAIEN 
 https://livestream.waebox.com/live/yql97itgbl/playlist.m3u8 
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV TÔM MÌ 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV TÔM MÌ 
 https://livestream.waebox.com/live/384vepruzs/playlist.m3u8
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV BED 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV BED 
 https://livestream.waebox.com/live/aklh087186/playlist.m3u8
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV LIL SHADY 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV LIL SHADY 
 https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8 
-#EXTINF:-1 group-title="QUÁN TOPTOP", BLV BÀNG CÒI XƯƠNG 
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", BLV BÀNG CÒI XƯƠNG 
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN CA
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN TÔM
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN TÔM
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", THIÊN LÔI
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", THIÊN LÔI
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN MÃ
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN MÃ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN GẦY
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN GẦY
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN CẬU CẢ
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN HÀ LINH
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN HÀ LINH
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN HEO
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN HEO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN CÁO
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CÁO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN SON
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN SON
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN MÃO
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN CHÈ
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CHÈ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN SẾU
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN PHÉP
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN BÁO
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN SÓC
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", PHAN LONG
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN LONG
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="QUÁN TOPTOP", CỦ HÀNH
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", CỦ HÀNH
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", SÁT THỦ
+https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
