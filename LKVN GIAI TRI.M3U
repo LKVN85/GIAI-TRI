@@ -360,14 +360,20 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 https://a1xs.vip/6000004
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 7
 https://a1xs.vip/140004
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 8
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 9
+https://a1xs.vip/2000013
+#EXTINF:-1 group-title="TENNIS", LIVE TENNIS 10
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="TENNIS", PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="COMBAT", WWE
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-http://79.127.207.193:80/ArenaFight/playlist.m3u8
+
+#EXTINF:-1 group-title="COMBAT", BOXING
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs20
 #EXTINF:-1 group-title="COMBAT", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="COMBAT", MMA
@@ -579,38 +585,38 @@ https://livestream.waebox.com/live/6cjd6zf2ny/playlist.m3u8
 https://livestream.waebox.com/live/pyd441q2l5/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CA
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN TÔM
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", THIÊN LÔI
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN MÃ
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN GẦY
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CÁO
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CẬU CẢ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CHÈ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN GẦY
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN HÀ LINH
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_alexphan/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN HEO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CÁO
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN SON
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN KIẾN
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN LONG
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN MÃ
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN MÃO
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CHÈ
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN PHÉP
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN SÓC
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN LONG
-https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN TÔM
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", CỦ HÀNH
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", SÁT THỦ
 https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", THIÊN LÔI
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
@@ -1041,7 +1047,18 @@ https://a1xs.vip/1100044
 https://a1xs.vip/1100032
 #EXTINF:-1 group-title="AS | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: J Sports 1
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: J Sports 2 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: J Sports 3 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: J Sports 4 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: Nittele G Plus 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
+#EXTINF:-1 group-title="AS | SPORTS HD", JP: Sky A 
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORTS", Arena Fight HD
 http://79.127.207.193:80/ArenaFight/playlist.m3u8
