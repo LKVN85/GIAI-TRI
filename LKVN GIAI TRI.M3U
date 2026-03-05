@@ -209,6 +209,22 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-8/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 7
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-7/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 6
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-6/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 5
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-5/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 4
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-4/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 3
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-3/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 2
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-2/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
 
 
 
@@ -435,8 +451,8 @@ https://live10.watchsoccerlivenews.net/live/meobeo_key/playlist.m3u8|Referer=htt
 https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", HẠT TIÊU
 https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TRÀ ĐÁ
-https://live10.watchsoccerlivenews.net/live/trada_key/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TÁO ĐỎ
+https://live10.watchsoccerlivenews.net/live/taodo_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẨY
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
 
@@ -482,6 +498,8 @@ https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", GIA CÁT DỰ
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_giacatdu/playlist.m3u8
+#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", H+
+https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", HÀN TÍN
 https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", PHI MC
@@ -518,7 +536,7 @@ https://live.sladdogg.com/OBS/04/index.m3u8
 https://live.sladdogg.com/OBS/05/index.m3u8
 #EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV BA KHÍA
 https://live.sladdogg.com/OBS/09/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV FANTA
+#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV ANH BO
 https://live.sladdogg.com/OBS/08/index.m3u8
 #EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV LUNG
 https://live.sladdogg.com/OBS/11/index.m3u8
@@ -1272,5 +1290,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
 
