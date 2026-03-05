@@ -209,6 +209,24 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 11
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 8
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-8/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 7
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-7/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 6
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-6/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 5
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-5/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 4
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-4/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 3
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-3/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 2
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-2/KenhCoBan.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+ 1
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-1/KenhCoBan.m3u8
+
+
 
 #EXTINF:-1 group-title="SCVcab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -330,8 +348,6 @@ https://a1xs.vip/6000002
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV GẤU NÂU
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHAN HẢI
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHAN CẬU CẢ
@@ -665,7 +681,6 @@ https://live5.msrktz.app/live/97312754.m3u8
 https://live5.msrktz.app/live/88508431.m3u8 
 
 
-
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
 https://live.inplyr.com/room/147801.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE DECO 
@@ -766,6 +781,7 @@ https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-3098
 https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769652573-0-0-3794dc75c80cd1dc3add0bd171839d04
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KINH TẾ
 https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5dae4f9674706385c51282e1bedff3
+
 
 #EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
 https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
