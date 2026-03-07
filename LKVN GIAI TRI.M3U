@@ -1000,6 +1000,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extens
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", TR: SPORTS TUR TV
 http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", UR:  XSPORTS
+http://iptv.prosto.tv:7000/ch110/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK: TNT SPORTS 1
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="EU | SPORTS HD", UK:  TNT SPORTS 2
@@ -1080,6 +1082,13 @@ http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs02
 #EXTINF:-1 group-title="AS | SPORTS HD", JP: Sky A 
 http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs01
+#EXTINF:-1 group-title="AS | SPORTS HD", BR: Bahrain Sports 1
+https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", BR: Bahrain Sports 2 
+https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", BR: Unbeaten 
+https://unbeaten-tcl.amagi.tv/playlist.m3u8
+
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://rem.rs/uploads/attachment/pruzalac/1636/thumb_arena_fight.png" group-title="SPORTS", Arena Fight HD
 http://79.127.207.193:80/ArenaFight/playlist.m3u8
