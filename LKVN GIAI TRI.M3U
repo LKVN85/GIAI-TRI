@@ -56,7 +56,7 @@ https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
-https://htvc271120.cdn.vnns.io/0a917e0b3c7fdf5dbf641e25b9e417d91772285439/dongnai1.adm.720p.tms/playlist.m3u8
+https://freem3u.xyz/api/live/play.m3u8?vid=53
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
 http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
@@ -440,10 +440,18 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=ht
 https://live10.watchsoccerlivenews.net/live/taodo_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẨY
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", VĂN CHUẨN
+https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A TAI
-https://live1.footballvideocdn20xx.org/live/atai_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live1.footballvideocdn20xx.org/live/blv_atai/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DYLAN
-https://live1.footballvideocdn20xx.org/live/dylan_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A MẬP
+https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8|Referer=https://hoadaotv.org/
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ VĂN CHUẨN
+https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A MẬP
+https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
 
 
 
@@ -600,6 +608,8 @@ https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancao/playlist.m3u8|Referer=http
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN CHÈ
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN BỐNG
+https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanbong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN GẦY
 https://dipl0825.edgemaxcdn.org/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 #EXTINF:-1 group-title="HỘI QUÁN TOPTOP", PHAN HÀ LINH
@@ -649,6 +659,8 @@ https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", REVIVE
 https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", ROCKSTAR 
+https://live5.msrktz.app/live/82054853.m3u8 
+#EXTINF:-1 group-title="COLA TV", SAMURAI 
 https://live5.msrktz.app/live/82054853.m3u8 
 #EXTINF:-1 group-title="COLA TV", SODA 
 https://live5.msrktz.app/live/02456966.m3u8
@@ -1302,4 +1314,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
