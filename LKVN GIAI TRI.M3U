@@ -436,12 +436,12 @@ https://live10.watchsoccerlivenews.net/live/gaonep_key/playlist.m3u8|Referer=htt
 https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TÁO ĐỎ
 https://live10.watchsoccerlivenews.net/live/taodo_key/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẨY
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẪY
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", VĂN CHUẨN
 https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A TAI
-https://live1.footballvideocdn20xx.org/live/blv_atai/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DYLAN
 https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A MẬP
@@ -450,8 +450,14 @@ https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8|Referer=https
 https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A MẬP
 https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
-
-
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
+https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ CHÁO QUẪY
+https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A TÁO
+https://live1.footballvideocdn20xx.org/live/blv_taodo/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", FANTA
+https://live1.footballvideocdn20xx.org/live/blv_fanta/playlist.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
 https://w9lt1225.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
@@ -557,6 +563,12 @@ https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8|Referer=https://laug
 https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI NƯỚNG
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", A TÍCH
+https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BẮP CẢI
+https://gckc0525.edgemaxcdn.org/live/bapcai/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", QUAN VŨ
+https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 01
@@ -659,7 +671,7 @@ https://live5.msrktz.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", ROCKSTAR 
 https://live5.msrktz.app/live/82054853.m3u8 
 #EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live5.msrktz.app/live/82054853.m3u8 
+https://live5.msrktz.app/live/07808742.m3u8
 #EXTINF:-1 group-title="COLA TV", SODA 
 https://live5.msrktz.app/live/02456966.m3u8
 #EXTINF:-1 group-title="COLA TV", SPRITE 
@@ -675,7 +687,7 @@ https://live5.msrktz.app/live/78905744.m3u8
 #EXTINF:-1 group-title="COLA TV", 247
 https://live5.msrktz.app/live/90865415.m3u8 
 #EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live5.msrktz.app/live/14830711.m3u8
+https://live5.msrktz.app/live/99121525.m3u8
 #EXTINF:-1 group-title="COLA TV", C2 
 https://live5.msrktz.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", CHANH MUỐI
