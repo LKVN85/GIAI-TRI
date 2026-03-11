@@ -327,18 +327,24 @@ https://a1xs.vip/6000001
 #EXTINF:-1 group-title="BASKETBALL", NBA 2
 https://a1xs.vip/6000002
 
-#EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://pull-live3.fastestcdn-global.com/live/d79d1109c1d849688fa3dc6f7e18b882/index.m3u8|Referer=https://khandaia2.me/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
-https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁU QUẪY
-https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
+https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV GẠO NẾP
+https://live1.footballvideocdn20xx.org/live/gaonep_keysd/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
+https://live1.footballvideocdn20xx.org/live/meobeo_keysd/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHUỐI NƯỚNG
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
+https://pull-live3.fastestcdn-global.com/live/d79d1109c1d849688fa3dc6f7e18b882/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 group-title="VOLLEYBALL", BLV KHÁN ĐÀI A
+https://pull-live3.fastestcdn-global.com/live/d79d1109c1d849688fa3dc6f7e18b882/index.m3u8|Referer=https://khandaia2.me/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
@@ -393,16 +399,18 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAsset
 #EXTINF:-1 group-title="COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
-#EXTINF:-1 group-title="BADMINTON", YONEX SWISS OPEN 2026: Court 1
+#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 1
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299441437061_AiHD.m3u8?txSecret=2938f21299992721fb14449c5a391aab&txTime=69B26470
-#EXTINF:-1 group-title="BADMINTON", YONEX SWISS OPEN 2026: Court 2
+#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 2
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299633472061_AiHD.m3u8?txSecret=91adff919689597ad3b75d423405217d&txTime=69B26470
-#EXTINF:-1 group-title="BADMINTON", YONEX SWISS OPEN 2026: Court 3
+#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 3
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299809230061_AiHD.m3u8?txSecret=5508f92708be29cd1b6ca9dc0ffb40e7&txTime=69B26470
-#EXTINF:-1 group-title="BADMINTON", YONEX SWISS OPEN 2026: Court 4
+#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299962869061_AiHD.m3u8?txSecret=050539c0a1a24de91eedc84dfdc55dde&txTime=69B26470
-#EXTINF:-1 group-title="BADMINTON", Billards Pool 
+#EXTINF:-1 group-title="BADMINTON vs POOL", MACAU 9 BALL OPEN 2026
 https://cdn.sports-cas889abxfileposo.site/live/live978/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026
+https://cdn.sports-cas889abxfileposo.site/live/live965/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
