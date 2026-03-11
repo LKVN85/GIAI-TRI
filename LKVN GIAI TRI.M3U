@@ -501,27 +501,28 @@ https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
 
 
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", XÂY CON
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_xaycon/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A CỎ
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", BỊP CON
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_bipcon/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", CÁ KOI
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_ca/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_ca/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", CHIẾN CA
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_chienca/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", GIA CÁT DỰ
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_giacatdu/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_giacatdu/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", H+
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", HÀN TÍN
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_hantin/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", PHI MC
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_phimc/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_phimc/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", THỢ LẶN
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", VĂN TÍCH
-https://v1tf1225.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
+https://xclive.zlylive.com/live/xctv_blv_vantich/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU BẢO
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A PHỦ
