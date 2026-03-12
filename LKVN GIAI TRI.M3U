@@ -50,7 +50,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
-https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8 
+https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
@@ -101,10 +101,10 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1 
-https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
-https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1
+https://freem3u.xyz/api/live/play.m3u8?vid=49
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2
+https://freem3u.xyz/api/live/play.m3u8?vid=80
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HUẾ TV 
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8  
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
@@ -396,16 +396,12 @@ https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 1
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300327463061_AiHD.m3u8?txSecret=ae784cca52dde6d16481dfb1f3492905&txTime=69B3D210
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299441437061_AiHD.m3u8?txSecret=2938f21299992721fb14449c5a391aab&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 2
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300743847061_AiHD.m3u8?txSecret=3a3daffb0b2ba11f30d750c130bc81d6&txTime=69B3D210
-https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299633472061_AiHD.m3u8?txSecret=91adff919689597ad3b75d423405217d&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 3
 https://39e614f2a59a121b49e98f673d605e5b.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301403426061_AiHD.m3u8?txSecret=0b8dab1bbdf8b2069050c6a3e829e74e&txTime=69B3D210
-https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299809230061_AiHD.m3u8?txSecret=5508f92708be29cd1b6ca9dc0ffb40e7&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301951845061_AiHD.m3u8?txSecret=686d4a950072908747a3e9ac8fc14238&txTime=69B3D210
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299962869061_AiHD.m3u8?txSecret=050539c0a1a24de91eedc84dfdc55dde&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 1
 https://cdn.sports-cas889abxfileposo.site/live/live981/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 2
@@ -485,37 +481,26 @@ https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8|Referer=https
 https://live10.watchsoccerlivenews.net/live/duahau_stream1sd/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ VĂN CHUẨN
 https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
-https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A MẬP
 https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A PHÁO
 https://3046426067.global.cdnfastest.com/live/link-02/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_phao/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÁO
 https://3046426067.global.cdnfastest.com/live/link-11/index.m3u8
-https://live1.footballvideocdn20xx.org/live/tao_stream1/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÔN
 https://3046426067.global.cdnfastest.com/live/link-01/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_aton/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ CHÁO QUẪY
 https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
-https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DYLAN
 https://3046426067.global.cdnfastest.com/live/link-06/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DƯA HẤU
 https://3046426067.global.cdnfastest.com/live/link-07/index.m3u8
-https://live1.footballvideocdn20xx.info/live/duahau_stream1sd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ FANTA
 https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_fanta/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GẠO NẾP
 https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
-https://live1.footballvideocdn20xx.org/live/gaonep_keysd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
 https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
-https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
 
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
@@ -1416,3 +1401,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
