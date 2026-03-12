@@ -344,7 +344,8 @@ https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM: KAKA
-https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8
+https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8|Referer=https://khandaia2.me/
+
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -1399,3 +1400,4 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
+
