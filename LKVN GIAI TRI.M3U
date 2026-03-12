@@ -343,7 +343,8 @@ https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.b
 https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-
+#EXTINF:-1 group-title="VOLLEYBALL", XT: KAKA
+https://tfu43grauqmtofaauqmttgo514hdiptsn45djq31ug.100ycdn.com/pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8?wsSession=b1d09ae470ea57b421d907ae-177331410466647&wsIPSercert=38b126823aa102f2d5c7ca9b36045732&wsiphost=local&wsBindIP=1
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -401,10 +402,21 @@ https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299809230061_AiHD.m3u8?txSecret=5508f92708be29cd1b6ca9dc0ffb40e7&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299962869061_AiHD.m3u8?txSecret=050539c0a1a24de91eedc84dfdc55dde&txTime=69B26470
-#EXTINF:-1 group-title="BADMINTON vs POOL", MACAU 9 BALL OPEN 2026
-https://cdn.sports-cas889abxfileposo.site/live/live978/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", RUICHANG CHINA OPEN 2026: Court 2
+https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4156194693852061_AiHD.m3u8?txSecret=fb6482a52ffff14b15bfc21fb35bbc26&txTime=69B35380
+
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN
+https://cdn.sports-cas889abxfileposo.site/live/live980/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026
-https://cdn.sports-cas889abxfileposo.site/live/live965/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live979/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OP
+https://cdn.sports-cas889abxfileposo.site/live/live981/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPE
+https://cdn.sports-cas889abxfileposo.site/live/live982/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN
+https://cdn.sports-cas889abxfileposo.site/live/live983/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OP C
+https://cdn.sports-cas889abxfileposo.site/live/live984/index.m3u8
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", ALEX
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai2.m3u8
