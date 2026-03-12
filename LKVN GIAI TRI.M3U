@@ -983,6 +983,10 @@ https://a1xs.vip/40000015
 https://a1xs.vip/40000016
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: ACCDN HD
 https://raycom-accdn-firetv.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: FS1
+https://a1xs.vip/40000021
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: FS2
+https://a1xs.vip/40000022
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: MLB Network
 https://a1xs.vip/40000030
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: NBA TV
@@ -1017,8 +1021,8 @@ https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3Bvcn
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", US: TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="NSA | SPORTS HD", US: BALLY SPORTS LIVE
-https://linear30.channels.ballys.tv/abr_default/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: WORLD POKER TOUR
+https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
 
 #EXTINF:-1 group-title="EU | SPORTS HD", AU: REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
@@ -1378,4 +1382,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
