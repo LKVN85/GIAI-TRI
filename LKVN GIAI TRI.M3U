@@ -395,12 +395,16 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAsset
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 1
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300327463061_AiHD.m3u8?txSecret=ae784cca52dde6d16481dfb1f3492905&txTime=69B3D210
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299441437061_AiHD.m3u8?txSecret=2938f21299992721fb14449c5a391aab&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 2
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300743847061_AiHD.m3u8?txSecret=3a3daffb0b2ba11f30d750c130bc81d6&txTime=69B3D210
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299633472061_AiHD.m3u8?txSecret=91adff919689597ad3b75d423405217d&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 3
+https://39e614f2a59a121b49e98f673d605e5b.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301403426061_AiHD.m3u8?txSecret=0b8dab1bbdf8b2069050c6a3e829e74e&txTime=69B3D210
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299809230061_AiHD.m3u8?txSecret=5508f92708be29cd1b6ca9dc0ffb40e7&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301951845061_AiHD.m3u8?txSecret=686d4a950072908747a3e9ac8fc14238&txTime=69B3D210
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149299962869061_AiHD.m3u8?txSecret=050539c0a1a24de91eedc84dfdc55dde&txTime=69B26470
 #EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 1
 https://cdn.sports-cas889abxfileposo.site/live/live981/index.m3u8
@@ -466,10 +470,12 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=ht
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TÁO ĐỎ
 https://live1.footballvideocdn20xx.org/live/tao_stream1/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẪY
+https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", VĂN CHUẨN
 https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A TAI
+https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DYLAN
 https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8|Referer=https://hoadaotv.org/
@@ -478,26 +484,37 @@ https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8|Referer=https
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A DƯA HẤU
 https://live10.watchsoccerlivenews.net/live/duahau_stream1sd/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ VĂN CHUẨN
+https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
 https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A MẬP
+https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A PHÁO
+https://3046426067.global.cdnfastest.com/live/link-02/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_phao/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÁO
+https://3046426067.global.cdnfastest.com/live/link-11/index.m3u8
 https://live1.footballvideocdn20xx.org/live/tao_stream1/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÔN
+https://3046426067.global.cdnfastest.com/live/link-01/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_aton/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ CHÁO QUẪY
+https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
 https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DYLAN
+https://3046426067.global.cdnfastest.com/live/link-06/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DƯA HẤU
+https://3046426067.global.cdnfastest.com/live/link-07/index.m3u8
 https://live1.footballvideocdn20xx.info/live/duahau_stream1sd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ FANTA
+https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_fanta/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GẠO NẾP
+https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
 https://live1.footballvideocdn20xx.org/live/gaonep_keysd/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
+https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
 https://live1.footballvideocdn20xx.org/live/blv_giotai/playlist.m3u8
 
 
