@@ -50,7 +50,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+https://megasystems-6c680321cd.gw-dthcdn.com/thdt1/thdt1.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
@@ -101,10 +101,10 @@ https://cdn.drt.vn/live/285a27750861b964c27af22091662a74f2f/playlist.m3u8
 https://live.fptplay53.net/epzsd1/gialai01_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUẢNG NGÃI TV
 https://live.mediatech.vn/live/285aaa79b4b265a457d81bb72bc32e2c114/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1
-https://freem3u.xyz/api/live/play.m3u8?vid=49
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2
-https://freem3u.xyz/api/live/play.m3u8?vid=80
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV1 
+https://live.mediatech.vn/live/285b59a111d76974225a8e3004bfc31a509/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐÀ NẴNG TV2 
+https://live.mediatech.vn/live/2859145290d0d7947ef88b6240123b62474/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HUẾ TV 
 https://live.huetv.com.vn/TRT-Online/chunklist.m3u8  
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QUÃNG TRỊ TV 
@@ -332,9 +332,9 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
 https://live10.watchsoccerlivenews.net/live/phao_key/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁU QUẪY
-https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8
+https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV GẠO NẾP
-https://live1.footballvideocdn20xx.org/live/gaonep_keysd/playlist.m3u8
+https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
 https://live1.footballvideocdn20xx.org/live/meobeo_keysd/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
@@ -343,10 +343,11 @@ https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.b
 https://02.arlivre.online/sportv2/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM|Superliga Feminina SERIE A: Minas (w) - Osasco (w)
-https://d302.soft4game.com/o22/stream103/o/stream103/chunks.m3u8?nimblesessionid=55485160&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDE6MDE6NDAgQU0maGFzaF92YWx1ZT1vcy81S1NGWnVtSWZ4ekFIRnhmVkh3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM|LOVB: Madison (w) - LOVB Nebraska (w)
-https://d302.soft4game.com/o22/stream67/o/stream67/chunks.m3u8?nimblesessionid=55485527&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDE6MDQ6MTQgQU0maGFzaF92YWx1ZT1keHpZYnZPRDg3cW5CUWpaZjNCWG1BPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="VOLLEYBALL", STREAM| KHANDAIA: BLV KAKA
+https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8|Referer=https://khandaia2.me/
+#EXTINF:-1 group-title="VOLLEYBALL", STREAM 
+https://d302.soft4game.com/o22/stream90/o/stream90/chunks.m3u8?nimblesessionid=55512566&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDU6MTc6MzIgQU0maGFzaF92YWx1ZT0yZ2NkamtnajhFNmR2UkkyeUpwb2t3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 2
@@ -396,9 +397,9 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAsset
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 1
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300327463061_AiHD.m3u8?txSecret=ae784cca52dde6d16481dfb1f3492905&txTime=69B3D210
+https://d302.soft4game.com/o22/stream311/o/stream311/chunks.m3u8?nimblesessionid=55513272&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDU6MjU6MDEgQU0maGFzaF92YWx1ZT12MmoxRXZNckpSSG0zZ0VlaTJlUWV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 2
-https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4149300743847061_AiHD.m3u8?txSecret=3a3daffb0b2ba11f30d750c130bc81d6&txTime=69B3D210
+https://d302.soft4game.com/o22/stream342/o/stream342/chunks.m3u8?nimblesessionid=55513380&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDU6MjY6MzYgQU0maGFzaF92YWx1ZT1kR21FbFBwaDJTZGJYUVF2MENqQXVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 3
 https://39e614f2a59a121b49e98f673d605e5b.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301403426061_AiHD.m3u8?txSecret=0b8dab1bbdf8b2069050c6a3e829e74e&txTime=69B3D210
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
@@ -468,7 +469,6 @@ https://live10.watchsoccerlivenews.net/live/hattieu_key/playlist.m3u8|Referer=ht
 https://live1.footballvideocdn20xx.org/live/tao_stream1/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÁO QUẪY
 https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
-https://live1.footballvideocdn20xx.org/live/chaoquay_key/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", VĂN CHUẨN
 https://live1.footballvideocdn20xx.org/live/vanchuanz/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A TAI
@@ -480,13 +480,13 @@ https://live1.footballvideocdn20xx.org/live/blv_dylan/playlist.m3u8|Referer=http
 https://live1.footballvideocdn20xx.org/live/blv_amap/playlist.m3u8|Referer=https://hoadaotv.org/
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", A DƯA HẤU
 https://live10.watchsoccerlivenews.net/live/duahau_stream1sd/playlist.m3u8|Referer=https://hoadaotv.org/
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ VĂN CHUẨN
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GẠO NẾP
 https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A MẬP
 https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A PHÁO
 https://3046426067.global.cdnfastest.com/live/link-02/index.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÁO
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ VĂN CHUẨN
 https://3046426067.global.cdnfastest.com/live/link-11/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÔN
 https://3046426067.global.cdnfastest.com/live/link-01/index.m3u8
@@ -494,11 +494,11 @@ https://3046426067.global.cdnfastest.com/live/link-01/index.m3u8
 https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DYLAN
 https://3046426067.global.cdnfastest.com/live/link-06/index.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ DƯA HẤU
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A CÂY
 https://3046426067.global.cdnfastest.com/live/link-07/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ FANTA
 https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GẠO NẾP
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ A TÁO
 https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
 https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
@@ -577,67 +577,67 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
 
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV CÁ VIÊN
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV CÁ VIÊN
 https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV LÀNG CỒN
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV LÀNG CỒN
 https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV NGƯỜI KIẾN
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV NGƯỜI KIẾN
 https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV ỐNG BƠ
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ỐNG BƠ
 https://live.sladdogg.com/OBS/05/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV BA KHÍA
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV BA KHÍA
 https://live.sladdogg.com/OBS/09/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV ANH BO
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ANH BO
 https://live.sladdogg.com/OBS/08/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV LUNG
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV LUNG
 https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV JACK
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV JACK
 https://live.sladdogg.com/OBS/02/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BLV ZORRO
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ZORRO
 https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI ĐÔ
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI ĐÔ
 https://gckc0525.edgemaxcdn.org/live/chuoidoo/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI VÀNG
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI VÀNG
 https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI TÂY
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TÂY
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI TO
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TO
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI TIÊU
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TIÊU
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI HỘT
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI HỘT
 https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHỒN
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHỒN
 https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI NƯỚNG
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI NƯỚNG
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", A TÍCH
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", A TÍCH
 https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", BẮP CẢI
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BẮP CẢI
 https://gckc0525.edgemaxcdn.org/live/bapcai/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", QUAN VŨ
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", QUAN VŨ
 https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", ZEMAN
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 01
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 01
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 02
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 02
 https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 03
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 03
 https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 04
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 04
 https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 05
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 05
 https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 06
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 06
 https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 07
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 07
 https://gckc0525.edgemaxcdn.org/live/m5x7/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 08
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 08
 https://gckc0525.edgemaxcdn.org/live/m5x8/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 09
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 09
 https://gckc0525.edgemaxcdn.org/live/m5x9/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỒI CHIÊN 8SPORTS", CHUỐI CHIÊN 10
+#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 10
 https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 
 
@@ -1402,5 +1402,3 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
-
