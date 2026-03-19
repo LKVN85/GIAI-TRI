@@ -364,7 +364,7 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extens
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM| KHANDAIA: BLV KAKA
 https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8|Referer=https://khandaia2.me/
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 
-https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8
+https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
@@ -568,147 +568,89 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
 
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV CÁ VIÊN
-https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV LÀNG CỒN
-https://live.sladdogg.com/OBS/10/index.m3u8 
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV NGƯỜI KIẾN
-https://live.sladdogg.com/OBS/04/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ỐNG BƠ
-https://live.sladdogg.com/OBS/05/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV BA KHÍA
-https://live.sladdogg.com/OBS/09/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ANH BO
-https://live.sladdogg.com/OBS/08/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV LUNG
-https://live.sladdogg.com/OBS/11/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV JACK
-https://live.sladdogg.com/OBS/02/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BLV ZORRO
-https://live.sladdogg.com/OBS/07/index.m3u8
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI ĐÔ
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CA A
+https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN MÃ A
+https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN BỐNG A
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN MÃO A
+https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CỦ HÀNH A
+https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CÁO A
+https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN LÔI A
+https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CẬU CẢ A
+https://hqlive.zlylive.com/live/hqtv_blv_phancauca/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CHÈ A
+https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN GẦY A
+https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HÀ LINH A
+https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", SÁT THỦ A
+https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HAI A
+https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HEO A
+https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN KIẾN A
+https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN LONG A
+https://hqlive.zlylive.com/live/hqtv_blv_phankhuong/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN PHÉP A
+https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN SÓC A
+https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TÔM A
+https://hqlive.zlylive.com/live/hqtv_blv_phantom/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI ĐÔ
 https://gckc0525.edgemaxcdn.org/live/chuoidoo/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI VÀNG
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI VÀNG
 https://gckc0525.edgemaxcdn.org/live/chuoivang/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TÂY
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TÂY
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TO
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TO
 https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI TIÊU
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI TIÊU
 https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI HỘT
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI HỘT
 https://gckc0525.edgemaxcdn.org/live/chuoihot/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHỒN
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHỒN
 https://gckc0525.edgemaxcdn.org/live/chuoichon/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI NƯỚNG
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI NƯỚNG
 https://gckc0525.edgemaxcdn.org/live/chuoinuong/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", A TÍCH
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", A TÍCH
 https://gckc0525.edgemaxcdn.org/live/atich/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", BẮP CẢI
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", BẮP CẢI
 https://gckc0525.edgemaxcdn.org/live/bapcai/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", QUAN VŨ
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", QUAN VŨ
 https://gckc0525.edgemaxcdn.org/live/quanvu/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", ZEMAN
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 01
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 01
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 02
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 02
 https://gckc0525.edgemaxcdn.org/live/m5x2/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 03
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 03
 https://gckc0525.edgemaxcdn.org/live/m5x3/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 04
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 04
 https://gckc0525.edgemaxcdn.org/live/m5x4/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 05
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 05
 https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 06
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 06
 https://gckc0525.edgemaxcdn.org/live/m5x6/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 07
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 07
 https://gckc0525.edgemaxcdn.org/live/m5x7/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 08
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 08
 https://gckc0525.edgemaxcdn.org/live/m5x8/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 09
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 09
 https://gckc0525.edgemaxcdn.org/live/m5x9/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="CHUỐI CHIÊN 8SPORTS", CHUỐI CHIÊN 10
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 10
 https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 
-
-
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA A
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃ A
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN BỐNG A
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃO A
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH A
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CÁO A
-https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN LÔI A
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CẬU CẢ A
-https://hqlive.zlylive.com/live/hqtv_blv_phancauca/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHÈ A
-https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN GẦY A
-https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HÀ LINH A
-https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", SÁT THỦ A
-https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HAI A
-https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HEO A
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN KIẾN A
-https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN LONG A
-https://hqlive.zlylive.com/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN PHÉP A
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN SÓC A
-https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TÔM A
-https://hqlive.zlylive.com/live/hqtv_blv_phantom/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CA
-https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CÁO
-https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CẬU CẢ
-https://hqlive.zlylive.com/live/hqtv_blv_phancauca/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHÈ
-https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN BỐNG
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN GẦY
-https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HÀ LINH
-https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HAI
-https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HEO
-https://hqlive.zlylive.com/live/hqtv_blv_phanliem/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN KIẾN
-https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN LONG
-https://hqlive.zlylive.com/live/hqtv_blv_phankhuong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃ
-https://hqlive.zlylive.com/live/hqtv_blv_phanma/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃO
-https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN PHÉP
-https://hqlive.zlylive.com/live/hqtv_blv_phanbanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN SÓC
-https://hqlive.zlylive.com/live/hqtv_blv_phanbao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TÔM
-https://hqlive.zlylive.com/live/hqtv_blv_phantom/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH
-https://hqlive.zlylive.com/live/hqtv_blv_phando/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", THIÊN LÔI
-https://hqlive.zlylive.com/live/hqtv_blv_thienloi/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="HỘI QUÁN TV", SÁT THỦ
-https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8|Referer=https://sv2.hoiquan.live/
 
 #EXTINF:-1 group-title="COLA TV", COCA 
 https://live5.msrktz.app/live/24561735.m3u8 
