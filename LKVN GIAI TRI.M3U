@@ -9,8 +9,6 @@ https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
 https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV CẦN THƠ
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ
 https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN
@@ -21,6 +19,8 @@ https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
 https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
 https://live.fptplay53.net/epzch2/vtv9hd_abr.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
+https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
@@ -36,7 +36,7 @@ https://tv.angiangtv.vn/live/kgtv1/kgtv1.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 1 
 https://live.canthotv.vn/live/tv/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 2 
-https://megasystems-6c680321cd.gw-dthcdn.com/haugiangtv/haugiangtv.m3u8 
+https://freem3u.xyz/api/live/play.m3u8?vid=61
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", CẦN THƠ 3 
 https://live.canthotv.vn/cs3/tv/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
@@ -136,7 +136,7 @@ https://live.baoquangninh.vn/qtvlive/tv3live.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV1 
 https://cloudstreamhntv.tek4tv.vn/capture/smil:HN1.smil/playlist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HÀ NỘI TV2 
-https://cloudstreamhntv.tek4tv.vn/events/HN2/playlist.m3u8 
+https://live.fptplay53.net/fnxhd1/hntv2_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", PHÚ THỌ TV 
 https://live.fptplay53.net/fnxsd1/phutho_hls.smil/chunklist.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THÁI NGUYÊN TV 
@@ -159,34 +159,10 @@ https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT: http-referrer=https://hoiquan.click/
 https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV5 PHẬT GIÁO
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/an-vien-hd/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV6
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv6/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/sctv2-today-tv/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV16
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/sctv16hd/Free.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/sctv19hd/Free.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV21
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/sctv21hd/Free.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", SCTV22
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT: http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/sctv22hd/Free.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HiTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", Phim Việt
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/phim-viet/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT LIVE 4K
 https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 1
@@ -371,7 +347,7 @@ https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/i
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
+https://a1xs.vip/40000040
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 2
 http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 3
@@ -396,6 +372,7 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
 
+
 #EXTINF:-1 group-title="COMBAT", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="COMBAT", MMA
@@ -418,34 +395,20 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAsset
 #EXTINF:-1 group-title="COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
-#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 1
-https://d302.soft4game.com/o22/stream311/o/stream311/chunks.m3u8?nimblesessionid=55513272&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDU6MjU6MDEgQU0maGFzaF92YWx1ZT12MmoxRXZNckpSSG0zZ0VlaTJlUWV3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 2
-https://d302.soft4game.com/o22/stream342/o/stream342/chunks.m3u8?nimblesessionid=55513380&wmsAuthSign=c2VydmVyX3RpbWU9My8xMy8yMDI2IDU6MjY6MzYgQU0maGFzaF92YWx1ZT1kR21FbFBwaDJTZGJYUVF2MENqQXVBPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 3
-https://39e614f2a59a121b49e98f673d605e5b.v.smtcdns.net/play.cbalive.weibisai.com/live/4149301403426061_AiHD.m3u8?txSecret=0b8dab1bbdf8b2069050c6a3e829e74e&txTime=69B3D210
+#EXTINF:-1 group-title="NSA | SPORTS HD", US: Tennis Channel FHD
+https://a1xs.vip/40000040
+#EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
+https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
-https://d25tgymtnqzu8s.cloudfront.net/smil:sukan/manifest.mpd
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 1
-https://cdn.sports-cas889abxfileposo.site/live/live981/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 2
-https://cdn.sports-cas889abxfileposo.site/live/live982/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 3
-https://cdn.sports-cas889abxfileposo.site/live/live983/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 4
-https://cdn.sports-cas889abxfileposo.site/live/live984/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 5
-https://cdn.sports-cas889abxfileposo.site/live/live985/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 6
-https://cdn.sports-cas889abxfileposo.site/live/live986/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 7
-https://cdn.sports-cas889abxfileposo.site/live/live987/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 8
-https://cdn.sports-cas889abxfileposo.site/live/live988/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 9 
-https://cdn.sports-cas889abxfileposo.site/live/live989/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026 X
-https://cdn.sports-cas889abxfileposo.site/live/live990/index.m3u8
+https://d302.soft4game.com/o22/stream35/o/stream35/chunks.m3u8?nimblesessionid=61153330&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI2IDU6MDc6MDggQU0maGFzaF92YWx1ZT1GUGxXRWkweGxZUGlRdTN3RmowMDBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+#EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026
+https://cdn.sports-cas889abxfileposo.site/live/live1130/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026
+https://www.youtube.com/watch?v=epHga9n5FFQ
+#EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026 CI
+https://piped-instances.kavin.rocks/live/epHga9n5FFQ
+#EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026 CIPU
+https://api.piped.victr.me/live/epHga9n5FFQ
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
@@ -489,6 +452,64 @@ https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
 https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
 https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
+
+
+#EXTINF:-1 group-title="COLA TV", COCA 
+https://live5.msrktz.app/live/24561735.m3u8 
+#EXTINF:-1 group-title="COLA TV", COMPACT 
+https://live5.msrktz.app/live/07808742.m3u8 
+#EXTINF:-1 group-title="COLA TV", COZY
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 group-title="COLA TV", FANTA
+https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 group-title="COLA TV", LAVIE
+https://live5.msrktz.app/live/75748097.m3u8
+#EXTINF:-1 group-title="COLA TV", MONSTER 
+https://live5.msrktz.app/live/75915087.m3u8 
+#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
+https://live5.msrktz.app/live/87547578.m3u8 
+#EXTINF:-1 group-title="COLA TV", PEPSI
+https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 group-title="COLA TV", REDBULL
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", REVIVE
+https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:-1 group-title="COLA TV", ROCKSTAR 
+https://live5.msrktz.app/live/82054853.m3u8 
+#EXTINF:-1 group-title="COLA TV", SAMURAI 
+https://live5.msrktz.app/live/07808742.m3u8
+#EXTINF:-1 group-title="COLA TV", SODA 
+https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 group-title="COLA TV", SPRITE 
+https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 group-title="COLA TV", STING 
+https://live5.msrktz.app/live/14707124.m3u8 
+#EXTINF:-1 group-title="COLA TV", TEPPY 
+https://live5.msrktz.app/live/59444581.m3u8 
+#EXTINF:-1 group-title="COLA TV", WARRIOR 
+https://live5.msrktz.app/live/97885009.m3u8 
+#EXTINF:-1 group-title="COLA TV", 7 UP 
+https://live5.msrktz.app/live/78905744.m3u8 
+#EXTINF:-1 group-title="COLA TV", 247
+https://live5.msrktz.app/live/90865415.m3u8 
+#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 group-title="COLA TV", C2 
+https://live5.msrktz.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
+https://live5.msrktz.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", DR THANH 
+https://live5.msrktz.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", HỔ VẰN
+https://live5.msrktz.app/live/07428422.m3u8
+#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
+https://live5.msrktz.app/live/41943555.m3u8
+#EXTINF:-1 group-title="COLA TV", Ô LONG 
+https://live5.msrktz.app/live/97312754.m3u8 
+#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
+https://live5.msrktz.app/live/88508431.m3u8 
 
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
@@ -646,64 +667,6 @@ https://gckc0525.edgemaxcdn.org/live/m5x8/playlist.m3u8|Referer=https://lauga.bo
 https://gckc0525.edgemaxcdn.org/live/m5x9/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", CHUỐI CHIÊN 10
 https://gckc0525.edgemaxcdn.org/live/m5x10/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-
-
-#EXTINF:-1 group-title="COLA TV", COCA 
-https://live5.msrktz.app/live/24561735.m3u8 
-#EXTINF:-1 group-title="COLA TV", COMPACT 
-https://live5.msrktz.app/live/07808742.m3u8 
-#EXTINF:-1 group-title="COLA TV", COZY
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 group-title="COLA TV", FANTA
-https://live5.msrktz.app/live/71426314.m3u8
-#EXTINF:-1 group-title="COLA TV", LAVIE
-https://live5.msrktz.app/live/75748097.m3u8
-#EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live5.msrktz.app/live/75915087.m3u8 
-#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live5.msrktz.app/live/87547578.m3u8 
-#EXTINF:-1 group-title="COLA TV", PEPSI
-https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 group-title="COLA TV", REDBULL
-https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", REVIVE
-https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 group-title="COLA TV", ROCKSTAR 
-https://live5.msrktz.app/live/82054853.m3u8 
-#EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 group-title="COLA TV", SODA 
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 group-title="COLA TV", STING 
-https://live5.msrktz.app/live/14707124.m3u8 
-#EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live5.msrktz.app/live/59444581.m3u8 
-#EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live5.msrktz.app/live/97885009.m3u8 
-#EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live5.msrktz.app/live/78905744.m3u8 
-#EXTINF:-1 group-title="COLA TV", 247
-https://live5.msrktz.app/live/90865415.m3u8 
-#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 group-title="COLA TV", C2 
-https://live5.msrktz.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live5.msrktz.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live5.msrktz.app/live/79665343.m3u8 
-#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live5.msrktz.app/live/07428422.m3u8
-#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live5.msrktz.app/live/97312754.m3u8 
-#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live5.msrktz.app/live/88508431.m3u8 
 
 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
