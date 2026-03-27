@@ -395,20 +395,19 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAsset
 #EXTINF:-1 group-title="COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
 
-#EXTINF:-1 group-title="NSA | SPORTS HD", US: Tennis Channel FHD
-https://a1xs.vip/40000040
+
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
 https://d302.soft4game.com/o22/stream35/o/stream35/chunks.m3u8?nimblesessionid=61153330&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI2IDU6MDc6MDggQU0maGFzaF92YWx1ZT1GUGxXRWkweGxZUGlRdTN3RmowMDBnPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="BADMINTON vs POOL", EUROPEAN OPEN CHAMPIONSHIPS 2026
 https://cdn.sports-cas889abxfileposo.site/live/live1130/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026
-https://www.youtube.com/watch?v=epHga9n5FFQ
+#EXTINF:-1 group-title="BADMINTON vs POOL", Việt Nam vs Germany - Chung kết World National Team Championship 2026.
+https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260302/615/292044615/REGL_D04F7155_292044615_1.smil/manifest.m3u8?rp=p02
 #EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026 CI
-https://piped-instances.kavin.rocks/live/epHga9n5FFQ
-#EXTINF:-1 group-title="BADMINTON vs POOL", Tứ kết Vietnam International Challenge 2026 CIPU
-https://api.piped.victr.me/live/epHga9n5FFQ
+https://51.158.204.79/watch?v=khvpChpsEWY&__cpo=aHR0cHM6Ly93d3cueW91dHViZS5jb20
+#EXTINF:-1 group-title="BADMINTON vs POOL", UMB
+https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260314/391/292376391/REGL_A14E76B3_292376391_4.smil/manifest.m3u8?rp=p03
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
