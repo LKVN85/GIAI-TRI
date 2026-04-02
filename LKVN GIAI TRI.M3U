@@ -310,19 +310,19 @@ https://hls.cdnok9.com/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d9
 https://hls.cdnok9.com/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
 https://hls.cdnok9.com/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="BASKETBALL", BLV PHAN MÃO
-https://hqlive.zlylive.com/live/hqtv_blv_phanchanh/playlist.m3u8|Referer=https://sv2.hoiquan.live/
-#EXTINF:-1 group-title="BASKETBALL", BLV PHAN CÁO
-https://hqlive.zlylive.com/live/hqtv_blv_phancao/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+#EXTINF:-1 group-title="BASKETBALL", BLV COZY
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
+https://live5.msrktz.app/live/82054853.m3u8 
 #EXTINF:-1 group-title="BASKETBALL", NBA 1
-https://a1xs.vip/6000001
+http://kstv.us:8080/c2Q2HDqQfM/111770/22501
 #EXTINF:-1 group-title="BASKETBALL", NBA 2
 https://a1xs.vip/6000002
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1_full-hd.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
+https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV VĂN MINH
@@ -340,20 +340,20 @@ https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
-https://02.arlivre.online/sportv2/index.m3u8
+http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
-http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
+http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM| KHANDAIA: BLV KAKA
 https://pull-live3.fastestcdn-global.com/live/80bd5459e1ad4b92ab12155b67b46b99/index.m3u8|Referer=https://khandaia2.me/
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 1
-https://a1xs.vip/40000040
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282765&extension=ts&play_token=tFc8vOgSKK
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 2
-http://lemon.catchmeifyo.com:8000/live/4914756410/8072556864/157768.ts
+http://kstv.us:8080/c2Q2HDqQfM/111770/22467
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 3
-https://7pal.short.gy/skyspt1nz
+http://kstv.us:8080/c2Q2HDqQfM/111770/15940
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 4
 https://7pal.short.gy/tntspts1
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 5 
@@ -367,7 +367,7 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlint
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 9
 https://a1xs.vip/2000013
 #EXTINF:-1 group-title="TENNIS", LIVE TENNIS 10
-https://hqlive.zlylive.com/live/hqtv_blv_phanson/playlist.m3u8|Referer=https://sv2.hoiquan.live/
+http://kstv.us:8080/c2Q2HDqQfM/111770/15940
 #EXTINF:-1 group-title="TENNIS", TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
 #EXTINF:-1 group-title="TENNIS", PICKLE TV 
@@ -402,15 +402,15 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", YONEX SWISS OPEN 2026: Court 4
-https://d302.soft4game.com/o22/stream202/o/stream202/chunks.m3u8?nimblesessionid=61153914&wmsAuthSign=c2VydmVyX3RpbWU9My8yNy8yMDI2IDY6MTY6NTQgQU0maGFzaF92YWx1ZT1iTmpua0ljZXJCaS85clovc0hIdUt3PT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
+https://guaxh1.csdcup.com/live/b0567a22b393424.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals
-https://cdn.sports-cas889abxfileposo.site/live/live1130/index.m3u8|Referer=https://choangtv1.com/
+https://guaxh1.csdcup.com/live/b332b0534d068a2.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals 1
-https://cdn.sports-cas889abxfileposo.site/live/live1131/index.m3u8|Referer=https://choangtv1.com/
+https://guaxh1.csdcup.com/live/9b5034ae029db8f.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals 2
-https://cdn.sports-cas889abxfileposo.site/live/live1132/index.m3u8|Referer=https://choangtv1.com/
+https://feijing-xzbforanchor.52kq.top/live/202_4880024_1.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals 3
-https://cdn.sports-cas889abxfileposo.site/live/live1133/index.m3u8|Referer=https://choangtv1.com/
+https://d302.soft4game.com/o22/stream6/o/stream6/chunks.m3u8?nimblesessionid=61675775&wmsAuthSign=c2VydmVyX3RpbWU9My8zMS8yMDI2IDI6NDY6MTYgQU0maGFzaF92YWx1ZT15NGdCWTZlWEhweVdZdVhHUDRoZTJRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals 4
 https://cdn.sports-cas889abxfileposo.site/live/live1134/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", 2026 JOY Heyball Grand Masters Finals 5
@@ -426,8 +426,6 @@ https://live-global-cdn-v02.sooplive.com/live-stmc-29/auth_master_playlist.m3u8?
 
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", RICKY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", KHOAI TÂY
@@ -436,6 +434,16 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", DƯA HẤU
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", MASON
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", RƯỢU MẬN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", NEM CHUA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", BÓ SỮA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", PUMA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_4.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA A
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO",  QUÊ CHOA B
@@ -466,6 +474,24 @@ https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
 https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", LÒ GIÓ TAI
 https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", HOẮC ĐÔ
+https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", MÃ SIÊU
+https://tqlive.zlylive.com/live/tqtv_blv_masieu/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TÀO A MÂN
+https://tqlive.zlylive.com/live/tqtv_blv_taoaman/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", TRIỆU TỬ LONG
+https://tqlive.zlylive.com/live/tqtv_blv_trieutulong/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", MỘ DUNG PHỤC
+https://tqlive.zlylive.com/live/tqtv_blv_modungphuc/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", CHÍ PHÈO
+https://tqlive.zlylive.com/live/tqtv_blv_chipheo/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", THIÊN ĐÔ
+https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", PALMER
+https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA HOA ĐÀO", Mr LIM
+https://tqlive.zlylive.com/live/tqtv_blv_lim/playlist.m3u8
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
@@ -599,6 +625,8 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_delua/playlist.m3u8|Referer=https://
 https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
 
 
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN BÁCH
+https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CA A
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN MÃ A
@@ -869,12 +897,25 @@ https://02.arlivre.online/pre3/index.m3u8
 https://02.arlivre.online/pre4/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 5 HD
 https://02.arlivre.online/pre5/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV HD
-https://02.arlivre.online/sportv/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV 2 HD
-https://02.arlivre.online/sportv2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SporTV 3 HD
-https://02.arlivre.online/sportv3/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SPORTV 
+http://ssrv88.com:80/7897442120/8964203798/205552.ts
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SPORTV HD
+http://ssrv88.com:80/7897442120/8964203798/205555.ts
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SPORTV 2 HD
+http://ssrv88.com:80/7897442120/8964203798/205563.ts
+#EXTINF:-1 group-title="NSA | SPORTS HD", BR: SPORTV 3 HD
+http://ssrv88.com:80/7897442120/8964203798/205571.ts
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 1 HD
+http://kstv.us:8080/c2Q2HDqQfM/111770/15929
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 2 HD
+http://kstv.us:8080/c2Q2HDqQfM/111770/15928
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 3 HD
+http://kstv.us:8080/c2Q2HDqQfM/111770/15927
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 4 HD
+http://kstv.us:8080/c2Q2HDqQfM/111770/15926
+#EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 5 HD
+http://kstv.us:8080/c2Q2HDqQfM/111770/15925
+
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN1
 https://a1xs.vip/6000001
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA: TSN2
@@ -988,20 +1029,78 @@ https://a1xs.vip/8000021
 https://a1xs.vip/8000022
 #EXTINF:-1 group-title="EU | SPORTS HD", IT: RAI Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport FHD
-https://a1xs.vip/140001
-#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 2 FHD
-https://a1xs.vip/140002
-#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 3 FHD
-https://a1xs.vip/140003
-#EXTINF:-1 group-title="EU | SPORTS HD", NL: Ziggo Sport 4 FHD
-https://a1xs.vip/140004
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282769&extension=ts&play_token=PvkHBtDzYG
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 1 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1634105&extension=ts&play_token=lRe5cYsja9
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 2 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282768&extension=ts&play_token=Pz5sYLbi4s
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 3 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282767&extension=ts&play_token=lYIvSvKfVT
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 4 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282766&extension=ts&play_token=jjc13iEMky
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282764&extension=ts&play_token=WhfxquZySR
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT 2 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282763&extension=ts&play_token=QE6GUu62DL
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT 3 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282761&extension=ts&play_token=NfRKRGgEci
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT 4 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282760&extension=ts&play_token=PXi3eiHibt
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT 5 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282762&extension=ts&play_token=bzUCqz0OGu
+#EXTINF:-1 group-title="EU | SPORTS HD", NL| ZIGGO SPORT 6 HD
+http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282759&extension=ts&play_token=GTEpfccDbV
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport
+
+http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Extra
+#EXTGRP:PL
+http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 1 HD
+#EXTGRP:PL
+http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 2 HD
+#EXTGRP:PL
+http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 1
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
 #EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 2
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="EU | SPORTS HD", PL: Polsat Sport 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 1
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700244
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 2
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700243
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 3
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700236
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 4
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700235
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 5
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700234
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 6
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700233
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV 7
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700226
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV NBA
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700232
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sport TV Plus
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700341
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: Sporting TV
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700328
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 1
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700242
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 2
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700241
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 3
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700240
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 4
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700239
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 5
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700238
+#EXTINF:-1 group-title="EU | SPORTS HD", PT: DAZN 6
+http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700237
 #EXTINF:-1 group-title="EU | SPORTS HD", RO: TVR Reluare
 https://tvr-sport.lg.mncdn.com/tvrsport/smil:tvrsport.smil/chunklist_b5160000.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", TR: SPORTS TUR TV
@@ -1084,6 +1183,26 @@ https://a1xs.vip/1100043
 https://a1xs.vip/1100044
 #EXTINF:-1 group-title="AS | SPORTS HD", MA: Astro Football
 https://a1xs.vip/1100032
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 01
+http://kstv.us:8080/c2Q2HDqQfM/111770/12554
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 02
+http://kstv.us:8080/c2Q2HDqQfM/111770/12553
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 03
+http://kstv.us:8080/c2Q2HDqQfM/111770/12552
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 04
+http://kstv.us:8080/c2Q2HDqQfM/111770/12551
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 05
+http://kstv.us:8080/c2Q2HDqQfM/111770/12550
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 06
+http://kstv.us:8080/c2Q2HDqQfM/111770/12549
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 07
+http://kstv.us:8080/c2Q2HDqQfM/111770/12548
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 08 News
+http://kstv.us:8080/c2Q2HDqQfM/111770/12547
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 09  XTRA 1
+http://kstv.us:8080/c2Q2HDqQfM/111770/12546
+#EXTINF:-1 group-title="AS | SPORTS HD", Bein Sport 10 XTRA 2
+http://kstv.us:8080/c2Q2HDqQfM/111770/12545
 #EXTINF:-1 group-title="AS | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", JP: J Sports 1
@@ -1621,6 +1740,10 @@ https://ace.hoiquan.click/module/IPTV/?id=axn&accKenh=vuminhthanh1
 http://ch-4k-top.org/play/live.php?mac=00:1A:79:7a:39:a6&stream=1776182&extension=ts&play_token=K4JiFEWv19
 
 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", PEAKY BLINDERS-THE IMMORTAL MAN: BÓNG MA ANH QUỐC-NGƯỜI BẤT TỬ
+https://stream03.bapluoc.tv/Peaky.Blinders.The.Immortal.Man.2026.m3u8|Referer=https://bapluoc.tv/
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", CRIME 101: TỘI PHẠM 101
+https://stream03.bapluoc.tv/Crime.101.2026.m3u8|Referer=https://bapluoc.tv/
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Shelter: KẺ ẨN DẬT
 https://vip.opstream90.com/20260225/25764_7bd89d30/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", Back to the Past: TẦM TẦN KÝ
@@ -1665,8 +1788,16 @@ https://s6.kkphimplayer6.com/20251204/ReBQuH9e/index.m3u8
 https://s6.kkphimplayer6.com/20251015/0ZDVd3dH/3500kb/hls/index.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", DEATH RACE: ĐƯỜNG ĐUA TỬ THẦN 
 https://vip.opstream16.com/20220224/107_637be4e7/3000k/hls/mixed.m3u8
-
-
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", OLYMPUS HAS FALLEN: NHÀ TRẮNG THẤT THỦ 
+https://vip.opstream15.com/20221212/30028_ff82d10b/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", AGEL HAS FALLEN: KẺ PHẢN BỘI
+https://vip.opstream16.com/20220223/90_60ee6616/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LONDON HAS FALLEN: LUÂN ĐÔN THẤT THỦ
+https://vip.opstream16.com/20221122/26373_9079fbe2/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", CLASH OF THE TITANS: CUỘC CHIẾN CỦA CÁC VỊ THẦN
+https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", WRATH OF THE TITANS: SỰ PHẪN NỘ CỦA CÁC VỊ THẦN
+https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="EU | MOVIES HD", .BLACK
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/708/index.m3u8
 #EXTINF:-1 group-title="EU | MOVIES HD", .RED
@@ -2222,6 +2353,3 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/15191/index.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/5004/index.m3u8
 #EXTINF:-1 group-title="EU | FHD 4K", НАША СИБИРЬ HD ORIG
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/15145/index.m3u8
-
-
-
