@@ -163,28 +163,32 @@ https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT LIVE 4K
-https://live.fptplay53.net/live/media/su-kien-01-4k/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 1
 https://live.fptplay53.net/live/media/su-kien-01/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Event 1
 https://live.fptplay53.net/live/media/event-01/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 2
-https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Event 2
 https://live.fptplay53.net/live/media/event-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  Event 5
-https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",   Sự Kiện 2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 2
 https://live.fptplay53.net/live/media/su-kien-02/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",   Sự Kiện 3
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 5
+https://live.fptplay53.net/live/media/event-05/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 3
 https://live.fptplay53.net/live/media/su-kien-03/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Live 4
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 4
 https://live.fptplay53.net/live/media/su-kien-04/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 6
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 4
+https://live.fptplay53.net/live/media/event-04/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 5 
+https://live.fptplay53.net/live/media/su-kien-05/hls_avc_v6/index.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 6
+https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 6
 https://live.fptplay53.net/live/media/su-kien-06/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Live 7
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  FPT Sự Kiện 7
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 7 
+https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
@@ -333,15 +337,15 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
-https://3046426067.global.cdnfastest.com/live/link-13/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
-https://3046426067.global.cdnfastest.com/live/link-30/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-phao/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁU QUẪY
-https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-chao-quay/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV GẠO NẾP
-https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-gao-nep/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
-https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
 https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
@@ -374,16 +378,18 @@ https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
-#EXTINF:-1 group-title="COMBAT", Arena Boxing
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31598/index.m3u8
+#EXTINF:-1 group-title="COMBAT", ARENA Boxing
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31598/index.m3u8
 #EXTINF:-1 group-title="COMBAT", WWE
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/11056/index.m3u8
+http://kstv.us:8080/c2Q2HDqQfM/111770/47642
 #EXTINF:-1 group-title="COMBAT", UFC
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="COMBAT", MMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
 #EXTINF:-1 group-title="COMBAT", DAZN TV
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
+#EXTINF:-1 group-title="COMBAT", POLSAT 
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7311/index.m3u8
 #EXTINF:-1 group-title="COMBAT", HARD KNOCKS FIGHTING
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
 #EXTINF:-1 group-title="COMBAT", FIGHT SPORTS
@@ -461,29 +467,29 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", QUÊ CHOA C
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHÁO QUẪY
-https://3046426067.global.cdnfastest.com/live/link-04/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-chao-quay/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A MẬP
-https://3046426067.global.cdnfastest.com/live/link-07/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ VĂN CHUẨN
-https://3046426067.global.cdnfastest.com/live/link-11/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHIM NHỎ
-https://3046426067.global.cdnfastest.com/live/link-12/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ THÂY MA
-https://3046426067.global.cdnfastest.com/live/link-14/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-neymar/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DƯA HẤU
-https://3046426067.global.cdnfastest.com/live/link-01/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ GẠO NẾP
-https://3046426067.global.cdnfastest.com/live/link-05/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-gao-nep/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ MÈO BÉO
-https://3046426067.global.cdnfastest.com/live/link-03/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A PHÁO
-https://3046426067.global.cdnfastest.com/live/link-02/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-phao/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DYLAN
-https://3046426067.global.cdnfastest.com/live/link-08/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A TÁO
-https://3046426067.global.cdnfastest.com/live/link-10/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ GIÓ TAI
-https://3046426067.global.cdnfastest.com/live/link-09/index.m3u8
+https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", HOẮC ĐÔ
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÃ SIÊU
@@ -889,26 +895,6 @@ https://hls.cdnok9.com/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035d
 https://hls.cdnok9.com/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn HD
-https://02.arlivre.online/espn/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 2 HD
-https://02.arlivre.online/espn2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 3 HD
-https://02.arlivre.online/espn3/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: Espn 4 HD
-https://02.arlivre.online/espn4/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: GLOBO SP HD
-https://02.arlivre.online/globosp/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 1 HD
-https://02.arlivre.online/pre1/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 2 HD
-https://02.arlivre.online/pre2/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 3 HD
-https://02.arlivre.online/pre3/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 4 HD
-https://02.arlivre.online/pre4/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR: PREMIERE 5 HD
-https://02.arlivre.online/pre5/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| SPORTV HD
 http://ssrv88.com:80/7897442120/8964203798/205555.ts
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| SPORTV 2 HD
@@ -1086,24 +1072,6 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| Diema Sport HD
-http://87.246.54.249:8080/DiemaSport/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| Diema Sport2 HD
-http://87.246.54.249:8080/DiemaSport2/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| Diema Sport3 HD
-http://87.246.54.249:8080/DiemaSport3/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| NovaSport
-http://87.246.54.249:8080/NovaSport/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| MaxSport1 HD
-http://87.246.54.249:8080/MaxSport1/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| MaxSport2 HD
-http://87.246.54.249:8080/MaxSport2/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| MaxSport3 HD
-http://87.246.54.249:8080/MaxSport3/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| MaxSport4 HD
-http://87.246.54.249:8080/MaxSport4/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", BG| RING
-http://87.246.54.249:8080/RING/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BK| SPORT KLUB 1 HD
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917287&extension=ts
 #EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 2 HD
@@ -1140,28 +1108,18 @@ http://151.80.18.177:86/Eurosport_HD/index.m3u8
 http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", FR: TRACE SPORT STARS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 1 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31578/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 2 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31579/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 3 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31581/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 4 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31582/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 5 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31583/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 6 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 7 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31585/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 8 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31586/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 9 HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31587/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport Highlights HD GR
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31588/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", IT: RAI Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 2 HD GR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31579/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 4 HD GR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31582/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 6 HD GR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31584/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 8 HD GR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31586/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT HIGHLIGHTS HD GR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31588/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN HD
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282769&extension=ts&play_token=PvkHBtDzYG
 #EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 2 HD
@@ -1188,6 +1146,8 @@ http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extensi
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233715&extension=ts&play_token=klT8fyTCz5
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 3
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=233716&extension=ts&play_token=PSYS8qYMEV
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| POLSAT SPORT EXTRA 3 HD PL
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7306/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 1 HD
 http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 2 HD
@@ -1240,32 +1200,32 @@ http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/157160
 http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/157161
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| PRIMA SPORT 5 UHD
 http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/157162
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Premium 1 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31599/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Premium 2 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31600/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Premium 3 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31601/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 1 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31602/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 3 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31603/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Premium 3 RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31604/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 4 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31605/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 5 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31606/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 6 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31607/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 7 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31608/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 8 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31609/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 9 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31610/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", SB| Arena Sport 1x2 HD RS
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31611/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB| ARENA PREMIUM 2 HD RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31600/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA PREMIUM 3 RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31604/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 1 HD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7329/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 1 HD SK
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/2550/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 2 FHD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7264/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 3 FHD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7265/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 3 HD RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31603/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 4 HD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7332/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 5 FHD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7267/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 5 HD RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31606/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 6 HD HR
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7334/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 7 HD RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31608/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", SB|  ARENA SPORT 9 HD RS
+http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31610/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", SL| SPORT TV1
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917276&extension=ts
 #EXTINF:-1 group-title="EU | SPORTS HD", SL| SPORT TV2
@@ -1402,32 +1362,6 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/16019/index.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19069/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", ARENA FIGHT HD RS
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31598/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA PREMIUM 2 HD RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31600/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA PREMIUM 3 RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31604/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 1 HD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7329/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 1 HD SK
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/2550/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 2 FHD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7264/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 3 FHD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7265/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 3 HD RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31603/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 4 HD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7332/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 5 FHD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7267/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 5 HD RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31606/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 6 HD HR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7334/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 7 HD RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31608/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", ARENA SPORT 9 HD RS
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31610/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", BEIN SPORTS 1 HD FR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/2499/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", BEIN SPORTS 3 HD FR
@@ -1464,16 +1398,6 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31592/index.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/2519/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", CBS SPORTS NETWORK HD US
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7324/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", COSMOTE SPORT 2 HD GR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31579/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", COSMOTE SPORT 4 HD GR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31582/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", COSMOTE SPORT 6 HD GR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31584/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", COSMOTE SPORT 8 HD GR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31586/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", COSMOTE SPORT HIGHLIGHTS HD GR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31588/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", CYTAVISION SPORTS 1 GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31572/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", CYTAVISION SPORTS 3 GR
@@ -1600,16 +1524,6 @@ http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/20095/index.m3u8
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/20097/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", PIMPLE TV 6
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31681/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", POLSAT SPORT 2 HD PL
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7310/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", POLSAT SPORT EXTRA 1 HD PL
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7308/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", POLSAT SPORT EXTRA 3 HD PL
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7306/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", POLSAT SPORT FIGHT HD PL
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7311/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS", POLSAT SPORT PREMIUM 2 HD PL
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7305/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", PREMIER SPORTS 1 HD UK
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/6555/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS", Q LEAGUE HD KZ
@@ -1950,8 +1864,16 @@ https://vip.opstream90.com/20251216/20281_a829b6de/3000k/hls/mixed.m3u8
 https://vip.opstream13.com/20240625/4458_e8f28385/3000k/hls/mixed.m3u8 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", FURIOSA: CON ĐƯỜNG TỬ THẦN 
 https://vip.opstream10.com/20220321/1242_d6b90bdb/3000k/hls/mixed.m3u8 
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN 2: CHIẾN HỎA TÂY KỲ 
-https://vip.opstream90.com/20250807/10168_5d4a1850/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN BẢNG TRUYỀN KỲ
+https://s4.phim1280.tv/20250219/e1KSY5Ig/2000kb/hls/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: TRIỀU CA PHONG VÂN
+https://s6.kkphimplayer6.com/20250806/zEebUON5/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: CHIẾN HỎA TÂY KỲ 
+https://s6.kkphimplayer6.com/20250811/AxE6wUA2/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: DƯƠNG TIỄN
+https://s6.kkphimplayer6.com/20251225/h2OBfTNB/3500kb/hls/index.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP",PHONG THẦN: LÔI CHẤN TỬ
+https://s6.kkphimplayer6.com/20250529/AbFchWMA/3500kb/hls/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", BLACK PANTHER: CHIẾN BINH BÁO ĐEN 
 https://s6.kkphimplayer6.com/20251211/G08l6aGH/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", SÁT THỦ ANNA
