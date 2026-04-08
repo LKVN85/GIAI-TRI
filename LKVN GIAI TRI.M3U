@@ -189,6 +189,24 @@ https://live.fptplay53.net/live/media/event-06/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-07/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 7 
 https://live.fptplay53.net/live/media/event-07/hls_avc_v6/index.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 8
+https://live.fptplay53.net/live/media/su-kien-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 8
+https://live.fptplay53.net/live/media/event-08/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 9
+https://live.fptplay53.net/live/media/su-kien-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 9
+https://live.fptplay53.net/live/media/event-09/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 10
+https://live.fptplay53.net/live/media/su-kien-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 10
+https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Sự Kiện 11
+https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", FPT Event 11
+https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
+
+
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  TV360 Promo
 https://freem3u.xyz/api/live/play.m3u8?vid=9904
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
@@ -354,8 +372,6 @@ https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
 https://live10.footballvideocdn20xx.info/live/blv-phao/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁU QUẪY
 https://live10.footballvideocdn20xx.info/live/blv-chao-quay/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV GẠO NẾP
-https://live10.footballvideocdn20xx.info/live/blv-gao-nep/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV MÈO BÉO
 https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
@@ -366,8 +382,15 @@ http://ssrv88.com:80/7897442120/8964203798/205563.ts
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=14740&extension=ts&play_token=jPBbeLu7rI
 #EXTINF:-1 group-title="VOLLEYBALL", VIASAT Sport
 http://salvacs.streaminc.biz:8691/Andresgato/fgZpmxUm/3703
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM 
+#EXTINF:-1 group-title="VOLLEYBALL", STREAM 1
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="VOLLEYBALL", STREAM 5
+https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="VOLLEYBALL", TRT Spor TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19067/index.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", TRT Spor FHD TR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19068/index.m3u8
+
 
 #EXTINF:-1 group-title="TENNIS", | TA 
 http://kstv.us:8080/c2Q2HDqQfM/111770/15940
@@ -417,7 +440,7 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99991278/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99991341/hls/master.m3u8?includeAssetTags=true&ads.xumo_channelId=99991341
 #EXTINF:-1 group-title="COMBAT", MMA Junkie
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/mma-junkie/master.m3u8
-#EXTINF:-1 group-title="COMBAT", SPORT KLUB FIGHT
+#EXTINF:-1 group-title="COMBAT", SPORT KLUB FIGHT
 http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981104&extension=ts
 #EXTINF:-1 group-title="COMBAT", BEIN SPORT SP
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
@@ -430,27 +453,27 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 1
-https://cdn.sports-cas889abxfileposo.site/live/live1190/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1201/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 2
-https://cdn.sports-cas889abxfileposo.site/live/live1191/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1202/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 3
-https://cdn.sports-cas889abxfileposo.site/live/live1192/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1203/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 4
-https://cdn.sports-cas889abxfileposo.site/live/live1193/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1204/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 5
-https://cdn.sports-cas889abxfileposo.site/live/live1194/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 6
-https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 7
-https://cdn.sports-cas889abxfileposo.site/live/live1196/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1196/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 8
-https://cdn.sports-cas889abxfileposo.site/live/live1197/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1197/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 9
-https://cdn.sports-cas889abxfileposo.site/live/live1198/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1198/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 10
-https://cdn.sports-cas889abxfileposo.site/live/live1199/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1199/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 11
-https://cdn.sports-cas889abxfileposo.site/live/live1200/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1200/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB|MINH ĐIỀN: Việt Nam vs Germany - FINAL World National Team Championship 2026.
 https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260301/015/292032015/REGL_B40CE219_292032015_1.smil/manifest.m3u8?rp=p03
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB| GẤU MÈO: Việt Nam vs Germany - Chung kết World National Team Championship 2026.
@@ -466,22 +489,20 @@ https://cdn.sports-cas889abxfileposo.site/live/live1185/index.m3u8|Referer=https
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", KHU MẤN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MASON
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NEM CHUA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", BÓ SỮA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_3.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA A
@@ -502,8 +523,6 @@ https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
 https://live10.footballvideocdn20xx.info/live/blv-neymar/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DƯA HẤU
 https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ GẠO NẾP
-https://live10.footballvideocdn20xx.info/live/blv-gao-nep/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ MÈO BÉO
 https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A PHÁO
@@ -534,6 +553,8 @@ https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
 https://tqlive.zlylive.com/live/tqtv_blv_palmer/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", Mr LIM
 https://tqlive.zlylive.com/live/tqtv_blv_lim/playlist.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", Mr COCA
+https://tqlive.zlylive.com/live/tqtv_blv_coca/playlist.m3u8
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
@@ -608,6 +629,8 @@ https://tdlive.zlylive.com/live/tdtv_blv_taotau/playlist.m3u8
 https://tdlive.zlylive.com/live/tdtv_blv_taoche/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NGỌC HOÀNG
 https://tdlive.zlylive.com/live/tdtv_blv_ngochoang/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV THẦN THÔNG
+https://tdlive.zlylive.com/live/tdtv_blv_thanthong/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO ZAI
 https://tdlive.zlylive.com/live/tdtv_blv_taozai/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO GIÁO DỤC
@@ -623,6 +646,8 @@ https://tdlive.zlylive.com/live/tdtv_blv_taovanhoa/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO VĂN NGHỆ
 https://tdlive.zlylive.com/live/tdtv_blv_taovannghe/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO Y TẾ
+https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO THIÊN VƯƠNG
 https://tdlive.zlylive.com/live/tdtv_blv_taoyte/playlist.m3u8
 
 
@@ -669,6 +694,10 @@ https://bglive.edgemaxcdn.org/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=
 
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN BÁCH
 https://hqlive.zlylive.com/live/hqtv_blv_phanchuot/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TÔ
+https://hqlive.zlylive.com/live/hqtv_blv_phanto/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TỪ
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN CA A
 https://hqlive.zlylive.com/live/hqtv_blv_phanca/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN MÃ A
@@ -690,7 +719,9 @@ https://hqlive.zlylive.com/live/hqtv_blv_phanche/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN GẦY A
 https://hqlive.zlylive.com/live/hqtv_blv_phanhai/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HÀ LINH A
-https://hqlive.zlylive.com/live/hqtv_blv_alexphan/playlist.m3u8
+https://hqlive.zlylive.com/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN TU
+https://hqlive.zlylive.com/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", SÁT THỦ A
 https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN CHUỐI CHIÊN", PHAN HAI A
@@ -1360,6 +1391,34 @@ https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 https://5c7b683162943.streamlock.net/live/ngrp:bahrainsportstwo_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", BR: Unbeaten 
 https://unbeaten-tcl.amagi.tv/playlist.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 1 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31572/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 2 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31573/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 3 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31574/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 5 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31575/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 6 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31576/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Cytavision Sports 7 GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31577/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Sports 1 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/271/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Baltic 1 FHD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/5069/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Sports 2 HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/270/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Qazaqstan HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/2399/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Sports FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/272/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Setanta Sports+ FHD UA
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/5068/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", KZ: Viju+ Sport HD
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/2007/index.m3u8
+
+
 
 #EXTINF:-1 group-title="EU | SPORTS", 5SPORT 4K IL
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/16019/index.m3u8
@@ -1884,3 +1943,5 @@ https://vip.opstream16.com/20221122/26373_9079fbe2/3000k/hls/mixed.m3u8
 https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", WRATH OF THE TITANS: SỰ PHẪN NỘ CỦA CÁC VỊ THẦN
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
+https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
