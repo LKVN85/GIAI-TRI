@@ -386,38 +386,10 @@ http://salvacs.streaminc.biz:8691/Andresgato/fgZpmxUm/3703
 https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 5
 https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU MAS
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://global-media.onlive.vn/live/livebongchuyen/master.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU ORIGIN
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://global-media.onlive.vn/live/audio/livebongchuyen/origin/playlist.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU SD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://global-media.onlive.vn/live/video/livebongchuyen/640x360/playlist.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU FHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://global-media.onlive.vn/live/video/livebongchuyen/1920x1080/playlist.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU AHD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://global-media.onlive.vn/live/video/livebongchuyen/1920x1080/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LUKAKU UHD
-https://global-media.onlive.vn/live/livebongchuyen/master.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| HOÀNG LUÂN
-https://global-media.onlive.vn/live/blvhoangluan/master.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| HOÀNG LUÂN A
-https://global-media.onlive.vn/live/video/blvhoangluan/1280x720/playlist.m3u8|Referer=https://www.onlive.vn/
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| HOÀNG LUÂN B
-https://global-media.onlive.vn/live/blvhoangluan/master.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| ĐỨC MẠNH
-https://global-media.onlive.vn/live/ducmanh/master.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| ĐỨC MẠNH HD
-https://global-media.onlive.vn/live/video/ducmanh/1280x720/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", LMHT| ĐỨC MẠNH HD
-https://global-media.onlive.vn/live/video/ducmanh/1280x720/playlist.m3u8|Referer=https://www.onlive.vn/
 #EXTINF:-1 group-title="VOLLEYBALL", TRT Spor FHD TR
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19068/index.m3u8
-
+#EXTINF:-1 group-title="VOLLEYBALL", ECZ vs ZEREN
+https://d302.soft4game.com/o22/stream59/o/stream59/chunks.m3u8?nimblesessionid=65377871&wmsAuthSign=c2VydmVyX3RpbWU9NC84LzIwMjYgMjo1NDowNSBQTSZoYXNoX3ZhbHVlPVJrRXhmVjNVRDhzakRqdHExemx4R2c9PSZ2YWxpZG1pbnV0ZXM9MSZpZD0yMg==
 
 #EXTINF:-1 group-title="TENNIS", | TA 
 http://kstv.us:8080/c2Q2HDqQfM/111770/15940
@@ -480,39 +452,39 @@ https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 1
-https://cdn.sports-cas889abxfileposo.site/live/live1201/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1271/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 2
-https://cdn.sports-cas889abxfileposo.site/live/live1202/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1272/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 3
-https://cdn.sports-cas889abxfileposo.site/live/live1203/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1273/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 4
-https://cdn.sports-cas889abxfileposo.site/live/live1204/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1274/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 5
-https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1275/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 6
-https://cdn.sports-cas889abxfileposo.site/live/live1195/index.m3u8
+https://cdn.sports-cas889abxfileposo.site/live/live1286/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 7
-https://cdn.sports-cas889abxfileposo.site/live/live1196/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1276/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 8
-https://cdn.sports-cas889abxfileposo.site/live/live1197/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1277/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 9
-https://cdn.sports-cas889abxfileposo.site/live/live1198/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1278/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 10
-https://cdn.sports-cas889abxfileposo.site/live/live1199/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1279/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", Yalin WPA Men's 8-Ball World Championship 11
-https://cdn.sports-cas889abxfileposo.site/live/live1200/index.m3u8|Referer=https://choangtv2.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1280/index.m3u8|Referer=https://choangtv2.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB|MINH ĐIỀN: Việt Nam vs Germany - FINAL World National Team Championship 2026.
 https://vod-archive-global-cdn-z02.sooplive.com/spkt/vod/20260301/015/292032015/REGL_B40CE219_292032015_1.smil/manifest.m3u8?rp=p03
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB| GẤU MÈO: Việt Nam vs Germany - Chung kết World National Team Championship 2026.
-https://cdn.sports-cas889abxfileposo.site/live/live1185/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1281/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", UMB| BILLARDS
-https://cdn.sports-cas889abxfileposo.site/live/live1189/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1282/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", test LIVE 1
-https://cdn.sports-cas889abxfileposo.site/live/live1188/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1283/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", test LIVE 2
-https://cdn.sports-cas889abxfileposo.site/live/live1187/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1284/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", test LIVE3
-https://cdn.sports-cas889abxfileposo.site/live/live1185/index.m3u8|Referer=https://choangtv1.com/
+https://cdn.sports-cas889abxfileposo.site/live/live1285/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1
 https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949374969061_AiHD.m3u8?txSecret=cab965cf5fdb37568a8c1dc9057e9ceb&txTime=69D6DDF0
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
