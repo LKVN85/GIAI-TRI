@@ -387,14 +387,19 @@ https://gckc0525.edgemaxcdn.org/live/m5x1/playlist.m3u8|Referer=https://lauga.bo
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM 5
 https://gckc0525.edgemaxcdn.org/live/m5x5/playlist.m3u8|Referer=https://lauga.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU MAS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://global-media.onlive.vn/live/livebongchuyen/master.m3u8|Referer=https://www.onlive.vn/
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU ORIGIN
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://global-media.onlive.vn/live/audio/livebongchuyen/origin/playlist.m3u8|Referer=https://www.onlive.vn/
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU SD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://global-media.onlive.vn/live/video/livebongchuyen/640x360/playlist.m3u8|Referer=https://www.onlive.vn/
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU FHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://global-media.onlive.vn/live/video/livebongchuyen/1920x1080/playlist.m3u8|Referer=https://www.onlive.vn/
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU AHD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://global-media.onlive.vn/live/video/livebongchuyen/1920x1080/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", LUKAKU UHD
 https://global-media.onlive.vn/live/livebongchuyen/master.m3u8
@@ -508,6 +513,15 @@ https://cdn.sports-cas889abxfileposo.site/live/live1188/index.m3u8|Referer=https
 https://cdn.sports-cas889abxfileposo.site/live/live1187/index.m3u8|Referer=https://choangtv1.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", test LIVE3
 https://cdn.sports-cas889abxfileposo.site/live/live1185/index.m3u8|Referer=https://choangtv1.com/
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949374969061_AiHD.m3u8?txSecret=cab965cf5fdb37568a8c1dc9057e9ceb&txTime=69D6DDF0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949610994061_AiHD.m3u8?txSecret=d2051aee009e3d21903787ca00f28399&txTime=69D6DDF0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949780639061_AiHD.m3u8?txSecret=53180d30d23e0df2963c7547148e6535&txTime=69D6DDF0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4163949926550061_AiHD.m3u8?txSecret=95c025b5843ac066c6c65581985fa695&txTime=69D6DDF0
+
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI CHYM
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
