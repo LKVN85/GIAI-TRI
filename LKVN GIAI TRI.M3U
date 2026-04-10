@@ -356,6 +356,11 @@ http://lordstreams.live:80/9857855271/8369553594/661335
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31609/index.m3u8
 #EXTINF:-1 group-title="BASKETBALL", | ESPN
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1634105&extension=ts&play_token=lRe5cYsja9
+#EXTINF:-1 group-title="BASKETBALL", | S Sport 1
+http://boxviptv.com:25461/Roma0675/31865526/243
+#EXTINF:-1 group-title="BASKETBALL", | S SPORT 2
+http://boxviptv.com:25461/Roma0675/31865526/254
+
 
 
 #EXTINF:-1 group-title="VOLLEYBALL", KHOAI TÂY
@@ -1325,6 +1330,14 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/16288
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12047
 #EXTINF:-1 group-title="EU | SPORTS HD", SP| Movistar Deportes 2 HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/22347
+#EXTINF:-1 group-title="EU | SPORTS HD", TR| Tivibuspor HD
+http://boxviptv.com:25461/Roma0675/31865526/316
+#EXTINF:-1 group-title="EU | SPORTS HD", TR| Tivibuspor 1 HD
+http://boxviptv.com:25461/Roma0675/31865526/200
+#EXTINF:-1 group-title="EU | SPORTS HD", TR| Tivibuspor 2 HD
+http://boxviptv.com:25461/Roma0675/31865526/264
+#EXTINF:-1 group-title="EU | SPORTS HD", TR| Tivibuspor 3 HD
+http://boxviptv.com:25461/Roma0675/31865526/263
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| TNT Sports 1
 http://myxpanel.pro:80/Martin/Martin/709378
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| TNT Sports 2
@@ -1372,6 +1385,12 @@ http://antman1.giize.com/live/valeri1./T9KJ65fzceats/285791.ts
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", MA: Astro Football
 http://kstv.us:8080/c2Q2HDqQfM/111770/47724
+#EXTINF:-1 group-title="AS | SPORTS HD", AZ: CBC SPORT FHD
+http://boxviptv.com:25461/Roma0675/31865526/703
+#EXTINF:-1 group-title="AS | SPORTS HD", AZ: HT SPOR
+http://boxviptv.com:25461/Roma0675/31865526/1025
+#EXTINF:-1 group-title="AS | SPORTS HD", AZ:  A SPOR
+http://boxviptv.com:25461/Roma0675/31865526/116
 #EXTINF:-1 group-title="AS | SPORTS HD", QA| Bein Sport 01
 http://kstv.us:8080/c2Q2HDqQfM/111770/12554
 #EXTINF:-1 group-title="AS | SPORTS HD", QA| Bein Sport 02
