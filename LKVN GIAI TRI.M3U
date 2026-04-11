@@ -366,11 +366,11 @@ http://boxviptv.com:25461/Roma0675/31865526/254
 
 
 #EXTINF:-1 group-title="VOLLEYBALL", KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV VĂN MINH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV A TÍCH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_atich.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
@@ -520,21 +520,21 @@ https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4163950671381061_AiHD.m3u8?txSecret=d0bd6cb9519a0c4c47c1beeaa9919600&txTime=69D84B90
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_2.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_lachanh.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN MINH 
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai3.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_supluon.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", MASON
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_5.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", BÒ SỮA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", NEM CHUA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhmuot_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_6.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_banhda_full-hd.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", A TÍCH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_atich.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", TÁO ĐỎ
@@ -548,25 +548,25 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHÁO QUẪY
 https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A MẬP
-https://live10.footballvideocdn20xx.info/live/blv-a-map/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ VĂN CHUẨN
-https://live10.footballvideocdn20xx.info/live/blv-van-chuan/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHIM NHỎ
-https://live10.footballvideocdn20xx.info/live/blv-chim-nho/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DƯA HẤU
-https://live10.footballvideocdn20xx.info/live/blv-dua-hau/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ MÈO BÉO
-https://live10.footballvideocdn20xx.info/live/blv-meo-beo/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A PHÁO
-https://live10.footballvideocdn20xx.info/live/blv-phao/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ NEYMAR
-https://live10.footballvideocdn20xx.info/live/blv-neymar/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-neymar/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DYLAN
-https://live10.footballvideocdn20xx.info/live/blv-dylan/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A TÁO
-https://live10.footballvideocdn20xx.info/live/blv-tao/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", LÒ GIÓ TAI
-https://live10.footballvideocdn20xx.info/live/blv-a-tai/playlist.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", HOẮC ĐÔ
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", MÃ SIÊU
