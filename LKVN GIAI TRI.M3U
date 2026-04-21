@@ -207,35 +207,41 @@ https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG",  TV360 Promo
-https://freem3u.xyz/api/live/play.m3u8?vid=9904
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360 Live
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360.live/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+1
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+1 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+2
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+2 HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c17f1b571e985f15817351163763bf64:61951ba946496cbfeede334b54a182f8
 https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+9
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-9/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+10
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-10/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+11
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/tv360-11/KenhCoBan.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+12
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+3 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
+https://vietanhtv.id.vn/tv360/148/index.mpd
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+4 HD
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+9 HD
+https://vietanhtv.id.vn/tv360/9887/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+10 HD
+https://vietanhtv.id.vn/tv360/9957/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+11 HD
+https://vietanhtv.id.vn/tv360/9958/index.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", TV360+12  HD
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 https://vietanhtv.id.vn/tv360/10001/index.mpd
-
 
 #EXTINF:-1 group-title="SCVcab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -368,12 +374,14 @@ http://boxviptv.com:25461/Roma0675/31865526/254
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLVKHOAI TÂY
+#EXTINF:-1 group-title="VOLLEYBALL", BLV KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV A TÍCH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_atich.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PUMA
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV HẠT MÍT
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THẦN
 https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHÁO QUẪY
@@ -382,8 +390,8 @@ https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
 https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.zlylive.com/live/tqtv_blv_ricky/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV ZEMAN
-https://gckc0525.edgemaxcdn.org/live/manze/playlist.m3u8|Referer=https://lauga.bonglau.tv/
+#EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
+https://pull-kda.fastestcdn-global.com/live/de63d13cafd14d53af11c567c94d1a68/index.m3u8|Referer=https://khandaia3.me/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT
@@ -519,7 +527,7 @@ https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com
 https://7ee25201465b9b521d2f36502bfe10af.v.smtcdns.net/play.cbalive.weibisai.com/live/4163950671381061_AiHD.m3u8?txSecret=d0bd6cb9519a0c4c47c1beeaa9919600&txTime=69D84B90
 
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", VĂN MINH 
@@ -534,37 +542,35 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", A TÍCH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_atich.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", TÁO ĐỎ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA A
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_1.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA B
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv5.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", QUÊ CHOA C
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_cudo.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A PHÁO
+#EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_chexanh.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
 https://pull.globalcdnnetworksc2030.info/str01/blv-phao/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHIM NHỎ
+#EXTINF:-1 group-title="QUÊ HOA TAM", CHIM NHỎ
 https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ VĂN CHUẨN
+#EXTINF:-1 group-title="QUÊ HOA TAM", VĂN CHUẨN
 https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ MÈO BÉO
+#EXTINF:-1 group-title="QUÊ HOA TAM", MÈO BÉO
 https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ CHÁO QUẪY
+#EXTINF:-1 group-title="QUÊ HOA TAM", CHÁO QUẪY
 https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DƯA HẤU
+#EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
 https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A MẬP
+#EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI KIẾN
+https://pull.globalcdnnetworksc2030.info/str01/blv-nguoi-kien/index.m3u8
+#EXTINF:-1 group-title="QUÊ HOA TAM", A MẬP
 https://pull.globalcdnnetworksc2030.info/str01/blv-a-map/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A TÁO
+#EXTINF:-1 group-title="QUÊ HOA TAM", A TÁO
 https://pull.globalcdnnetworksc2030.info/str01/blv-tao/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ A TAI
+#EXTINF:-1 group-title="QUÊ HOA TAM", A TAI
 https://pull.globalcdnnetworksc2030.info/str01/blv-a-tai/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ NEYMAR
+#EXTINF:-1 group-title="QUÊ HOA TAM", NEYMAR
 https://pull.globalcdnnetworksc2030.info/str01/blv-neymar/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", LÒ DYLAN
+#EXTINF:-1 group-title="QUÊ HOA TAM", DYLAN
 https://pull.globalcdnnetworksc2030.info/str01/blv-dylan/index.m3u8
 #EXTINF:-1 group-title="QUÊ HOA TAM", HOẮC ĐÔ
 https://tqlive.zlylive.com/live/tqtv_blv_hoacdo/playlist.m3u8
