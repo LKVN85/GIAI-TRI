@@ -939,6 +939,14 @@ https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769651073-0-0-55d5
 https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO ĐỎ 
 https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LOKA
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SATIVA
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ROSI
+https://live.inplyr.com/room/9912102.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RICKHANTER
+https://live.inplyr.com/room/9912101.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A PÁO
 https://live.inplyr.com/room/235232.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
@@ -949,6 +957,8 @@ https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678f
 https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=57bff280b61906b71369ee0fdaa866d5&txTime=697c529d
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BONBON
+https://live.inplyr.com/room/597924.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
 https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KEM 
@@ -2100,14 +2110,14 @@ https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
 https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", T1
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LST1
 https://auto.cdnok9.com/live/sd-6MwcqsupL6kwWf8tVi/playlist.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", T2
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LST2
 https://auto.cdnok9.com/live/sd-6MwcqsvYzJGJ4GB7Fa/playlist.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", T3
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LST3
 https://auto.cdnok9.com/live/sd-6MwdayJdmEERF1Ywet/playlist.m3u8
-#EXTINF:-1 group-title="PHIM CHIẾU RẠP", T4
-https://auto.cdnok9.com/live/sd-6MwdayJdmEERF1Ywet/playlist.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LST4
+https://auto.cdnok9.com/live/sd-6Mwcqsu4M3q5v6g8fe/playlist.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", CAKHIA
 https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", TOMMY SOCO
@@ -2116,3 +2126,10 @@ https://pull06.scstream.net/live/stream-414317_lhd.flv?auth_key=1777429105-0-0-8
 https://pull06.scstream.net/live/stream-445260_lhd.flv?auth_key=1777429165-0-0-78fd42980c8d3426dbc56ad2e0defdb8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", 7UP SOCO
 https://pull06.scstream.net/live/stream-534219_lhd.flv?auth_key=1777429645-0-0-740ccbb4ed5ed1cbb3a8c2729b51ef2a
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SATIVA SOCO
+https://pull06.scstream.net/live/stream-321443_lhd.flv?auth_key=1777429885-0-0-0e4eb292e08ec10047eac7324b81e3f7
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", LOKA SOCO
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", BONBON SOCO
+https://live.inplyr.com/room/597924.m3u8
+
