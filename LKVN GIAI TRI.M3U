@@ -1222,6 +1222,8 @@ https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83da
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT HD
+http://87.246.54.249:8080/DiemaSport/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 2 HD
 http://87.246.54.249:8080/DiemaSport2/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 3 HD
