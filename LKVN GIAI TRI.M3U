@@ -214,66 +214,122 @@ https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
 
 
-#EXTINF:-1 group-title="FPV", TV360+1 HD
+#EXTINF:-1 tvg-id="tv360plus1" group-title="Sự Kiện TV360" tvg-logo="https://img-zlr1.tv360.vn/image1/2026/04/15/22/1776266760359/ba1ca843cd06_480_270.png", TV360+1
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
-#EXTINF:-1 group-title="FPV", TV360+2 HD
+#EXTINF:-1 tvg-id="tv360plus2" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189794311/c4d18ecff9f7_640_360.png", TV360+2
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c17f1b571e985f15817351163763bf64:61951ba946496cbfeede334b54a182f8
 https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title="FPV", TV360+3 HD
+#EXTINF:-1 tvg-id="tv360plus3" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189872609/e569653d09d3_640_360.png", TV360+3
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://vietanhtv.id.vn/tv/cleankey.php?id=tv360plus3
 https://vietanhtv.id.vn/tv360/148/index.mpd
-#EXTINF:-1 group-title="FPV", TV360+4 HD
+#EXTINF:-1 tvg-id="tv360plus4" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189917617/5db9e5a7d0fd_640_360.png", TV360+4
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8
-#EXTINF:-1 group-title="FPV", TV360+9 HD
+#KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
+https://vietanhtv.id.vn/tv360/2458/index.mpd
+#EXTINF:-1 tvg-id="tv360plus5" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/24/21/1727189978632/51f31c767a91_640_360.png", TV360+5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ad06f4610c564dc78f5955b71fa85fe8:0ebfe0ecc37ddb67b2bc9580e1b8fbed
+https://vietanhtv.id.vn/tv360/9867/index.mpd
+#EXTINF:-1 tvg-id="tv360plus6"
+#EXTINF:-1 tvg-id="tv360plus9" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2024/09/30/22/1727709197325/1be646ba55c5_640_360.png", TV360+9
 https://vietanhtv.id.vn/tv360/9887/index.m3u8
-#EXTINF:-1 group-title="FPV", TV360+10 HD
+#EXTINF:-1 tvg-id="tv360plus10" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/1759223393533/4ff09f8a4b49_640_360.png", TV360+10
 https://vietanhtv.id.vn/tv360/9957/index.m3u8
-#EXTINF:-1 group-title="FPV", TV360+11 HD
+#EXTINF:-1 tvg-id="tv360plus11" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2025/09/30/16/175922342147/3c89be41fe63_640_360.png", TV360+11
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
-#EXTINF:-1 group-title="FPV", TV360+12  HD
+#EXTINF:-1 tvg-id="tv360plus12" group-title="Sự Kiện TV360" tvg-logo="https://img-ali1.tv360.vn/image1/2026/03/05/10/1772681417916/2433e49579ab_640_360.png", TV360+12
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=70d033252d025d719ba70a37acc0f5c8:6ca465d8b3018f1604da6d43d3395a6d
 https://vietanhtv.id.vn/tv360/10001/index.mpd
 
-#EXTINF:-1 group-title="FPV", PRIME 1
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 1
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 2
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 3
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 4
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 5
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 6
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 7
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 9
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 10
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7c942778e874d43be92b8d0a0cd11b4:6d54358306571658ffdb952c6560688b
+https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 11
 https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 2
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 12
 https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 3
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 13
 https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 4
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 14
 https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 5
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 15
 https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 6
+#EXTINF:-1 group-title="Sự Kiện VTVPrime" tvg-logo="https://vtvprime.vn/sideLogoBig.png", Sự Kiện VTVPrime 16
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 7
-https://liveh34byt.vtvprime.vn/hls/SKSS7/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 8
-https://liveh34byt.vtvprime.vn/hls/SKSS8/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 9
-https://liveh34byt.vtvprime.vn/hls/SKSS9/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 10
-https://liveh34byt.vtvprime.vn/hls/SKSS10/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 11
-https://liveh34byt.vtvprime.vn/hls/SKSS11/04.m3u8
-#EXTINF:-1 group-title="FPV", PRIME 12
-https://liveh34byt.vtvprime.vn/hls/SKSS12/04.m3u8
 
 #EXTINF:-1 group-title="SCVcab", SCTV1 HD
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -586,57 +642,57 @@ https://liveh34byt.vtvprime.vn/hls/SKSS11/04.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 12
 https://liveh34byt.vtvprime.vn/hls/SKSS12/04.m3u8
 
-#EXTINF:-1 group-title="QUÊ HOA TAM", KHOAI TÂY
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", KHOAI TÂY
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", KHU MẤN
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", KHU MẤN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", VĂN MINH 
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", BÒ SỮA
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", BÒ SỮA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_bosua.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", NEM CHUA
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", NEM CHUA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", RƯỢU MẬN
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", RƯỢU MẬN
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_ruouman.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", MERLON
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", MERLON
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", PUMA
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", TÁO ĐỎ
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", TÁO ĐỎ
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  CHÈ XANH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  CHÈ XANH +
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  CHÈ XANH +
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_chexanh.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  HẠT MÍT
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  HẠT MÍT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_hatmit.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM",  QUÊ CHOA
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  QUÊ CHOA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", PHÁO
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", PHÁO
 https://pull.globalcdnnetworksc2031.info/str01/blv-phao/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", CHIM NHỎ
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", CHIM NHỎ
 https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", VĂN CHUẨN
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", VĂN CHUẨN
 https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", MÈO BÉO
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", MÈO BÉO
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", CHÁO QUẪY
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", CHÁO QUẪY
 https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", DƯA HẤU
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", DƯA HẤU
 https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI KIẾN
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", NGƯỜI KIẾN
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", NGƯỜI CAT
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", NGƯỜI CAT
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", A MẬP
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", A MẬP
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-map/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", A TÁO
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", A TÁO
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", A TAI
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", A TAI
 https://pull.globalcdnnetworksc2031.info/str01/blv-a-tai/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", NEYMAR
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", NEYMAR
 https://pull.globalcdnnetworksc2031.info/str01/blv-neymar/index.m3u8
-#EXTINF:-1 group-title="QUÊ HOA TAM", DYLAN
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", DYLAN
 https://pull.globalcdnnetworksc2031.info/str01/blv-dylan/index.m3u8
 
 
