@@ -442,14 +442,22 @@ http://boxviptv.com:25461/Roma0675/31865526/1353
 http://boxviptv.com:25461/Roma0675/31865526/1255
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM DZRI
 https://d302.soft4game.com/o22/stream244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI2IDg6NDc6MzIgQU0maGFzaF92YWx1ZT1LZHh3Y2VxUG1kbHRxSHRyOE05Z0JRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
-#EXTINF:-1 group-title="VOLLEYBALL", KDA| KAKA
-https://sgtdrxtdjeliv.vcdn.cloud/1777996241_hd/1777996241_hd@720p.m3u8|Referer=https://giovang.fun/
+#EXTINF:-1 group-title="VOLLEYBALL", KDA| GIỜ VÀNG PERRY
+https://sgtdrxtdjeliv.vcdn.cloud/1777996241_hd/1777996241_hd@720p.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", KDA| NUI
 https://sgtdrxtdjeliv.vcdn.cloud/1777906957_hd/1777906957_hd@720p.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", GIO VANG
-https://sgtdrxtdjeliv.vcdn.cloud/1777906962_hd/1777906962_hd@720p.m3u8|Referer=https://giovang.fun/
-#EXTINF:-1 group-title="VOLLEYBALL", STREAM 5
+https://sgtdrxtdjeliv.vcdn.cloud/1777906962_hd/1777906962_hd@720p.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", GIỜ VÀNG THÌN
 https://sgtdrxtdjeliv.vcdn.cloud/1777996125_hd/1777996125_hd@720p.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", GIỜ VÀNG NẾN
+https://sgtdrxtdjeliv.vcdn.cloud/1777996158_hd/1777996158_hd@720p.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", GIỜ VÀNG TÔM
+https://sgtdrxtdjeliv.vcdn.cloud/1777996248_hd/1777996248_hd@720p.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", GIỜ VÀNG CẦY
+https://sgtdrxtdjeliv.vcdn.cloud/1777996310_hd/1777996310_hd@720p.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", GIỜ VÀNG CHANH
+https://sgtdrxtdjeliv.vcdn.cloud/1777907050_hd/1777907050_hd@720p.m3u8
 
 #EXTINF:-1 group-title="TENNIS", | TA 
 http://kstv.us:8080/c2Q2HDqQfM/111770/15940
