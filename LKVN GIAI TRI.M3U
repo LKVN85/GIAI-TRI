@@ -604,16 +604,23 @@ https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
 https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", SABong 6
 https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4192698907249061_AiSD.m3u8?txSecret=c26dc90e8cc3b55a626bfe15c2df0393&txTime=69F030C0
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4
-https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1 TOYOTA Thailand Open 2026
+https://576572429726c2abb81829f2b3d1d81c.v.smtcdns.net/play.cbalive.weibisai.com/live/4203724181720061_AiSD.m3u8?txSecret=f37ba1f67cc1c2da4fe0831fa57f673d&txTime=6A03BF00
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2 TOYOTA Thailand Open 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203724716443061_AiSD.m3u8?txSecret=f93fbdce8adecc279400b8e880a7e78f&txTime=6A03BF00
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3 TOYOTA Thailand Open 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4203724527586061_AiSD.m3u8?txSecret=e517948c8700f7b78ab8a71e0827373b&txTime=6A03BF00
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4 TOYOTA Thailand Open 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4203724353563061_AiSD.m3u8?txSecret=c3bd30127e0d1000705287375bf2681a&txTime=6A03BF00
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1 BAOJI China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210879692919061_AiSD.m3u8?txSecret=22b53b8ef867524250f8b8124dfd53b0&txTime=6A03B0F0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2 BAOJI China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210879832572061_AiSD.m3u8?txSecret=fb43b70a6e8bcbc8f60ede2bbaca647a&txTime=6A03B0F0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3 BAOJI China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210879981542061_AiSD.m3u8?txSecret=91009c534dbfb3da99537f41edfd6f66&txTime=6A03B0F0
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4 BAOJI China Masters 2026
+https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210880124083061_AiSD.m3u8?txSecret=ff1911e4afd6cdf0d997d00b18fe617b&txTime=6A03B0F0
+
 
 
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", KHU MẤN
