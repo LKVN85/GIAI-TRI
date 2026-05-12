@@ -58,14 +58,6 @@ https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
 https://live.fptplay53.net/epzsd1/tayninh01_hls.smil/chunklist_b1800000.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
-https://freem3u.xyz/api/live/play.m3u8?vid=53
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
-http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
-http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/binh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV1 
 https://live.fptplay53.net/epzhd1/htv1_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV2
@@ -96,6 +88,14 @@ https://liveh34.vtvprime.vn/hls/HTVGIADINH/03.m3u8
 https://liveh34.vtvprime.vn/hls/HTVPHUNU/03.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTVC+
 https://live.fptplay53.net/epzhd1/htvcplus_vhls.smil/chunklist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 1
+https://freem3u.xyz/api/live/play.m3u8?vid=53
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG NAI TV 2
+http://118.107.85.4:1935/live/smil:DNTV2.smil/playlist.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV1 
+http://118.107.85.5:1935/live/smil:LTV.smil/playlist.m3u8 
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", LÂM ĐỒNG TV2
+https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/binh-thuan/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV HD
 https://cdnbaokhanhhoa.com/live/1332e3a79e27.m3u8?vhost=video
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", KHÁNH HÒA TV 1
@@ -355,8 +355,6 @@ https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
 https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
-
-
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
 https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
 #EXTINF:-1 group-title="BASKETBALL", BLV CHAN SENA 
@@ -371,8 +369,6 @@ https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4
 https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769650533-0-0-a40f3e49005a63422cb28386e86131c3
 #EXTINF:-1 group-title="BASKETBALL", BLV DƯA HẤU
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV TÁO ĐỎ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_taodo.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV DUNKEST
 https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest/index.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV PHAN TỪ
@@ -409,8 +405,6 @@ http://boxviptv.com:25461/Roma0675/31865526/254
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV VĂN MINH
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV KHOAI TÂY
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV PUMA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
@@ -623,18 +617,20 @@ https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanca/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN LÂM
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanlam/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH 
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HÀ LINH 
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", THIÊN LÔI
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", LƯƠNG BỐNG 
-https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN MÃO 
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchanh/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN ANH
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHỚP
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanchop/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HÀ LINH 
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanhalinh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TV", THIÊN LÔI
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_thienloi/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH 
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phando/playlist.m3u8
+#EXTINF:-1 group-title="HỘI QUÁN TV", LƯƠNG BỐNG 
+https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CẬU CẢ A
 https://yvm80526.edgemaxcdn.org/live/hqtv_blv_phancauca/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHÈ A
@@ -710,6 +706,8 @@ https://live5.msrktz.app/live/07808742.m3u8
 https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 group-title="COLA TV", FANTA
 https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 group-title="COLA TV", AQUA
+https://live5.msrktz.app/live/18812304.m3u8
 #EXTINF:-1 group-title="COLA TV", LAVIE
 https://live5.msrktz.app/live/75748097.m3u8
 #EXTINF:-1 group-title="COLA TV", MONSTER 
@@ -762,22 +760,18 @@ https://live5.msrktz.app/live/88508431.m3u8
 
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_namtao/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO THIÊN VƯƠNG
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taothienvuong/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO TỈNH TÁO
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NGỌC HOÀNG
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV THẦN THÔNG
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_thanthong/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO CHÈ
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taoche/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO MÈO
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO XANH
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taoxanh/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO TÀU
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotau/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO CHÈ
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taoche/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NGỌC HOÀNG
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_ngochoang/playlist.m3u8
-#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV THẦN THÔNG
-https://yvm80526.edgemaxcdn.org/live/tdtv_blv_thanthong/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO ZAI
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taozai/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO GIÁO DỤC
@@ -796,6 +790,9 @@ https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taovannghe/playlist.m3u8
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taoyte/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO THIÊN VƯƠNG
 https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taothienvuong/playlist.m3u8
+#EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO TỈNH TÁO
+https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8
+
 
 
 #EXTINF:-1 group-title="VÒNG CẤM XÂY CON", XÂY CON
