@@ -417,14 +417,8 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay/index.m3u8
 https://pull.globalcdnnetworksc2031.info/str01/blv-meo-beo/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
 https://tqlive.yarncdn.live/live/tqtv_blv_ricky/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://pull-kda.fastestcdn-global.com/live/3de315782e8a4f5c8a83c01df45ce12c/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA +
 https://pull-kda.fastestcdn-global.com/live/3de315782e8a4f5c8a83c01df45ce12c/index.m3u8|Referer=https://khandaia3.me/
-#EXTINF:-1 group-title="VOLLEYBALL", BLV BONG LAU
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="VOLLEYBALL", BLV BONG LAU +
-https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT 1
@@ -435,8 +429,8 @@ http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19068/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", TRT SPOR YILDIZ
 http://boxviptv.com:25461/Roma0675/31865526/1353
-#EXTINF:-1 group-title="VOLLEYBALL", tabii Spor ʜᴅ
-http://boxviptv.com:25461/Roma0675/31865526/1255
+#EXTINF:-1 group-title="VOLLEYBALL", Viju+ Sport
+http://de.seetv.cc/play/77/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", STREAM DZRI
 https://d302.soft4game.com/o22/stream244/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9NC8yNi8yMDI2IDg6NDc6MzIgQU0maGFzaF92YWx1ZT1LZHh3Y2VxUG1kbHRxSHRyOE05Z0JRPT0mdmFsaWRtaW51dGVzPTEmaWQ9MjI=
 
@@ -474,6 +468,10 @@ http://kstv.us:8080/c2Q2HDqQfM/111770/47642
 https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_channelId=99951134
 #EXTINF:-1 group-title="COMBAT", MMA
 https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
+#EXTINF:-1 group-title="COMBAT", WWA
+http://de.seetv.cc/play/2638/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="COMBAT", BOXING
+http://de.seetv.cc/play/2641/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="COMBAT", DAZN TV
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="COMBAT", POLSAT 
@@ -499,7 +497,6 @@ http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=198
 http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
 #EXTINF:-1 group-title="COMBAT", Fight Network
 http://kstv.us:8080/c2Q2HDqQfM/111770/15901
-
 
 #EXTINF:-1 group-title="BADMINTON vs POOL", AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
@@ -843,14 +840,21 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH QUẤT
-https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH SÓI
-https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://laude.bonglau.tv/
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH HỘT
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="VÒNG XÂY LẪU", BÓNG LẪU
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
-
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BL1
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BL2
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BL3
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BL4
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BL5
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
