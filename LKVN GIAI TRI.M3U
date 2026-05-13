@@ -804,14 +804,9 @@ https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", BỊP CON
 https://xclive.yarncdn.live/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", CÁ KOI
-https://xclive.yarncdn.live/live/xctv_blv_ca/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", CHIẾN THẦN
 https://xclive.yarncdn.live/live/xctv_blv_chienca/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", GIA CÁT DỰ
-https://xclive.yarncdn.live/live/xctv_blv_giacatdu/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", H+
-https://xclive.yarncdn.live/live/xctv_blv_hatplus/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_hatplus/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", HÀN TÍN
 https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
@@ -820,7 +815,6 @@ https://xclive.yarncdn.live/live/xctv_blv_lungmat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", NGƯỜI KIẾN
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", THỢ LẶN
-https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN TÍCH
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
