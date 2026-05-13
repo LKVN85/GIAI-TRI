@@ -498,6 +498,7 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
 #EXTINF:-1 group-title="COMBAT", Fight Network
 http://kstv.us:8080/c2Q2HDqQfM/111770/15901
 
+
 #EXTINF:-1 group-title="BADMINTON vs POOL", AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
@@ -840,21 +841,21 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH QUẤT
-https://gckc0525.edgemaxcdn.org/live/anhquat.flv
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH SÓI
-https://gckc0525.edgemaxcdn.org/live/anhsoi.flv
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH HỘT
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", BL1
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", BL2
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", BL3
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", BL4
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VÒNG XÂY LẪU", BL5
-https://gckc0525.edgemaxcdn.org/live/m5x5.flv
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv|Referer=https://laude.bonglau.tv/
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
