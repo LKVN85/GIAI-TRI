@@ -384,9 +384,9 @@ https://live5.msrktz.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
 https://live5.msrktz.app/live/82054853.m3u8 
 #EXTINF:-1 group-title="BASKETBALL", BLV A LỎ
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 group-title="BASKETBALL", BLV PHONG VÂN
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+https://hls.cdnfaster-b.site/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 group-title="BASKETBALL", NBA 
 http://kstv.us:8080/c2Q2HDqQfM/111770/22501
 #EXTINF:-1 group-title="BASKETBALL", | Sky Sport Basket
@@ -858,61 +858,62 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8|Referer=https://
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
-https://flv.686868.me/live/GIANGPHUNGTIEN.flv?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
+https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A RÙA
-https://flv.686868.me/live/ALOI.flv?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
+https://hls.cdnfaster-b.site/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A SẾU
-https://flv.686868.me/live/HCONG.flv?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
+https://hls.cdnfaster-b.site/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A GẤU
-https://flv.686868.me/live/AGAU.flv?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
+https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHIẾN
-https://flv.686868.me/live/GIANGACHIEN.flv?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
+https://hls.cdnfaster-b.site/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
 #EXTINF:-1 group-title="CAKHIATV", THÍCH ĐỦ THỨ
-https://flv.686868.me/live/Anui.flv?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
+https://hls.cdnfaster-b.site/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
 #EXTINF:-1 group-title="CAKHIATV", DERICE
-https://flv.686868.me/live/DERICE.flv?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
+https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
 #EXTINF:-1 group-title="CAKHIATV", GÀ PHÁP
-https://flv.686868.me/live/GAPHAP.flv?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
+https://hls.cdnfaster-b.site/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
 #EXTINF:-1 group-title="CAKHIATV", HOÀNG CÁI
-https://flv.686868.me/live/ATIN.flv?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
+https://hls.cdnfaster-b.site/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
 #EXTINF:-1 group-title="CAKHIATV", PHONG VÂN
-https://flv.686868.me/live/PHONGVAN.flv?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+https://hls.cdnfaster-b.site/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
 #EXTINF:-1 group-title="CAKHIATV", A GẤU
-https://flv.686868.me/live/suplo.flv?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
+https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
 #EXTINF:-1 group-title="CAKHIATV", VĂN GÔN
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 group-title="CAKHIATV", VĂN VỞ
-https://flv.686868.me/live/VANVO.flv?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
+https://hls.cdnfaster-b.site/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A BẨY
-https://flv.686868.me/live/GIANGABAY.flv?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
+https://hls.cdnfaster-b.site/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHOÉN
-https://flv.686868.me/live/ACHOEN.flv?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
+https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A HỔ
-https://flv.686868.me/live/ANOBLV.flv?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
+https://hls.cdnfaster-b.site/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A HÚP
-https://flv.686868.me/live/GIANGAHUP.flv?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
+https://hls.cdnfaster-b.site/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A LỎ
-https://flv.686868.me/live/GIANGALOB.flv?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
+https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A KHOAI
-https://flv.686868.me/live/AKHOAI.flv?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
+https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A LONG
-https://flv.686868.me/live/ALONGCKTV.flv?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
+https://hls.cdnfaster-b.site/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÂY
-https://flv.686868.me/live/GIANGAMAY.flv?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
+https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÈO
-https://flv.686868.me/live/THOLAN.flv?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
+https://hls.cdnfaster-b.site/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A MIKE
-https://flv.686868.me/live/AMIKE.flv?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
+https://hls.cdnfaster-b.site/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A PÁO
-https://flv.686868.me/live/APAO.flv?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
+https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A PHỆ
-https://flv.686868.me/live/giangaphe.flv?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
+https://hls.cdnfaster-b.site/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A SÚN
-https://flv.686868.me/live/ASUN.flv?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
+https://hls.cdnfaster-b.site/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A TÁO
-https://flv.686868.me/live/GIANGATAO.flv?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
+https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
 #EXTINF:-1 group-title="CAKHIATV", GIÀNG A VOI
-https://flv.686868.me/live/APHO.flv?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+https://hls.cdnfaster-b.site/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
+
 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
 https://live.inplyr.com/room/147801.m3u8
@@ -1270,47 +1271,27 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT HD
-http://87.246.54.249:8080/DiemaSport/index.m3u8
+http://ronaldo.tvfor.pro/59Xxas4T4N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 2 HD
-http://87.246.54.249:8080/DiemaSport2/index.m3u8
+http://ronaldo.tvfor.pro/yEa58Rr77G/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 3 HD
-http://87.246.54.249:8080/DiemaSport3/index.m3u8
+http://ronaldo.tvfor.pro/394taY3pEN/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 1 HD
-http://87.246.54.249:8080/MaxSport1/index.m3u8
+http://ronaldo.tvfor.pro/imVJ0eJefpbM/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 2 HD
-http://87.246.54.249:8080/MaxSport2/index.m3u8
+http://ronaldo.tvfor.pro/t8bqPjUmEXYP/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 3 HD
-http://87.246.54.249:8080/MaxSport3/index.m3u8
+http://ronaldo.tvfor.pro/AUCDhnAEhYhL/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| MAX SPORT 4 HD
-http://87.246.54.249:8080/MaxSport4/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", AG| TYC SPORT
-http://myxpanel.pro:80/Martin/Martin/670987
-#EXTINF:-1 group-title="EU | SPORTS HD", BK| SPORT KLUB 1 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917287&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 2 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917286&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 3 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917285&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 4 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917284&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 5 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917283&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 6 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1917282&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 7 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981111&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 8 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981110&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 9 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981109&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 10 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981108&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 11 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981107&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB 12 HD
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981106&extension=ts
-#EXTINF:-1 group-title="EU | SPORTS HD", BK|  SPORT KLUB GOLF
-http://line.8kultradnscloud.ru:80/play/live.php?mac=00:1B:79:22:1F:AE&stream=1981105&extension=ts
+http://ronaldo.tvfor.pro/AabpjumHgsxF/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ| NOVA SPORT 1 HD
+http://ronaldo.tvfor.pro/ASIlkyrOST/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ| NOVA SPORT 2 HD
+http://ronaldo.tvfor.pro/yGMaNCTrio/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ| SPORT1
+http://ronaldo.tvfor.pro/a7yY2X33Vs/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
+#EXTINF:-1 group-title="EU | SPORTS HD", CZ| SPORT2
+http://ronaldo.tvfor.pro/mn5P6S6d3F/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", FR: Canal+ Foot
 http://ch-4k-top.org:80/play/live.php?mac=00:1A:79:7a:39:a6&stream=1071923&extension=ts&play_token=vcQAIeKouv
 #EXTINF:-1 group-title="EU | SPORTS HD", FR: Canal+ Sport
@@ -1329,16 +1310,37 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", IT: RAI Sport HD
 http://79.127.207.193:80/RaiSport/playlist.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 2 HD GR
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 2 UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31579/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 4 HD GR
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 4 UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31582/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 6 HD GR
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 6 UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31584/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 8 HD GR
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 8 UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31586/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT HIGHLIGHTS HD GR
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT HIGHLIGHTS UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31588/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 1 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31578/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 2 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31579/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 3 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31581/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 4 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31582/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 5 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31583/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 6 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 7 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31585/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 8 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31586/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport 9 HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31587/index.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", GR| Cosmote Sport Highlights HD GR
+http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31588/index.m3u8
+
 #EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN HD
 http://slayerteam.in.rs:80/play/live.php?mac=00:1A:79:E7:6F:F7&stream=1282769&extension=ts&play_token=PvkHBtDzYG
 #EXTINF:-1 group-title="EU | SPORTS HD", NL| ESPN 2 HD
@@ -1418,17 +1420,18 @@ http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700238
 #EXTINF:-1 group-title="EU | SPORTS HD", PT| DAZN 6
 http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700237
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| DIGI SPORT 1 HD
-http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/33797
+http://ronaldo.tvfor.pro/UsEnSMArci/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| DIGI SPORT 2 HD
+http://ronaldo.tvfor.pro/GOnDepEJaP/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/33799
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| DIGI SPORT 3 HD
-http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/33801
+http://ronaldo.tvfor.pro/lvErOUTOEC/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| DIGI SPORT 4 UHD
-http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/498425
+http://ronaldo.tvfor.pro/RMOnaRysTL/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| PRIMA SPORT 1 UHD
-http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/146486
+http://ronaldo.tvfor.pro/Rvrw421mEC/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| PRIMA SPORT 2 UHD
-http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/146488
+http://ronaldo.tvfor.pro/H42smfgsEC/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| PRIMA SPORT 3 UHD
 http://danbitman.ddns.net:8080/Danny_Stef/gR52whT/157160
 #EXTINF:-1 group-title="EU | SPORTS HD", RO| PRIMA SPORT 4 UHD
