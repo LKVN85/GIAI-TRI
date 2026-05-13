@@ -424,7 +424,7 @@ https://pull-kda.fastestcdn-global.com/live/3de315782e8a4f5c8a83c01df45ce12c/ind
 #EXTINF:-1 group-title="VOLLEYBALL", BLV BONG LAU
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV BONG LAU +
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", POLSAT SPORT 1
@@ -800,66 +800,57 @@ https://yvm80526.edgemaxcdn.org/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", XÂY CON
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", XÂY CON
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_xaycon/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A CỎ
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", A CỎ
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_aco/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", BỊP CON
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BỊP CON
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_bipcon/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", CÁ KOI
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", CÁ KOI
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_ca/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", CHIẾN THẦN
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", CHIẾN THẦN
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_chienca/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", GIA CÁT DỰ
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", GIA CÁT DỰ
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_giacatdu/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", H+
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", H+
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hatplus/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", HÀN TÍN
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", HÀN TÍN
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_hantin/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", LỬNG MẬT
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", LỬNG MẬT
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_lungmat/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", NGƯỜI KIẾN
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", NGƯỜI KIẾN
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_nguoikien/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", THỢ LẶN
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", THỢ LẶN
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_tholan/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", VĂN TÍCH
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", VĂN TÍCH
 https://yvm80526.edgemaxcdn.org/live/xctv_blv_vantich/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A PHỦ
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", A PHỦ
 https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", DẾ LỬA
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", DẾ LỬA
 https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", VĂN PHONG
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", VĂN PHONG
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU TRÀ ĐÁ
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU TRÀ ĐÁ
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU BẢO
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU BẢO
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU ĐÔ
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU ĐÔ
 https://bglive.yarncdn.live/live/bgtv_blv_tieudo/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU HẠC
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU HẠC
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU PÁO
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU PÁO
 https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU NGOAN ĐỒNG
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU BẢO+
-https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", A PHỦ+
-https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", VĂN PHONG+
-https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU TRÀ ĐÁ+
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU PÁO+
-https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU ĐÔ+
-https://bglive.yarncdn.live/live/bgtv_blv_tieudo/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", DẾ LỬA+
-https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU NGOAN ĐỒNG+
-https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8|Referer=https://vongcam.live/
-#EXTINF:-1 group-title="VÒNG CẤM XÂY CON", TIỂU HẠC+
-https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8|Referer=https://vongcam.live/
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH QUẤT
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH SÓI
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", ANH HỘT
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="VÒNG XÂY LẪU", BÓNG LẪU
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
+
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
