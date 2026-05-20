@@ -563,8 +563,6 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210882092859061_AiSD.m3u8?txSecret=943845d6e7b213f074a2f80a21289042&txTime=6A067010
 
 
-#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", KHU MẤN
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khuman.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", VĂN MINH 
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", BÒ SỮA
@@ -581,6 +579,8 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  HẠT MÍT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
+#EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", VỎ QUÝT
+https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA",  QUÊ CHOA
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/nhadai1.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", PHÁO THẦN
@@ -632,8 +632,6 @@ https://xclive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
 https://xclive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HÀ LINH 
 https://xclive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", THIÊN LÔI
-https://xclive.yarncdn.live/live/hqtv_blv_thienloi/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", CỦ HÀNH 
 https://xclive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", LƯƠNG BỐNG 
