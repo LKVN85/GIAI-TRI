@@ -545,8 +545,8 @@ https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
 https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", SABong 6
 https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1 TOYOTA Thailand Open 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726120330061_AiSD.m3u8?txSecret=10176e2b105c909fdfb5a3d60bdb9163&txTime=6A066200
+#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1 PERODUA Malaysia Masters 2026
+https://2a6096f50ffc05c7c7766fbd1358fce6.v.smtcdns.net/play.cbalive.weibisai.com/live/4207150827970061_AiHD.m3u8?txSecret=97248f93ec29096d5a215d1dbee29ff1&txTime=6A0F9C80
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2 TOYOTA Thailand Open 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4203726308666061_AiSD.m3u8?txSecret=9d85872e4d3fc87e7f961e3255fe6673&txTime=6A066200
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3 TOYOTA Thailand Open 2026
@@ -798,8 +798,7 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", XÂY CON
-https://xclive.yarncdn.live/live/xctv_blv_xaycon/playlist.m3u8
+
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A CỎ
 https://xclive.yarncdn.live/live/xctv_blv_aco/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", BỊP CON
@@ -820,6 +819,8 @@ https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_tholan/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN TÍCH
 https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", A LỀNH
+https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A PHỦ
 https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", DẾ LỬA
@@ -828,6 +829,8 @@ https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
 https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
+https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BẢO
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU ĐÔ
@@ -1307,7 +1310,7 @@ http://151.80.18.177:86/Eurosport_2_HD/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", FR: TRACE SPORT STARS
 https://trace-sportstars-samsungnz.amagi.tv/playlist.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", IT: RAI Sport HD
-http://79.127.207.193:80/RaiSport/playlist.m3u8
+http://lordstreams.live:80/9857855271/8369553594/661361
 #EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 2 UHD GR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/31579/index.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", GR| COSMOTE SPORT 4 UHD GR
