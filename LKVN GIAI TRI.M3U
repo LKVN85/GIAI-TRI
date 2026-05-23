@@ -638,28 +638,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", LƯƠNG BỐNG 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CẬU CẢ A
-https://hqlive.yarncdn.live/live/hqtv_blv_phancauca/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN CHÈ A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanche/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN GẦY A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TU
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", SÁT THỦ A
-https://live1.cdnbacklive.xyz/live/hqtv_blv_duphong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN HAI A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanhai/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN KIẾN A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanson/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN LONG A
-https://hqlive.yarncdn.live/live/hqtv_blv_phankhuong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN PHÉP A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbanh/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN SÓC A
-https://hqlive.yarncdn.live/live/hqtv_blv_phanbao/playlist.m3u8
-#EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TÔM A
-https://hqlive.yarncdn.live/live/hqtv_blv_phantom/playlist.m3u8
 
 
 #EXTINF:-1 group-title="SAO MAI TAM QUỐC", CÁ
@@ -827,6 +805,8 @@ https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", DẾ LỬA
 https://bglive.yarncdn.live/live/bgtv_blv_delua/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LAVIE
+https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN PHONG
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
@@ -849,6 +829,8 @@ https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://laude.bonglau.tv
 https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", ANH QUẤT
 https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", CHUỐI TO
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", BL1
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", BL2
@@ -1059,6 +1041,18 @@ https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189af
 https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
 #EXTINF:-1 group-title="LƯƠNG SƠN", HOA VINH 
 https://hls.cdnfaster-a.live/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
+#EXTINF:-1 group-title="LƯƠNG SƠN", HÀN TÍN
+https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
+#EXTINF:-1 group-title="LƯƠNG SƠN", MỘT CHÂN
+https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
+#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG
+https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
+#EXTINF:-1 group-title="LƯƠNG SƠN", NGƯỜI THÉP
+https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
+#EXTINF:-1 group-title="LƯƠNG SƠN", PHI HỔ
+https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
+#EXTINF:-1 group-title="LƯƠNG SƠN", LEO
+https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
 #EXTINF:-1 group-title="LƯƠNG SƠN", VĂN VỸ 
 https://hls.cdnfaster-a.live/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
 #EXTINF:-1 group-title="LƯƠNG SƠN", LƯU BỊ 
@@ -1071,8 +1065,8 @@ https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9
 https://hls.cdnfaster-a.live/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
 #EXTINF:-1 group-title="LƯƠNG SƠN", QUAN VŨ 
 https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
-#EXTINF:-1 group-title="LƯƠNG SƠN", NGŨ CA 
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526 
+#EXTINF:-1 group-title="LƯƠNG SƠN", PELE
+https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
 #EXTINF:-1 group-title="LƯƠNG SƠN", TRIỆU TỬ LONG 
 https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
 #EXTINF:-1 group-title="LƯƠNG SƠN", PHONG VÂN
@@ -1082,7 +1076,7 @@ https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa28344
 #EXTINF:-1 group-title="LƯƠNG SƠN", VƯƠNG LUÂN 
 https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f 
 #EXTINF:-1 group-title="LƯƠNG SƠN", A TỦA 
-https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74 
+https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
 #EXTINF:-1 group-title="LƯƠNG SƠN", CHU ĐỒNG 
 https://hls.cdnfaster-a.live/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46 
 #EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG 
@@ -1099,7 +1093,7 @@ https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=00
 https://hls.cdnfaster-a.live/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
 #EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
 https://hls.cdnfaster-a.live/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
-#EXTINF:-1 group-title="LƯƠNG SƠN", CONAN 
+#EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG CHÍ
 https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN 6 HD BR
