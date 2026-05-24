@@ -367,12 +367,6 @@ https://pull.niues.live/live/stream-558264_lhd.m3u8?auth_key=1767947011-0-0-ffde
 https://pull.niues.live/live/stream-9912106_lhd.m3u8?auth_key=1766744189-0-0-ac4779c6f88ad715ba319ad51854c925
 #EXTINF:-1 group-title="BASKETBALL", BLV A CHÈ
 https://pull.niues.live/live/stream-356042_lsd.m3u8?auth_key=1769650533-0-0-a40f3e49005a63422cb28386e86131c3
-#EXTINF:-1 group-title="BASKETBALL", BLV DƯA HẤU
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV DUNKEST
-https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest/index.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV PHAN TỪ
-https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH
 https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
 #EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ
@@ -612,6 +606,63 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-mr-dunkest/index.m3u8
 #EXTINF:-1 group-title="QUÊ CHOA BỐN MÙA", FANTA
 https://pull.globalcdnnetworksc2031.info/str01/blv-fanta/index.m3u8
 
+#EXTINF:-1 group-title="COLA TV", COCA 
+https://live5.msrktz.app/live/24561735.m3u8 
+#EXTINF:-1 group-title="COLA TV", COZY
+https://live5.msrktz.app/live/87379114.m3u8
+#EXTINF:-1 group-title="COLA TV", FANTA
+https://live5.msrktz.app/live/71426314.m3u8
+#EXTINF:-1 group-title="COLA TV", AQUA
+https://live5.msrktz.app/live/18812304.m3u8
+#EXTINF:-1 group-title="COLA TV", LAVIE
+https://live5.msrktz.app/live/75748097.m3u8
+#EXTINF:-1 group-title="COLA TV", MONSTER 
+https://live5.msrktz.app/live/75915087.m3u8 
+#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
+https://live5.msrktz.app/live/87547578.m3u8 
+#EXTINF:-1 group-title="COLA TV", PEPSI
+https://live5.msrktz.app/live/43612277.m3u8
+#EXTINF:-1 group-title="COLA TV", REDBULL
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", REVIVE
+https://live5.msrktz.app/live/33982309.m3u8
+#EXTINF:-1 group-title="COLA TV", ROCKSTAR 
+https://live5.msrktz.app/live/82054853.m3u8 
+#EXTINF:-1 group-title="COLA TV", SAMURAI 
+https://live5.msrktz.app/live/07808742.m3u8
+#EXTINF:-1 group-title="COLA TV", SODA 
+https://live5.msrktz.app/live/02456966.m3u8
+#EXTINF:-1 group-title="COLA TV", SPRITE 
+https://live5.msrktz.app/live/90725470.m3u8
+#EXTINF:-1 group-title="COLA TV", STING 
+https://live5.msrktz.app/live/14707124.m3u8 
+#EXTINF:-1 group-title="COLA TV", TEPPY 
+https://live5.msrktz.app/live/59444581.m3u8 
+#EXTINF:-1 group-title="COLA TV", WARRIOR 
+https://live5.msrktz.app/live/97885009.m3u8 
+#EXTINF:-1 group-title="COLA TV", 7 UP 
+https://live5.msrktz.app/live/78905744.m3u8 
+#EXTINF:-1 group-title="COLA TV", 247
+https://live5.msrktz.app/live/90865415.m3u8 
+#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
+https://live5.msrktz.app/live/99121525.m3u8
+#EXTINF:-1 group-title="COLA TV", C2 
+https://live5.msrktz.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
+https://live5.msrktz.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", DR THANH 
+https://live5.msrktz.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
+https://live5.msrktz.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", HỔ VẰN
+https://live5.msrktz.app/live/07428422.m3u8
+#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
+https://live5.msrktz.app/live/41943555.m3u8
+#EXTINF:-1 group-title="COLA TV", Ô LONG 
+https://live5.msrktz.app/live/97312754.m3u8 
+#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
+https://live5.msrktz.app/live/88508431.m3u8 
+
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN BÁCH
 https://hqlive.yarncdn.live/live/hqtv_blv_phanchuot/playlist.m3u8
 #EXTINF:-1 group-title="HỘI QUÁN TV", PHAN TÔ
@@ -682,65 +733,6 @@ https://tqlive.yarncdn.live/live/tqtv_blv_trieutulong/playlist.m3u8
 https://tqlive.yarncdn.live/live/tqtv_blv_modungphuc/playlist.m3u8
 
 
-
-#EXTINF:-1 group-title="COLA TV", COCA 
-https://live5.msrktz.app/live/24561735.m3u8 
-#EXTINF:-1 group-title="COLA TV", COZY
-https://live5.msrktz.app/live/87379114.m3u8
-#EXTINF:-1 group-title="COLA TV", FANTA
-https://live5.msrktz.app/live/71426314.m3u8
-#EXTINF:-1 group-title="COLA TV", AQUA
-https://live5.msrktz.app/live/18812304.m3u8
-#EXTINF:-1 group-title="COLA TV", LAVIE
-https://live5.msrktz.app/live/75748097.m3u8
-#EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live5.msrktz.app/live/75915087.m3u8 
-#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live5.msrktz.app/live/87547578.m3u8 
-#EXTINF:-1 group-title="COLA TV", PEPSI
-https://live5.msrktz.app/live/43612277.m3u8
-#EXTINF:-1 group-title="COLA TV", REDBULL
-https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", REVIVE
-https://live5.msrktz.app/live/33982309.m3u8
-#EXTINF:-1 group-title="COLA TV", ROCKSTAR 
-https://live5.msrktz.app/live/82054853.m3u8 
-#EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live5.msrktz.app/live/07808742.m3u8
-#EXTINF:-1 group-title="COLA TV", SODA 
-https://live5.msrktz.app/live/02456966.m3u8
-#EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live5.msrktz.app/live/90725470.m3u8
-#EXTINF:-1 group-title="COLA TV", STING 
-https://live5.msrktz.app/live/14707124.m3u8 
-#EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live5.msrktz.app/live/59444581.m3u8 
-#EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live5.msrktz.app/live/97885009.m3u8 
-#EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live5.msrktz.app/live/78905744.m3u8 
-#EXTINF:-1 group-title="COLA TV", 247
-https://live5.msrktz.app/live/90865415.m3u8 
-#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live5.msrktz.app/live/99121525.m3u8
-#EXTINF:-1 group-title="COLA TV", C2 
-https://live5.msrktz.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live5.msrktz.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live5.msrktz.app/live/79665343.m3u8 
-#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live5.msrktz.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live5.msrktz.app/live/07428422.m3u8
-#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live5.msrktz.app/live/41943555.m3u8
-#EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live5.msrktz.app/live/97312754.m3u8 
-#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live5.msrktz.app/live/88508431.m3u8 
-
-
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NAM TÀO
 https://tdlive.yarncdn.live/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV NGỌC HOÀNG
@@ -775,8 +767,6 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taoyte/playlist.m3u8
 https://tdlive.yarncdn.live/live/tdtv_blv_taothienvuong/playlist.m3u8
 #EXTINF:-1 group-title="THIÊN ĐÌNH ONLIVE", BLV TÁO TỈNH TÁO
 https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
-
-
 
 
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A CỎ
@@ -829,17 +819,21 @@ https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://laude.bonglau.tv
 https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", ANH QUẤT
 https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", CHUỐI TÂY
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://laude.bonglau.tv/
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", CHUỐI TIÊU
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://laude.bonglau.tv/
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", CHUỐI TO
 https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", BL1
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LIVE 1
 https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", BL2
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LIVE 2
 https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", BL3
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LIVE 3
 https://gckc0525.edgemaxcdn.org/live/m5x3.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", BL4
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LIVE 4
 https://gckc0525.edgemaxcdn.org/live/m5x4.flv|Referer=https://laude.bonglau.tv/
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", BL5
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", LIVE 5
 https://gckc0525.edgemaxcdn.org/live/m5x5.flv|Referer=https://laude.bonglau.tv/
 
 
