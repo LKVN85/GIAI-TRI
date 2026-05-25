@@ -387,7 +387,7 @@ http://de.seetv.cc/play/9984/632F375BC8243BC/video.m3u8
 http://lordstreams.live:80/9857855271/8369553594/661335
 #EXTINF:-1 group-title="BASKETBALL", | Arena Basket
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31609/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", HR| SK Basket
+#EXTINF:-1 group-title="BASKETBALL", | SK Basket
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
 #EXTINF:-1 group-title="BASKETBALL", | S Sport 1
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
@@ -413,6 +413,8 @@ https://cdnflv.xbdbotv.live/live/qh9n7igqhjpvrw5ebmldv5yp.flv
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 2
+http://de.seetv.cc/play/5452/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 3
 http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL",  Polsat Sport Premium 1 HD
@@ -450,13 +452,17 @@ http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700243
 http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
 #EXTINF:-1 group-title="TENNIS", | ESPN 3 MX HD
 http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
-#EXTINF:-1 group-title="TENNIS", | Tennis Channel
-http://kstv.us:8080/c2Q2HDqQfM/111770/15940
+#EXTINF:-1 group-title="TENNIS", | EURO1
+http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="TENNIS", | EURO2
+http://de.seetv.cc/play/5454/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="TENNIS", | Arena Tenis HD RS
+http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/162185
 #EXTINF:-1 group-title="TENNIS", | Tennis TV Classic
 https://amg01470-amg01470c1-freelivesports-emea-9021.playouts.now.amagi.tv/playlist/amg01470-atpmediaoperationsltdfast-tennistvclassics-freelivesportsemea/playlist.m3u8
-#EXTINF:-1 group-title="TENNIS", TENNIS + 
+#EXTINF:-1 group-title="TENNIS", | TENNIS + 
 https://amg01935-amg01935c1-amgplt0165.playout.now3.amagi.tv/playlist.m3u8 
-#EXTINF:-1 group-title="TENNIS", PICKLE TV 
+#EXTINF:-1 group-title="TENNIS", | PICKLE TV 
 https://fce26776.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/U3BvcnRzVHJpYmFsLWV1X1BpY2tsZVRWX0hMUw/playlist.m3u8
 
 
@@ -472,8 +478,12 @@ https://dbrb49pjoymg4.cloudfront.net/10001/99951134/hls/playlist.m3u8?ads.xumo_c
 https://dbrb49pjoymg4.cloudfront.net/10001/99951203/hls/playlist.m3u8?ads.xumo_channelId=99951203
 #EXTINF:-1 group-title="COMBAT", WWA
 http://de.seetv.cc/play/2638/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="COMBAT", EXTREME SPORTS
+http://de.seetv.cc/play/5469/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="COMBAT", BOXING
 http://de.seetv.cc/play/2641/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="COMBAT", ESPN BOXING
+http://de.seetv.cc/play/5467/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="COMBAT", DAZN TV
 https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-rakuten/CDN/master.m3u8
 #EXTINF:-1 group-title="COMBAT", POLSAT 
@@ -1272,12 +1282,15 @@ http://kstv.us:8080/c2Q2HDqQfM/111770/28741
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC Sports (Philadelphia) HD
 http://kstv.us:8080/c2Q2HDqQfM/111770/28738
 
+
 #EXTINF:-1 group-title="EU | SPORTS HD",UK: WORLD POKER TOUR
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/15d59f2f-80da-4448-9bce-775cc9f470f7/1.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", AU| REDBULL TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", UK| STRONGMAN 
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL | MOTOWIJA
+http://de.seetv.cc/play/5468/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT HD
 http://ronaldo.tvfor.pro/59Xxas4T4N/tht6v98456np1k198n81n2t8?|User-Agent=http-user-agent=Lavf/56.15.102
 #EXTINF:-1 group-title="EU | SPORTS HD", BG| DIEMA SPORT 2 HD
@@ -1413,31 +1426,17 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 1
 http://de.seetv.cc/play/5456/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 2
-http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 3
-http://de.seetv.cc/play/5458/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 4
-http://de.seetv.cc/play/5459/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 5
-http://de.seetv.cc/play/5460/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 6
-http://de.seetv.cc/play/5450/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 7
-http://de.seetv.cc/play/5451/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 8
 http://de.seetv.cc/play/5452/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 9
-http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 11
-http://de.seetv.cc/play/5454/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 12
-http://de.seetv.cc/play/5455/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| POLSAT SPORT EXTRA 3 HD PL
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport 3
+http://de.seetv.cc/play/5457/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport FIGHT
+http://de.seetv.cc/play/5458/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Extra 1
+http://de.seetv.cc/play/5451/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Extra 3
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7306/index.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 1 HD
-http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
-#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Premium 2 HD
-http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
+#EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport Extra 4
+http://de.seetv.cc/play/5450/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport PREMIUM 1 SUPER HD
 http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="EU | SPORTS HD", PL| Polsat Sport PREMIUM 2 SUPER HD
