@@ -692,21 +692,25 @@ https://tdlive.yarncdn.live/live/tdtv_blv_taotinhtao/playlist.m3u8
 https://hqlive.yarncdn.live/live/hqtv_blv_phantu/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO KINH TẾ
 https://tdlive.yarncdn.live/live/tdtv_blv_taokinhte/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG
-https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG +
-https://tdlive.yarncdn.live/live/tdtv_blv_thanthong/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO MÈO
-https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN ANH
 https://hqlive.yarncdn.live/live/hqtv_blv_phananh/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG
+https://tdlive.yarncdn.live/live/tdtv_blv_taovannghe/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", LƯƠNG BỐNG 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV THẦN THÔNG +
+https://tdlive.yarncdn.live/live/tdtv_blv_thanthong/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN CA 
 https://hqlive.yarncdn.live/live/hqtv_blv_phanca/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV TÁO MÈO
+https://tdlive.yarncdn.live/live/tdtv_blv_taomeo/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN QUẨY
+https://hqlive.yarncdn.live/live/hqtv_blv_phanquay/playlist.m3u8
+#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃ 
+https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN TÔ
 https://hqlive.yarncdn.live/live/hqtv_blv_phanto/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃ 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanma/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN LÂM
 https://hqlive.yarncdn.live/live/hqtv_blv_phanlam/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", PHAN MÃO 
@@ -719,8 +723,6 @@ https://hqlive.yarncdn.live/live/hqtv_blv_phanchop/playlist.m3u8
 https://hqlive.yarncdn.live/live/hqtv_blv_phanhalinh/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", CỦ HÀNH 
 https://hqlive.yarncdn.live/live/hqtv_blv_phando/playlist.m3u8
-#EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", LƯƠNG BỐNG 
-https://hqlive.yarncdn.live/live/hqtv_blv_phanliem/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV NAM TÀO
 https://tdlive.yarncdn.live/live/tdtv_blv_namtao/playlist.m3u8
 #EXTINF:-1 group-title="HỘI THIÊN ĐÌNH", BLV NGỌC HOÀNG
@@ -760,12 +762,12 @@ https://xclive.yarncdn.live/live/xctv_blv_hantin/playlist.m3u8
 https://xclive.yarncdn.live/live/xctv_blv_lungmat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", NGƯỜI KIẾN
 https://xclive.yarncdn.live/live/xctv_blv_nguoikien/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", PHÒ MÃ
+https://xclive.yarncdn.live/live/xctv_blv_muphoma/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", PHỦ BÉO
 https://xclive.yarncdn.live/live/xctv_blv_phubeo/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", QUAN VŨ
 https://xclive.yarncdn.live/live/xctv_blv_quanvu/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", PHÒ MÃ
-https://xclive.yarncdn.live/live/xctv_blv_muphoma/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU",  RỒNG ĐẤT
 https://xclive.yarncdn.live/live/xctv_blv_rongdat/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TAM MAO
@@ -788,10 +790,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN PHONG
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
-https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
-https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BẢO
 https://bglive.yarncdn.live/live/bgtv_blv_tieubao/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU ĐÔ
@@ -800,8 +798,12 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieudo/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU PÁO
 https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
+https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
+https://bglive.yarncdn.live/live/bgtv_blv_trada/playlist.m3u8
 
 
 #EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
