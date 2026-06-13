@@ -13,20 +13,22 @@ https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV6
 http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
+https://vtvgolive-vtv.vtvdigital.vn/VZ51pd9F25dQsnCtI8qwLw/1781345610/vtvgo/vtv8-manifest.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
+https://vtvgolive-vtv.vtvdigital.vn/BPhKY_HV2jhH2XZ9ofxUtg/1781345715/vtvgo/vtv5tn-manifest.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VIETNAM TODAY
+https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
@@ -161,10 +163,6 @@ https://live.mediatech.vn/live/28595222e707a364251b8724717894baa46/playlist.m3u8
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv362&q=high&pkg=pkg11.hni
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", LAI CHÂU TV 
 https://truyenhinh.vnptvas.vn/live.m3u8?c=vstv361&q=high&pkg=pkg11.hni
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VIETNAM TODAY
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT|http-referrer=https://hoiquan.click/
-https://toiyeuvietnam.dpdns.org/OnliveTV/vietnamtoday/Free.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HiTV
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", YouTV
