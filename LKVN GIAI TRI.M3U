@@ -7,7 +7,7 @@ http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.13:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3
 http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.247:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4
-https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
+https://vtvgolive-vtv.vtvdigital.vn/6Y37XTDQ4Gwe0D68FQ8YPA/1781346199/vtvgo/vtv4-manifest.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
 https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
