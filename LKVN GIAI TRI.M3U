@@ -1,50 +1,32 @@
 #EXTM3U
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
-https://live.fptplay53.net/fnxch2/vtv1hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 +
-https://vtvgolive-ssaimh.vtvdigital.vn/elQq9r9xHtDd5okpK48ptA/1781286767/manifest/vtv1/master.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
+https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
-https://live.fptplay53.net/fnxch2/vtv2hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2 +
-https://vtvgolive-ssaimh.vtvdigital.vn/xNlIgjuF-6ZbDjweap5z8g/1781286811/manifest/vtv2/master.m3u8
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.13:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3
-https://live.fptplay53.net/fnxch2/vtv3hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3 +
-https://vtvgolive-ssaimh.vtvdigital.vn/a65AC1uUGcdQjT26gQlHxw/1781286856/manifest/vtv3/master.m3u8
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.247:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4
 https://live.fptplay53.net/fnxch2/vtv4hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4 +
-https://vtvgolive-ssaimh.vtvdigital.vn/xSXzA0y-pLhIXQhXiKaC_w/1781286916/manifest/vtv4/master.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
-https://live.fptplay53.net/epzch2/vtv5hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5 +
-https://vtvgolive-ssaimh.vtvdigital.vn/nhnMY_CWLSgyg5FyywOrHw/1781286961/manifest/vtv5/master.m3u8
+#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
+https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV6
-https://vtvgolive-ssaimh.vtvdigital.vn/BQs6U77ABLHSD7VMNC5lsA/1781286672/manifest/vtv6tt/master.m3u8
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ 
-https://live.fptplay53.net/fnxhd1/vtv5tnb_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ +
-https://vtvgolive-ssaimh.vtvdigital.vn/T_p-ZkQ-mcUtBKh8JTB7og/1781287028/manifest/vtv5tnb/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN
-https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NGUYÊN +
-https://vtvgolive-ssaimh.vtvdigital.vn/-OzMXnc3Yo_ZfkX3yFUAqA/1781287058/manifest/vtv5tn/master.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
+https://live.fptplay53.net/fnxhd1/vtv5taynguyen_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
-https://live.fptplay53.net/fnxhd1/vtv7hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7 +
-https://vtvgolive-ssaimh.vtvdigital.vn/fbCXSMczYWC-Wi_u9cNJ4g/1781287164/manifest/vtv7/master.m3u8
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8 +
-https://vtvgolive-ssaimh.vtvdigital.vn/7lOIYOJ_GlBnbVqLCh2g2A/1781287184/manifest/vtv8/master.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 +
-https://vtvgolive-ssaimh.vtvdigital.vn/1wFpSp29zvMxgDeLP1z_EA/1781287205/manifest/vtv9/master.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 HD
-https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/vtv9-hd/KenhCoBan.m3u8
+https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
-https://live.fptplay53.net/fnxch2/vtvcantho_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10 +
-https://vtvgolive-ssaimh.vtvdigital.vn/1wFpSp29zvMxgDeLP1z_EA/1781287205/manifest/vtv9/master.m3u8
+http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", QPVN 
@@ -90,8 +72,6 @@ https://live.fptplay53.net/epzhd1/htv4_hls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG",  HTV5 - B Channel
 https://freem3u.xyz/api/live/play.m3u8?vid=151
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7
-https://live.fptplay53.net/epzch2/htv7hd_abr.smil/chunklist.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV7 +
 https://live.fptplay53.net/live/media/htv7/live247-hls-avc/htv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", HTV THỂ THAO 
 https://live.fptplay53.net/epzhd1/htvcthethao_vhls.smil/chunklist.m3u8
