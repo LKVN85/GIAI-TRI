@@ -39,47 +39,39 @@ http://42.1.99.192:8080/live/vtv10.flv
 https://hoiquan.dpdns.org/VTVGo/?BinhLuanCamXuc
 #EXTINF:-1 group-title="FIFA WORLD CUP 2026" tvg-logo="https://vtvgo-assets.vtvdigital.vn/assets/images/v2/channel/20260613/2026061323/FMxAbJrF0Q-Logo-NGUYENBAN_6_11zon.webp",Tín Hiệu Nguyên Bản
 https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
-#EXTINF:-1 tvg-id="ninochannel" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
+#EXTINF:-1 tvg-id="ninochannel" group-title="FIFA WORLD CUP 2026" group-logo="https://devonlynino.github.io/assets/images/flag/vietnam.png" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/ninochannel1.jpg",Nino Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
 https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
-#EXTINF:-1 tvg-id="sglive" group-title="Sự Kiện" group-logo="https://devonlynino.github.io/assets/images/logo/twitch.png" tvg-logo="https://devonlynino.github.io/assets/images/main.png",SGLive
+#EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Phe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://sgclient.duckdns.org/source/twitch.m3u8?channel=devonlynino
+https://pull1.asynccdn.xyz/live/d4df3fc1faab44d29b08c04c35fc062d/index.m3u8
+#EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Ngo
+https://pull1.asynccdn.xyz/live/4617d68e06cc4cf881de152d252bda6f/index.m3u8
+#EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Ti
+https://pull1.asynccdn.xyz/live/c3616e1ee9814fe7958d39cb22e09b26/index.m3u8
 
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2
-https://vtvgolive-ssaimh.vtvdigital.vn/I5D5CRdIkWdTK9ETZl8KOQ/1781638600/manifest/vtv2/master.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.13:30120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3
-https://vtvgolive-ssaimh.vtvdigital.vn/aZgIdmT_JaCpnNZ2mzM-TA/1781638547/manifest/vtv3/master-drm.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.247:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 +
+https://vtvgolive-ssaimh.vtvdigital.vn/6I8Zjsh6SM0PrEPyeNHc9w/1781675181/manifest/vtv1/master.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV2 +
+https://vtvgolive-ssaimh.vtvdigital.vn/bOBOYcXRhV7JecJnCeauXw/1781675479/manifest/vtv2/master.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3HD +
+https://vtvgolive-ssaimh.vtvdigital.vn/ZPyuqxFsyeXmMsKEZqNAgw/1781675509/manifest/vtv3/master-drm.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV3 +
 https://ec01-pop5-hht.tv360.vn/bpk-token/grcogrhg3xnuigpvb6gtkrhdiq2ejy2e/bpk-tv/155/output/155-audio_198800_eng_iv_4=196800-video_iv_4=6525600.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV6
-https://vtvgolive-ssaimh.vtvdigital.vn/Kan9rCCVj580Jk_lDvOJCg/1781638655/manifest/vtv6tt/master-drm.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.154:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV4 +
+https://vtvgolive-ssaimh.vtvdigital.vn/G5hulcK53IysBIEIh99ZnA/1781675268/manifest/vtv4/master.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV5 +
+https://vtvgolive-ssaimh.vtvdigital.vn/T_OV93HwJ-nCjvWVaJaeEg/1781675295/manifest/vtv5/master.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV6 +
 https://live-a.fptplay53.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV7 +
 https://vtvgolive-ssaimh.vtvdigital.vn/Kan9rCCVj580Jk_lDvOJCg/1781638655/manifest/vtv6tt/master-drm.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.96:30120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8
-#EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://live.fptplay53.net/epzhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9
-https://vtvgolive-ssaimh.vtvdigital.vn/Kan9rCCVj580Jk_lDvOJCg/1781638655/manifest/vtv6tt/master-drm.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.1.128:30120
-#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10
-https://vtvgolive-ssaimh.vtvdigital.vn/v9akbJ7ROHy2RPdicXvcLA/1781638736/manifest/vtv6/master-drm.m3u8
-http://fptdat.truongquocvi.com:4022/tqvudp/225.1.2.245:30120
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV8 +
+https://vtvgolive-ssaimh.vtvdigital.vn/CaJKCPuU9q_AJGA8NXHLbA/1781674891/manifest/vtv8/master.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV9 +
+https://vtvgolive-ssaimh.vtvdigital.vn/EVeQf37VDFp5QkYBvHJlIw/1781675374/manifest/vtv9/master-drm.m3u8
+#EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV 10 +
+https://vtvgolive-ssaimh.vtvdigital.vn/tstQNrDw--cZeZdTclmMlg/1781675411/manifest/vtv6/master-drm.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV TÂY NAM BỘ 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36 Edg/113.0.1774.57
 https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
