@@ -347,8 +347,6 @@ https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title=" SỰ KIỆN ", FPT Event 11
 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-
-
 #EXTINF:-1 group-title=" SỰ KIỆN ", TV360+1
 https://vietanhtv.id.vn/tv360/2554/index.mpd
 #EXTINF:-1 group-title=" SỰ KIỆN ", TV360+2
@@ -369,7 +367,6 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 group-title=" SỰ KIỆN ", TV360+12
 https://vietanhtv.id.vn/tv360/10001/index.mpd
-
 #EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 1
 https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
 #EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 2
@@ -445,11 +442,9 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV PUMA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
+https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO
+https://bglive.yarncdn.live/live/bgtv_blv_phao/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NÚI
