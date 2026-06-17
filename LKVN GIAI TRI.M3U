@@ -44,11 +44,11 @@ https://hoiquan.dpdns.org/VTVGo/?WC-FiFa
 https://tpninosaga.duckdns.org/source/twitch.m3u8?channel=ninochannel12&token=NinoExility
 #EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Phe
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15_7) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/147.0.0.0 Safari/537.36
-https://pull1.asynccdn.xyz/live/d4df3fc1faab44d29b08c04c35fc062d/index.m3u8
+https://pull1.asynccdn.xyz/live/d4df3fc1faab44d29b08c04c35fc062d/index.m3u8|Referer=https://sv2.tieulam.info/
 #EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Ngo
-https://pull1.asynccdn.xyz/live/4617d68e06cc4cf881de152d252bda6f/index.m3u8
+https://pull1.asynccdn.xyz/live/4617d68e06cc4cf881de152d252bda6f/index.m3u8|Referer=https://sv2.tieulam.info/
 #EXTINF:-1 tvg-id="sglive" group-title="FIFA WORLD CUP 2026", TieuLamTV| Ga sieu Ti
-https://pull1.asynccdn.xyz/live/c3616e1ee9814fe7958d39cb22e09b26/index.m3u8
+https://pull1.asynccdn.xyz/live/c3616e1ee9814fe7958d39cb22e09b26/index.m3u8|Referer=https://sv2.tieulam.info/
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", VTV1 +
 https://vtvgolive-ssaimh.vtvdigital.vn/6I8Zjsh6SM0PrEPyeNHc9w/1781675181/manifest/vtv1/master.m3u8
