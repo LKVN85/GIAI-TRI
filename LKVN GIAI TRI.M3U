@@ -443,12 +443,14 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
-#EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO
-https://bglive.yarncdn.live/live/bgtv_blv_phao/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NÚI
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-nui/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV TIỂU MÈO
+https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO
+https://bglive.yarncdn.live/live/bgtv_blv_phao/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV BỆU
 https://q9kh24w2ba.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV T-REX
@@ -839,13 +841,11 @@ https://xclive.yarncdn.live/live/xctv_blv_vantich/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_lenh/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", A PHỦ
 https://bglive.yarncdn.live/live/bgtv_blv_aphu/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", MAO TỪN
-https://bglive.yarncdn.live/live/bgtv_blv_maotun/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", LAVIE
 https://bglive.yarncdn.live/live/bgtv_blv_lavie/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", KHÔ MỰC
 https://bglive.yarncdn.live/live/bgtv_blv_khomuc/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", MASON
+#EXTINF:-1 group-title="XÂY VÒNG LẪU", MAO TỪN
 https://bglive.yarncdn.live/live/bgtv_blv_mason/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", VĂN PHONG
 https://bglive.yarncdn.live/live/bgtv_blv_vanphong/playlist.m3u8
@@ -859,8 +859,6 @@ https://bglive.yarncdn.live/live/bgtv_blv_tieuhac/playlist.m3u8
 https://bglive.yarncdn.live/live/bgtv_blv_tieumeo/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU PÁO
 https://bglive.yarncdn.live/live/bgtv_blv_tieupao/playlist.m3u8
-#EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU BÀ XÃ
-https://bglive.yarncdn.live/live/bgtv_blv_baxa/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU NGOAN ĐỒNG
 https://bglive.yarncdn.live/live/bgtv_blv_tieungoandong/playlist.m3u8
 #EXTINF:-1 group-title="XÂY VÒNG LẪU", TIỂU TRÀ ĐÁ
