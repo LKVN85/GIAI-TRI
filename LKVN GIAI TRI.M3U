@@ -444,7 +444,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-kk/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NÚI
 https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV TIỂU MÈO
@@ -456,11 +456,11 @@ https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV T-REX
 https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHUỐI GIÀ
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHUỐI TÍM
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHUỐI BƠ
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
@@ -594,14 +594,14 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", BỆU
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
-https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
-https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", DẾ LỮA
 https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ISCO
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
+https://kdalive.yarncdn.live/live/kda-blv-kk/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NHẬT TINH NGAO
 https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", T-REX
@@ -625,54 +625,54 @@ https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", VỎ QUÝT
 https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH HỘT
-https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/anhhot.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH QUẤT
-https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/anhquat.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ANH SÓI
-https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/anhsoi.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI BƠ
-https://gckc0525.edgemaxcdn.org/live/chuoibo.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoibo.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI CHAO
-https://gckc0525.edgemaxcdn.org/live/chuoichaO.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoichaO.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI CHÁY
-https://gckc0525.edgemaxcdn.org/live/chuoichay.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoichay.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI GIÀ
-https://gckc0525.edgemaxcdn.org/live/chuoigia.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoigia.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI NHỎ
-https://gckc0525.edgemaxcdn.org/live/chuoinho.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoinho.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TÂY
-https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoitay.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TIÊU
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://stream01.nguoitho.net/
-https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://ban01.bonglau.pro/
+https://gckc0525.edgemaxcdn.org/live/chuoitieu.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TÍM
-https://gckc0525.edgemaxcdn.org/live/chuoitim.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoitim.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI TO
-https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoito.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHUỐI XUYÊN KHÔNG
-https://gckc0525.edgemaxcdn.org/live/chuoixuyenkhong.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/chuoixuyenkhong.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", A NGAO
-https://gckc0525.edgemaxcdn.org/live/angao.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/angao.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CẬU CẢ
-https://gckc0525.edgemaxcdn.org/live/cauca.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/cauca.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ROCKIE
-https://gckc0525.edgemaxcdn.org/live/rockie.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/rockie.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", TRỐC TRU
-https://gckc0525.edgemaxcdn.org/live/troctru.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/troctru.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", MAX
-https://gckc0525.edgemaxcdn.org/live/max.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/max.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NGỘ KHÔNG
-https://gckc0525.edgemaxcdn.org/live/ngokhong.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/ngokhong.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 1
-https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/m5x1.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 2
-https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/m5x2.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 3
-https://gckc0525.edgemaxcdn.org/live/m5x3.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/m5x3.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 4
-https://gckc0525.edgemaxcdn.org/live/m5x4.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/m5x4.flv|Referer=https://ban01.bonglau.pro/
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", LIVE 5
-https://gckc0525.edgemaxcdn.org/live/m5x5.flv|Referer=https://stream01.nguoitho.net/
+https://gckc0525.edgemaxcdn.org/live/m5x5.flv|Referer=https://ban01.bonglau.pro/
 
 
 #EXTINF:-1 group-title="COLA TV", COCA 
