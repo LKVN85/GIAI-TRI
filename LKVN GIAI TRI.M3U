@@ -444,7 +444,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
 https://bglive.yarncdn.live/live/bgtv_blv_cuccu/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
-https://kdalive.yarncdn.live/live/kda-blv-kk/playlist.m3u8
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV NÚI
 https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", BLV TIỂU MÈO
@@ -594,14 +594,14 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", BỆU
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
+https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
+#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
+https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", DẾ LỮA
 https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ISCO
 https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
-https://kdalive.yarncdn.live/live/kda-blv-kk/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
-https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NHẬT TINH NGAO
 https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
 #EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", T-REX
