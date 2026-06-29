@@ -111,7 +111,7 @@ https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
 https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
-https://live.fptplay53.net/epzsd1/dongthap_vhls.smil/chunklist_b5000000.m3u8
+https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
 https://618b88f69e53b.streamlock.net/THDT2/thdttv2/chunklist_w1368216734.m3u8 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", TÂY NINH TV 
@@ -601,6 +601,8 @@ https://dazn-combat-rakuten.amagi.tv/hls/amagi_hls_data_rakutenAA-dazn-combat-ra
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/7311/index.m3u8
 #EXTINF:-1 group-title="COMBAT", HARD KNOCKS FIGHTING
 https://d39g1vxj2ef6in.cloudfront.net/v1/manifest/3fec3e5cac39a52b2132f9c66c83dae043dc17d4/prod-rakuten-stitched/2ee2b8d4-acc4-4296-9dc8-66f1ffd0fff8/5.m3u8
+#EXTINF:-1 group-title="COMBAT", ONE Championship
+https://live.eac-news.com/Khmer/streams/ONEChampionship.m3u8
 #EXTINF:-1 group-title="COMBAT", FIGHT SPORTS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; SM-A245F Build/UP1A.231005.007; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/124.0.6367.204 Mobile Safari/537.36
 http://202.80.222.20/cdn/iptv/Tvod/001/channel2000163/1024.m3u8
@@ -622,14 +624,24 @@ http://planettvweb.com:8091/pablotorres/Ferpab8719/12051
 http://kstv.us:8080/c2Q2HDqQfM/111770/15901
 
 
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| TSN
+https://cdn.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| FOXSPORTS
+https://cdn.pdtvhd.com/Sports/streams/FoxSports.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| 1001TVSPORTS
+https://cdn.pdtvhd.com/Sports/streams/1001TVSports.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| TYC ARG
+https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb7c3e1a7b716fdb98ca3f6cd1f214aadf5365d75d64d4326aa005c37cc1155c84bcf6c9e84ce93d7ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee5545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c578570a0479c96f38fce1781d4927ea856e46544012724cacd2a96ca0fe38fcb3a38ca747074033f97cb352f7146e4716d1e9fc9c2ba71f112c3fb4aeb0216887053cb1952f00f8b1aaee034d6c558747d33498ccb1b422fa9a58d83f53d739e6fefbbaba81bbe45f6661a74ee17b30a2478b3f5c254a9ca1b9efc43d7f2017c4938bd3077b778c6cfc934758a0ab40dceb877326f700d03c975ada54ed320e255a1c01b1b912c2ea2b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137596937930bb49d9aa1440806ede5c4b195006f496a412079e18d079958acf3e0e56900354075a2457c7549839a543236609c611d4a00c0ef525293fe9aa3a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5300ec6255c60f021664eb9b07f27affba5fb066b116d02db6891c67/110/1920x1080_5162480/index.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| CCTV5+
+https://cdn.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| SPORTTV
+https://live.eac-news.com/Sports/streams/sporttv1.m3u8
+#EXTINF:-1 group-title="BADMINTON vs POOL", PDTVHD| BEINSPORTS
+https://ip.pdtvhd.com/Sports/streams/beINSports.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", Billiards+ TV
 https://streams2.sofast.tv/WiseM3U8_18/sofast/cleanhls/master.m3u8 
-#EXTINF:-1 group-title="BADMINTON vs POOL", UMB| Minh Điền VN
-https://live-global-cdn-v02.sooplive.com/live-stmc-35/auth_master_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.SDcpJ-PTGJTHpzmOhTv4iVJBSfn5dE9QWjj6xZsCYPWtZ3To7zcI86WTCEpy74etgF4fW7PIYsj0Kx4V_FPBPTJrrjJk-uxAOd3GxKxpA3ScgrMG5VuqSQYCdE5f9SKYjBDR1Wlgxw3JoEd-pdpmd5YPFe50C1Iw0tsq0RX9wtSNjNqKLhqYvy5gdIUSh2jpRVJ5hPRuJBgySNYTiwLV8w
-#EXTINF:-1 group-title="BADMINTON vs POOL", UMB| Minhdien
-https://live-global-cdn-v02.sooplive.com/live-stm-07/auth_playlist.m3u8?aid=.A32.pxqRXFPZNcY9Qg1.lWssgpm8OLaB05eVyN0SzLwwPlKiMjp5KyL8h_PEJZj4rXkBOP4BAh7UNmcaNpjEdRI18XWvTWqjbUy7FDwBi4DMX1MgwLYGMi2IYTU6XKQvmiQJVgrxAKs3MHUd0h-u_O6slD7TXeKMG5cVfMcw68PhUaADAFru895KBov2pg873hdy995fW14y_X_CvSY3
 #EXTINF:-1 group-title="BADMINTON vs POOL", POOL 8-Ball World Championship 1
 https://cdn.sports-cas889abxfileposo.site/live/live1861/index.m3u8|Referer=https://choangtv7.com/
 #EXTINF:-1 group-title="BADMINTON vs POOL", SABong 1
@@ -2079,6 +2091,20 @@ https://ff335120300e4742a2b135ee9a9e7df8.mediatailor.eu-west-1.amazonaws.com/v1/
 https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES", MOVIE BOX
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
+#EXTINF:-1 group-title="MOVIES", CINEMAX
+https://restream.pdtvhd.com/memfs/1e857e71-d00c-4b27-8152-9910bf55b48b.m3u8
+#EXTINF:-1 group-title="MOVIES", CINEWORLD 1
+https://live.pdtvhd.com/live/streams/cinemaworld1.m3u8
+#EXTINF:-1 group-title="MOVIES", CINEWORLD 2
+https://live.pdtvhd.com/live/streams/cinemaworld2.m3u8
+#EXTINF:-1 group-title="MOVIES", AXN
+https://live.pdtvhd.com/live/streams/axnmovie.m3u8
+#EXTINF:-1 group-title="MOVIES", SONY CINE
+https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
+#EXTINF:-1 group-title="MOVIES", ROCK ACTION
+https://live.pdtvhd.com/live/streams/rockaction.m3u8
+#EXTINF:-1 group-title="MOVIES", ROCK ENT
+https://live.pdtvhd.com/live/streams/rockentertainment.m3u8
 #EXTINF:-1 group-title="MOVIES", Box Movie 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT|http-referrer=https://hoiquan.click/
