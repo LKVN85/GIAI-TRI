@@ -1,27 +1,22 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="PDTVHD",| VTV6 HD
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="PDTVHD",| SPORTV HD
 http://ssrv88.com:80/7897442120/8964203798/205555.ts
 #EXTINF:-1 group-title="PDTVHD",| Arena Premium 1 FHD HR
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
-#EXTINF:-1 group-title="PDTVHD",| sport.tv 5
-http://lunar.pm:8080/2052404365/41437862tow/132070
-#EXTINF:-1 group-title="PDTVHD",| TSN +
-https://live.dtvhd.com/Sports/streams/CCTV5pul.m3u8
-#EXTINF:-1 group-title="PDTVHD",| 1001TVSPORT
-https://ip.pdtvhd.com/Sports/streams/1001TVSports.m3u8
-#EXTINF:-1 group-title="PDTVHD",| FOXSPORT
-https://stream.pdtvhd.com/Sports/streams/FoxSports.m3u8
-#EXTINF:-1 group-title="PDTVHD",| CCTV5+
-https://live.dtvhd.com/CCTV/streams/cctv5plus.m3u8
 #EXTINF:-1 group-title="PDTVHD",| TSN
 https://cdn.pdtvhd.com/Sports/streams/PDTVHDSports.m3u8
-#EXTINF:-1 group-title="PDTVHD",| FOXSPORTS
-https://cdn.pdtvhd.com/Sports/streams/FoxSports.m3u8
+#EXTINF:-1 group-title="PDTVHD",| FOXSPORT
+https://stream.pdtvhd.com/Sports/streams/FoxSports.m3u8
+#EXTINF:-1 group-title="PDTVHD",| 1001TVSPORT
+https://ip.pdtvhd.com/Sports/streams/1001TVSports.m3u8
+#EXTINF:-1 group-title="PDTVHD",| CCTV5+
+https://live.dtvhd.com/CCTV/streams/cctv5plus.m3u8
 #EXTINF:-1 group-title="PDTVHD",| TYC SPORTS
 https://amg26268-amg26268c14-freelivesports-emea-10267.playouts.now.amagi.tv/ts-us-e2-n2/playlist/amg26268-sportsstudio-tycsports-freelivesportsemea/cb7c3e1a7b716fdb98ca3f6cd1f214aadf5365d75d3187356da051c57cc9150b86eaa3c9ef4de7617ec062812b53310d0c78ce07de6c19a08724fc0e733f070afe88b37bc7991919d581512c2eb86a5657fa1705a165137edcde1f0aae34a1365040bf473d0072c59621c90b2ed99056d2247c9bda88326222434fec051fbafd0bbcfee5545bd872a1af1c58f67e13b6c01bd6d11fbc9ed75d8c57d074f31299c4f1ddce17868e977ea856e4654400727fc0cd7ac5cc0ee383983d60cc732c74033f97cb352f7146e4716d1e9fc9c2ba71f112c3fb4aeb0216887053cb1952f00f8b1aaee034d6c558747d33498ccb1b422fa9a58d83f53d739e6fefbbaba81bbe45f6661a74ee17b30a2478b3f5c254a9ca1b9efc43d7f2017c4938bd3077b778c6cfc934758a0ab40dceb877326f700d03c975ada54ed320e255a1c01b1b912c2ea2b75ade8fd552312d1ac8d01e9c2412b7df8494cc4e15fe204a0aa630821b3265c2623827a535afce752ca8361a89300afe5a1e8956b3ed7fa2e988b346739ef6f36fd323afb903d9f3428e683f520dfab20f57574370d5a137596937930bb49d9aa1440806ede5c4b195006f496a412079e188d079958acf3e0e56900354075a2457c7549839a543236609c611d4a00c0ef525293fe9aa3a1d172ca1c1bf8588c1d906d25bd6dcf62d202b5300ec6a54c60f5f5062eb9b595e60118486a3fd94d46bca624364b7/191/1920x1080_5162480/index.m3u8
+#EXTINF:-1 group-title="PDTVHD",| FOXSPORTS
+https://cdn.pdtvhd.com/Sports/streams/FoxSports.m3u8
 #EXTINF:-1 group-title="PDTVHD",| SPORTTV
 https://live.eac-news.com/Sports/streams/sporttv1.m3u8
 #EXTINF:-1 group-title="PDTVHD",| BEINSPORTS
