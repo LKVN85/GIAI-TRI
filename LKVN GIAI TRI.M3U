@@ -2048,6 +2048,8 @@ https://restream.pdtvhd.com/memfs/526d5297-1392-49af-8538-3e73d48846b0_output_0.
 https://eac.pdtvhd.com/wewatch/streams/cinemaworld1.m3u8
 #EXTINF:-1 group-title="MOVIES", CINEWORLD 2
 https://eac.pdtvhd.com/wewatch/streams/cinemaworld2.m3u8
+#EXTINF:-1 group-title="MOVIES", STAR MOVIES
+https://restream.pdtvhd.com/memfs/12e0742d-8262-44ba-aa3c-8317dbd35ac4_output_0.m3u8?session=FNZBjztmxtz2Bk3XjUWujw
 #EXTINF:-1 group-title="MOVIES", AXN
 https://eac.pdtvhd.com/wewatch/streams/axnmovie.m3u8
 #EXTINF:-1 group-title="MOVIES", SONY CINE
