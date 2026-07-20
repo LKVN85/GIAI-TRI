@@ -1,5 +1,4 @@
 #EXTM3U
-
 #EXTINF:-1 group-title="PDTVHD",| VTV6 HD
 https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="PDTVHD",| SPORTV HD
@@ -394,9 +393,9 @@ https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb945
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN
 https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
-https://live05.grita.app/live/87379114.m3u8
+https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV POCARI
-https://live05.grita.app/live/19919577.m3u8
+https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV A LỎ
 https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
 #EXTINF:-1 group-title="BASKETBALL", BLV PHONG VÂN
@@ -570,95 +569,78 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4 BAOJI China Masters 2026
 https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210882092859061_AiSD.m3u8?txSecret=943845d6e7b213f074a2f80a21289042&txTime=6A067010
 
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", BỆU
+#EXTINF:-1 group-title="PHÁO HOA TV", KEVIN
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 https://kdalive.yarncdn.live/live/kda-blv-beu/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", KAKA
+#EXTINF:-1 group-title="PHÁO HOA TV", KAKA
 https://kdalive.yarncdn.live/live/kda-blv-kaka/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NÚI
+#EXTINF:-1 group-title="PHÁO HOA TV", PHÁO THỦ
 https://kdalive.yarncdn.live/live/kda-blv-nui/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", TÀY
+#EXTINF:-1 group-title="PHÁO HOA TV", CHIM NHỎ
 https://kdalive.yarncdn.live/live/kda-blv-tay/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", T-REX
+#EXTINF:-1 group-title="PHÁO HOA TV", VĂN MINH
 https://kdalive.yarncdn.live/live/kda-blv-t-rex/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", DẾ LỮA
+#EXTINF:-1 group-title="PHÁO HOA TV", DẾ LỮA
 https://kdalive.yarncdn.live/live/kda-blv-delua/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", ISCO
-https://kdalive.yarncdn.live/live/kda-blv-isco/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NHẬT TINH NGAO
-https://kdalive.yarncdn.live/live/kda-blv-nhattinhngao/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", MƠ
-https://kdalive.yarncdn.live/live/kda-blv-mo/playlist.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", VĂN MINH 
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_vanminh.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", DƯA HẤU 
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_duahau.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", NEM CHUA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_nemchua.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", PUMA
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_puma.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", CHÈ XANH
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv2.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", HẠT MÍT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_quechoa_1.m3u8
-#EXTINF:-1 group-title="KHÁN ĐÀI QUÊ", VỎ QUÝT
-https://ahghndtkyqmm-pull.bpmedialive.com/quechoa/blv_khoaitay.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA
-https://live05.grita.app/live/24561735.m3u8 
+https://live05.meung.app/live/24561735.m3u8 
 #EXTINF:-1 group-title="COLA TV", COZY
-https://live05.grita.app/live/87379114.m3u8
+https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="COLA TV", FANTA
-https://live05.grita.app/live/71426314.m3u8
+https://live05.meung.app/live/71426314.m3u8
 #EXTINF:-1 group-title="COLA TV", AQUA
-https://live05.grita.app/live/18812304.m3u8
+https://live05.meung.app/live/18812304.m3u8
 #EXTINF:-1 group-title="COLA TV", LAVIE
-https://live05.grita.app/live/75748097.m3u8
+https://live05.meung.app/live/75748097.m3u8
 #EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live05.grita.app/live/75915087.m3u8 
+https://live05.meung.app/live/75915087.m3u8 
 #EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live05.grita.app/live/87547578.m3u8 
+https://live05.meung.app/live/87547578.m3u8 
 #EXTINF:-1 group-title="COLA TV", PEPSI
-https://live05.grita.app/live/43612277.m3u8
+https://live05.meung.app/live/43612277.m3u8
 #EXTINF:-1 group-title="COLA TV", REDBULL
-https://live05.grita.app/live/14830711.m3u8
+https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", REVIVE
-https://live05.grita.app/live/33982309.m3u8
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 group-title="COLA TV", ROCKSTAR
+https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="COLA TV", POCARI 
-https://live05.grita.app/live/19919577.m3u8
+https://live05.meung.app/live/19919577.m3u8
 #EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live05.grita.app/live/07808742.m3u8
+https://live05.meung.app/live/07808742.m3u8
 #EXTINF:-1 group-title="COLA TV", SODA 
-https://live05.grita.app/live/02456966.m3u8
+https://live05.meung.app/live/02456966.m3u8
 #EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live05.grita.app/live/90725470.m3u8
+https://live05.meung.app/live/90725470.m3u8
 #EXTINF:-1 group-title="COLA TV", STING 
-https://live05.grita.app/live/14707124.m3u8 
+https://live05.meung.app/live/14707124.m3u8 
 #EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live05.grita.app/live/59444581.m3u8 
+https://live05.meung.app/live/59444581.m3u8 
 #EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live05.grita.app/live/97885009.m3u8 
+https://live05.meung.app/live/97885009.m3u8 
 #EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live05.grita.app/live/78905744.m3u8 
+https://live05.meung.app/live/78905744.m3u8 
 #EXTINF:-1 group-title="COLA TV", 247
-https://live05.grita.app/live/90865415.m3u8 
+https://live05.meung.app/live/90865415.m3u8 
 #EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live05.grita.app/live/99121525.m3u8
+https://live05.meung.app/live/99121525.m3u8
 #EXTINF:-1 group-title="COLA TV", C2 
-https://live05.grita.app/live/08552895.m3u8 
+https://live05.meung.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live05.grita.app/live/08552895.m3u8 
+https://live05.meung.app/live/08552895.m3u8 
 #EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live05.grita.app/live/79665343.m3u8 
+https://live05.meung.app/live/79665343.m3u8 
 #EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live05.grita.app/live/14830711.m3u8
+https://live05.meung.app/live/14830711.m3u8
 #EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live05.grita.app/live/07428422.m3u8
+https://live05.meung.app/live/07428422.m3u8
 #EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live05.grita.app/live/41943555.m3u8
+https://live05.meung.app/live/41943555.m3u8
 #EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live05.grita.app/live/97312754.m3u8 
+https://live05.meung.app/live/97312754.m3u8 
 #EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live05.grita.app/live/88508431.m3u8 
+https://live05.meung.app/live/88508431.m3u8 
 
 #EXTINF:-1 group-title="HỘI THIÊN QUỐC", PHAN BỐNG
 #EXTVLCOPT:http-referrer=https://sv2.hoiquan10.live/
@@ -1720,4 +1702,3 @@ https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
 https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
-
