@@ -573,26 +573,40 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="PHÁO HOA TV", KAKA
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 group-title="PHÁO HOA TV", PHÁO THỦ
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 group-title="PHÁO HOA TV", KAKA
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
 #EXTINF:-1 group-title="PHÁO HOA TV", CHIM NHỎ
-#EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pull.asynccdn.com/live/0d7b8ca66f824aadae2a8fc4d2b54a27/index.m3u8
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
 #EXTINF:-1 group-title="PHÁO HOA TV", VĂN MINH
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG NGỐ
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pull.asynccdn.com/live/7c0fbbe2b4d347af9a9188410f6b2dd1/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", DẾ LỮA
+https://pull.asynccdn.com/live/e262e23245d243e8b8317286669806a1/index.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TÈO
 #EXTVLCOPT:http-referrer=https://sv2.tieulamwc1.net/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pull.asynccdn.com/live/f7df758c1131441186d016639606f5c6/index.m3u8
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TRU
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG NHỎ
+#EXTVLCOPT:http-referrer=https://live04.chuoichientv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TO
+#EXTVLCOPT:http-referrer=https://live04.chuoichientv.me/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA
 https://live05.meung.app/live/24561735.m3u8 
