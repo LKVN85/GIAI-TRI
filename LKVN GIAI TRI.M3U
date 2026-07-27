@@ -413,30 +413,18 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 group-title="BASKETBALL", | S SPORT 2
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
 
-#EXTINF:-1 group-title="VOLLEYBALL", KAKA
+#EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 group-title="VOLLEYBALL", CHIM NHỎ
+#EXTINF:-1 group-title="VOLLEYBALL", BLV CHIM NHỎ
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
-#EXTINF:-1 group-title="VOLLEYBALL", KEVIN
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="VOLLEYBALL", PHÁO THỦ
+#EXTINF:-1 group-title="VOLLEYBALL", BLV PHÁO THỦ
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 group-title="VOLLEYBALL", VĂN MINH
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 group-title="VOLLEYBALL", DẾ LỬA
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
@@ -460,8 +448,6 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 group-title="VOLLEYBALL", Exxen ARENA
 https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamliveexn3.m3u8
 
-
-
 #EXTINF:-1 group-title="TENNIS", | TA
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", | TA2
@@ -478,10 +464,6 @@ http://antman1.giize.com/live/valeri1./T9KJ65fzceats/109380.ts
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | SportTV
 http://bedroombullyonline.com:5050/redbone196304@gmail.com/Cb8jgjL63Z/700243
-#EXTINF:-1 group-title="TENNIS", | ESPN 2 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
-#EXTINF:-1 group-title="TENNIS", | ESPN 3 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
 #EXTINF:-1 group-title="TENNIS", | EURO1
 http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO2
