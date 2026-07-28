@@ -26,9 +26,6 @@ https://live.eac-news.com/Sports/streams/sporttv1.m3u8
 #EXTINF:-1 group-title="PDTVHD",| BEINSPORTS
 https://ip.pdtvhd.com/Sports/streams/beINSports.m3u8
 
-
-
-
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
 https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
@@ -568,7 +565,7 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="VOLLEYBALL", DẾ LỬA
+#EXTINF:-1 group-title="PHÁO HOA TV", DẾ LỬA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
