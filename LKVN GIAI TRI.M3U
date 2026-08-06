@@ -375,9 +375,9 @@ https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
 
 
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
-https://pull.niues.live/live/stream-9912099_lhd.m3u8?auth_key=1767191130-0-0-0ca351f1968649f371c52a6a17246c38
+https://eqr2hdarxfliv.vcdn.cloud/1785956050_hd/1785956050_hd@720p.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV CHAN SENA 
-https://live.inplyr.com/room/515530.m3u8
+https://eqr2hdarxfliv.vcdn.cloud/1785955303_hd/1785955303_hd@720p.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV HENDRY
 https://pull.niues.live/live/stream-9912112_lsd.m3u8?auth_key=1767486390-0-0-dadecb45d54897affa70b5176579b53d
 #EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
@@ -571,42 +571,11 @@ https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=91375
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TO
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/
+#EXTINF:-1 group-title="PHÁO HOA TV", KEN
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TIEU
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/truc-tiep/1547785
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TIEU +
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TIEU ++
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/truc-tiep/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/chuoitieu/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", ND 1
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/m4x1/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", ND 2
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/truc-tiep/1547782
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/m4x2/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG TRU
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG NGAO D
-#EXTVLCOPT:http-referrer=https://live04.chuoichientv.me/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://tfy13go3nhcjtgczdncjqgrhurmm8cpisgcbige41h3mrc71s4amacp1gh.100ycdn.com/gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8?wsSession=62de8ffc229e404e37876a8a-178545801040666&wsIPSercert=35eb67093ad26fe574c681ee9e1fba63&wsBindIP=2&wsserid=1168159941866742577
-#EXTINF:-1 group-title="PHÁO HOA TV", TRẠNG NGAO
-#EXTVLCOPT:http-referrer=https://lau03.bonglautv1.org/truc-tiep/1589334
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+
 
 #EXTINF:-1 group-title="COLA TV", COCA
 https://live05.meung.app/live/24561735.m3u8 
