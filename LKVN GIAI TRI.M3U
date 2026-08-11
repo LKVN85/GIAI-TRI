@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 group-title="PDTVHD",| VTV6 HD
+#EXTINF:-1 tvg-id="vtv6hd" group-title="PDTVHD" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="PDTVHD" tvg-logo="https://vtvprime.vn/sideLogoBig.png", ON FOOTBALL HD
 https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
