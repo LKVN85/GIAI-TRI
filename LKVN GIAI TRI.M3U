@@ -1,6 +1,16 @@
 #EXTM3U
 #EXTINF:-1 group-title="PDTVHD",| VTV6 HD
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://vtvprime.vn/sideLogoBig.png", ON FOOTBALL HD
+https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
+http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
 #EXTINF:-1 group-title="PDTVHD",| SPORTV HD
 http://ssrv88.com:80/7897442120/8964203798/205555.ts
 #EXTINF:-1 group-title="PDTVHD",| Arena Premium 1 FHD HR
@@ -29,33 +39,33 @@ https://ip.pdtvhd.com/Sports/streams/beINSports.m3u8
 
 
 
-#EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=210&time=${start}&offset=${duration}, VTV1
-https://live.fptplay53.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
+#EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
+https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv2hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/Cim-egsLkqw/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=377&time=${start}&offset=${duration}, VTV2
-https://live.fptplay53.net/live/media/v2abr/live247-hls-avc/v2abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv2/live247-hls-avc/vtv2-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv3hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/4jr8Y13NSME/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=211&time=${start}&offset=${duration}, VTV3
-https://live.fptplay53.net/live/media/v3abr/live247-hls-avc/v3abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv3/live247-hls-avc/vtv3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv4hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/Opv4PmUyi8g/maxresdefault.jpg" catchup="append" catchup-days="2" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=378&time=${start}&offset=${duration}, VTV4
-https://live.fptplay53.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv4/live247-hls-avc/vtv4-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s12811.cdn.mytvnet.vn/vimages/b5/5c/cc/c2/22/29/b5cc2-pvtv5hd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=379&time=${start}&offset=${duration}, VTV5
 #EXTVLCOPT:http-user-agent=cvmedia/1.1.0
-https://live.fptplay53.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5/live247-hls-avc/vtv5-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv6hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
-https://live.fptplay53.net/live/media/v6abr/live247-hls-avc/v6abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv7hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/hWt5JN_B66Y/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=459&time=${start}&offset=${duration}, VTV7
-https://live.fptplay53.net/live/media/v7abr/live247-hls-avc/v7abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv7/live247-hls-avc/vtv7-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv8hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/vtv8.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=380&time=${start}&offset=${duration}, VTV8
-https://live.fptplay53.net/fnxhd1/vtv8hd_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv8/live-hls-avc/vtv8-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv9hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/APl10jiVAlQ/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=381&time=${start}&offset=${duration}", VTV9
-https://live.fptplay53.net/live/media/v9abr/live247-hls-avc/v9abr-avc1_5600000=10000-mp4a_140800_vie=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv9/live247-hls-avc/vtv9-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv10hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VTV10.png", VTV10
-https://live.fptplay53.net/live/media/v10abr/live247-hls-avc/v10abr-avc1_5600000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv10/live247-hls-avc/vtv10-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtnb" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/maxresdefault.jpg" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=615&time=${start}&offset=${duration}, VTV5 Tây Nam Bộ
-https://live.fptplay53.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vtv5tnb/live-hls-avc/vtv5tnb-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vtv5hdtn" group-title="ĐỊA PHƯƠNG" tvg-logo="https://s7730.cdn.mytvnet.vn/vimages/d4/46/61/1c/cf/f6/d461c-pvtv5tynguynhd-channel-unkn.png" catchup="default" catchup-days="2" catchup-source="http://sv.cvtv.xyz:3000/mytvod.m3u8?id=642&time=${start}&offset=${duration}, VTV5 Tây Nguyên
 https://vips-livecdn.fptplay.net/live/media/vtv5tn/live-hls-avc/vtv5tn-avc1_4000000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 tvg-id="vietnamtoday" group-title="ĐỊA PHƯƠNG" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/VietnamToday.jpg", Vietnam Today
-https://live.fptplay53.net/fnxhd1/vntoday_vhls.smil/chunklist_b5000000.m3u8
+https://vips-livecdn.fptplay.net/live/media/vietnamtoday/live-hls-avc/vietnamtoday-avc1_4000000=10000-mp4a_131600=20000.m3u8
 
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ANTV 
 https://live.fptplay53.net/fnxhd2/anninhtv_vhls.smil/chunklist.m3u8
@@ -78,13 +88,13 @@ https://live.canthotv.vn/cs3/tv/playlist.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL1 
 https://live.fptplay53.net/live/media/vinhlong1/live247-hls-avc/vinhlong1-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL2
-https://live.fptplay53.net/epzhd2/vinhlong2_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3800000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
-https://live.fptplay53.net/epzch2/vinhlong3_abr.smil/chunklist.m3u8
+https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
-https://live.fptplay53.net/epzsd1/vinhlong5_vhls.smil/chunklist.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
 https://liveh34.vtvprime.vn/hls/DONGTHAPTV/index.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 2 
@@ -197,53 +207,65 @@ https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/hitv/KenhCoBan.m3u8
 https://toiyeuvietnam.dpdns.org/TuyetDoiKhongKinhDoanh/youtv/KenhCoBan.m3u8
 
 #EXTINF:-1 tvg-id="sctv1hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv1.png", SCTV1
-https://hoiquan.dpdns.org/VTVGo/?sctv1
+https://vmttv.dpdns.org/VTVGo/?sctv1
 #EXTINF:-1 tvg-id="sctv2hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV2TODAYTV.jpg", SCTV2 - TODAY TV
-https://vpsttt.vietanhtv.top/tv360/tv360.php?id=201
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+https://freem3u.xyz/api/live/play.m3u8?vid=201
 #EXTINF:-1 tvg-id="sctv3hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv3.png", SCTV3
-https://hoiquan.dpdns.org/VTVGo/?sctv3
+https://vmttv.dpdns.org/VTVGo/?sctv3
 #EXTINF:-1 tvg-id="sctv4hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv4.png", SCTV4
-https://hoiquan.dpdns.org/VTVGo/?sctv4
+https://vmttv.dpdns.org/VTVGo/?sctv4
 #EXTINF:-1 group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV5.jpg", SCTV5
-https://hoiquan.dpdns.org/VTVGo/?sctv5
+https://vmttv.dpdns.org/VTVGo/?sctv5
 #EXTINF:-1 tvg-id="sctv6hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv6.png" catchup="append" catchup-days="2" catchup-source="https://tshift.fptplay.net/dvr/film360_1000.stream/chunks_dvr_range-${start}-${offset}.m3u8", SCTV6
 #EXTVLCOPT:http-user-agent=VThanhTivi
 https://live.fptplay53.net/epzhd2/film360_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 tvg-id="sctv7hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv7.webp", SCTV7
-https://hoiquan.dpdns.org/VTVGo/?sctv7
+https://vmttv.dpdns.org/VTVGo/?sctv7
 #EXTINF:-1 tvg-id="sctv8hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv8.png", SCTV8
-https://hoiquan.dpdns.org/VTVGo/?sctv8
+https://vmttv.dpdns.org/VTVGo/?sctv8
 #EXTINF:-1 tvg-id="sctv9hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV9.png", SCTV9
-https://hoiquan.dpdns.org/VTVGo/?sctv9
+https://vmttv.dpdns.org/VTVGo/?sctv9
 #EXTINF:-1 group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV10.jpg", SCTV10
-https://hoiquan.dpdns.org/VTVGo/?sctv10
+https://vmttv.dpdns.org/VTVGo/?sctv10
 #EXTINF:-1 tvg-id="sctv11hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv11.png", SCTV11
-https://hoiquan.dpdns.org/VTVGo/?sctv11
+https://vmttv.dpdns.org/VTVGo/?sctv11
 #EXTINF:-1 tvg-id="sctv12hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv12.png", SCTV12
-https://hoiquan.dpdns.org/VTVGo/?sctv12
+https://vmttv.dpdns.org/VTVGo/?sctv12
 #EXTINF:-1 tvg-id="sctv13hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv13.png", SCTV13
-https://hoiquan.dpdns.org/VTVGo/?sctv13
+https://vmttv.dpdns.org/VTVGo/?sctv13
 #EXTINF:-1 tvg-id="sctv14hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv14.png", SCTV14
-https://hoiquan.dpdns.org/VTVGo/?sctv14
+https://vmttv.dpdns.org/VTVGo/?sctv14
+#EXTINF:-1 tvg-id="sctv15hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV15.png", SCTV15
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV15HD/Live_DASHDRM/SCTV15HD.mpd
 #EXTINF:-1 tvg-id="sctv16hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv16.png", SCTV16
-https://liveh34.vtvprime.vn/hls/SCTV16/04.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv16
+#EXTINF:-1 tvg-id="sctv17hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/SCTV17.png", SCTV17
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9121ebe293bc46cd89e5d83a78c1a53c:9285615a491a424fb025f9e8d571bcd5
+https://liveatmvng.vtvprime.vn/live/data8/SCTV17/Live_DASHDRM/SCTV17.mpd
 #EXTINF:-1 tvg-id="sctv18hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv18.png", SCTV18
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.seenow.vn/hls/SCTV18/03.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv18
 #EXTINF:-1 tvg-id="sctv19hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctv19.png", SCTV19
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV19/03.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv19
 #EXTINF:-1 tvg-id="sctv20hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV20.png", SCTV20
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV20/03.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv20
 #EXTINF:-1 tvg-id="sctv21hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV21.png", SCTV21 - Việt Nam Ký Ức
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh34.vtvprime.vn/hls/SCTV21/03.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctv21
 #EXTINF:-1 tvg-id="sctv22hd" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/SCTV22.png",:SCTV22
-https://liveh34.vtvprime.vn/hls/SCTV22/04.m3u8
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=883fe37e69254f0db1a9c8908e5ab56f:8f0762de62f849039420b513068aca40
+https://liveatmvng.vtvprime.vn/live/data8/SCTV22/Live_DASHDRM/SCTV22.mpd
 #EXTINF:-1 tvg-id="sctvhdpth" group-title="SCVcab" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/vuminhthanh12/refs/heads/main/sctvpth.png", SCTV Phim Tổng Hợp
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://liveh12.vtvprime.vn/hls/SCTVPHIM/03.m3u8
+https://vmttv.dpdns.org/VTVGo/?sctvphim
 #EXTINF:-1 group-title="SCVcab", ON VIỆT GIẢI TRÍ
 https://freem3u.xyz/api/live/play.m3u8?vid=180
 #EXTINF:-1 group-title="SCVcab", ON PHIM VIỆT
@@ -340,38 +362,38 @@ https://vietanhtv.id.vn/tv360/9957/index.m3u8
 https://vietanhtv.id.vn/tv360/9958/index.m3u8
 #EXTINF:-1 group-title=" SỰ KIỆN ", TV360+12
 https://vietanhtv.id.vn/tv360/10001/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 1
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT1/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 2
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT2/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 3
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT3/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 4
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT4/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 5
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT5/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 6
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT6/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 7
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT7/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 8
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT8/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 9
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT9/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 10
-https://livevlisctcdnw.seenow.vn/livesnv2/ONSPORT10/manifest.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 11
-https://liveh34byt.vtvprime.vn/hls/SKSS1/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 12
-https://liveh34byt.vtvprime.vn/hls/SKSS2/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 13
-https://liveh34byt.vtvprime.vn/hls/SKSS3/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 14
-https://liveh34byt.vtvprime.vn/hls/SKSS4/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 15
-https://liveh34byt.vtvprime.vn/hls/SKSS5/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", VTVPrime 16
-https://liveh34byt.vtvprime.vn/hls/SKSS6/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
+https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
+https://liveh12vng.vtvprime.vn/hls/ONSPORT2/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
+https://liveh12vng.vtvprime.vn/hls/ONSPORT3/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
+https://liveh12vng.vtvprime.vn/hls/ONSPORT4/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
+https://liveh12vng.vtvprime.vn/hls/ONSPORT5/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
+https://liveh12vng.vtvprime.vn/hls/ONSPORT6/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
+https://liveh12vng.vtvprime.vn/hls/ONSPORT7/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
+https://liveh12vng.vtvprime.vn/hls/ONSPORT8/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
+https://liveh12vng.vtvprime.vn/hls/ONSPORT9/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
+https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 11
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
+#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 12
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
+https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 
 
 #EXTINF:-1 group-title="BASKETBALL", BLV KING
@@ -563,10 +585,10 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="PHÁO HOA TV", DẾ LỬA
+#EXTINF:-1 group-title="PHÁO HOA TV", TÀY
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 group-title="PHÁO HOA TV", VĂN MINH
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -638,64 +660,6 @@ https://live05.meung.app/live/88508431.m3u8
 
 
 
-#EXTINF:-1 group-title="CAKHIATV", LỮ BỐ
-https://hls.cdnfaster-b.site/live/GIANGPHUNGTIEN/index.m3u8?expire=1892388660&sign=307f59b7df73ce01272ff1281896bae9
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A RÙA
-https://hls.cdnfaster-b.site/live/ALOI/index.m3u8?expire=1855644120&sign=8b90fb25a527ab9e214f33ec8611315d
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A SẾU
-https://hls.cdnfaster-b.site/live/HCONG/index.m3u8?expire=1852553160&sign=8118f081ec23e37009cedc5de6a582a7
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A GẤU
-https://hls.cdnfaster-b.site/live/AGAU/index.m3u8?expire=1859280600&sign=bfef9ef91e1fa690896969d239b246d7
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHIẾN
-https://hls.cdnfaster-b.site/live/GIANGACHIEN/index.m3u8?expire=1857883980&sign=be6dac89b8484fbe722f80dd4f393de7
-#EXTINF:-1 group-title="CAKHIATV", THÍCH ĐỦ THỨ
-https://hls.cdnfaster-b.site/live/Anui/index.m3u8?expire=1856932200&sign=475553d6e8f7f7c36ecbdc57417cd9a3
-#EXTINF:-1 group-title="CAKHIATV", DERICE
-https://hls.cdnfaster-b.site/live/DERICE/index.m3u8?expire=1835705820&sign=588f1f65337afc65ba6a4c3989c0a349
-#EXTINF:-1 group-title="CAKHIATV", GÀ PHÁP
-https://hls.cdnfaster-b.site/live/GAPHAP/index.m3u8?expire=1901520300&sign=da11a69f5e2e30db401faff2911ff2ab
-#EXTINF:-1 group-title="CAKHIATV", HOÀNG CÁI
-https://hls.cdnfaster-b.site/live/ATIN/index.m3u8?expire=1826702760&sign=3eb097a036253abb15d77dc8bb740d02
-#EXTINF:-1 group-title="CAKHIATV", PHONG VÂN
-https://hls.cdnfaster-b.site/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
-#EXTINF:-1 group-title="CAKHIATV", A GẤU
-https://hls.cdnfaster-b.site/live/suplo/index.m3u8?expire=1826702760&sign=2bfe7166e0bf773425fa4b32a0a8b754
-#EXTINF:-1 group-title="CAKHIATV", VĂN GÔN
-https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 group-title="CAKHIATV", VĂN VỞ
-https://hls.cdnfaster-b.site/live/VANVO/index.m3u8?expire=1796056860&sign=cbcbb2e5a4a19d50f99c36e72684dded
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A BẨY
-https://hls.cdnfaster-b.site/live/GIANGABAY/index.m3u8?expire=1839139740&sign=0386abc1f8ac44d77d90458199531caf
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A CHOÉN
-https://hls.cdnfaster-b.site/live/ACHOEN/index.m3u8?expire=1893318600&sign=146f29343f61ea70f0ba9160a09e3a98
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A HỔ
-https://hls.cdnfaster-b.site/live/ANOBLV/index.m3u8?expire=1858141920&sign=d7d9a1ca1e3b6adefb1ae3538d42b491
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A HÚP
-https://hls.cdnfaster-b.site/live/GIANGAHUP/index.m3u8?expire=1781163240&sign=7ce7337a084e284f61715cbc8792b358
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A LỎ
-https://hls.cdnfaster-b.site/live/GIANGALOB/index.m3u8?expire=1791880560&sign=ba6bf72efa78dc80ec8554ba5ecb31bd
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A KHOAI
-https://hls.cdnfaster-b.site/live/AKHOAI/index.m3u8?expire=1890980520&sign=b975af2013099e29b63da2c43ec7f032
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A LONG
-https://hls.cdnfaster-b.site/live/ALONGCKTV/index.m3u8?expire=1781256000&sign=20934cc1eb0222344ff68cfab61a212f
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÂY
-https://hls.cdnfaster-b.site/live/GIANGAMAY/index.m3u8?expire=1838360100&sign=0f942216fe3e31e95ce519ea1092db57
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MÈO
-https://hls.cdnfaster-b.site/live/THOLAN/index.m3u8?expire=1861431180&sign=1080a8fb636c46fc4dbbfe3aeeb0efe0
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A MIKE
-https://hls.cdnfaster-b.site/live/AMIKE/index.m3u8?expire=1922359320&sign=83372e206c208bbc12257cf3651c5fc8
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A PÁO
-https://hls.cdnfaster-b.site/live/APAO/index.m3u8?expire=1861774380&sign=a9f31f1ce2dbee900546729bf475cbc6
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A PHỆ
-https://hls.cdnfaster-b.site/live/giangaphe/index.m3u8?expire=1783173180&sign=34e2c71d47cd180d6fef33c59b25f50b
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A SÚN
-https://hls.cdnfaster-b.site/live/ASUN/index.m3u8?expire=1854000720&sign=a62914dab22419f14d4f1e4c52f5807f
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A TÁO
-https://hls.cdnfaster-b.site/live/GIANGATAO/index.m3u8?expire=1874838840&sign=3ff7ee43fdfe75b9b329877925272718
-#EXTINF:-1 group-title="CAKHIATV", GIÀNG A VOI
-https://hls.cdnfaster-b.site/live/APHO/index.m3u8?expire=1803369120&sign=ae3b38199c263a1a3707b0ab3e83f68e
-
-
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
 https://live.inplyr.com/room/147801.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE DECO 
@@ -719,9 +683,9 @@ https://live.inplyr.com/room/351530.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ENZO 
 https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI 
-https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1766579309-0-0-37fad7ebaf099aaa6c5d31d96b0f3002
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786476668-0-0-35256c63ba20c2ce051f8028f5a1e065
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CR BƯỞI
-https://live.inplyr.com/room/387694.m3u8
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1beba3620ffa1d49f5e7704a228b7b13&txTime=6a7ba1b3
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XAVI
 https://live.inplyr.com/room/525090.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MIXI
@@ -745,9 +709,9 @@ https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1766592089-0-0-7e97
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RAMBO 
 https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a26ef2cc28e28f133e140f2170536336&txTime=697b07ad
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE WUKONG 
-https://pull.niues.live/live/stream-511367_lhd.m3u8?auth_key=1766596470-0-0-c928c5a40df1cbae337164f81f98afd5 
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=83251956c0eb14d207f22268bd0a37d6&txTime=6a7bbbb7
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE FIREMAN 
-https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1766581769-0-0-fa5f1c3cae23eea52841ff3cdad70e04
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1786475459-0-0-e44f7815c040480640a0229129f39986
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE JACKMAN 
 https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30  
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PEWPEW
@@ -764,16 +728,20 @@ https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5
 https://live.inplyr.com/room/589848.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SATIVA
 https://live.inplyr.com/room/321443.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SEVEN
+https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=2ad1f84fa6e07c5382e32c87841c2390&txTime=6a7bb833
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ROSI
-https://live.inplyr.com/room/9912102.m3u8
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2ad1f84fa6e07c5382e32c87841c2390&txTime=6a7bb833
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1786471379-0-0-11796f6f8ee02110e7fd41db3786335f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VIP
-https://live.inplyr.com/room/491873.m3u8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KAN
-https://live.inplyr.com/room/283501.m3u8
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=77ace473c356762ecedc663238640de1&txTime=6a7bb95f
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KENCHU
+https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1786474859-0-0-2292012f03f064de51052bc542f66fd2
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RICKHANTER
 https://live.inplyr.com/room/9912101.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A PÁO
-https://live.inplyr.com/room/235232.m3u8
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=86e8300ea7f18129221af2114d9a7ab9&txTime=6a7bb293
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A WIN
 https://live.inplyr.com/room/536185.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SÙNG A MÚP 
@@ -785,7 +753,7 @@ https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
 https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=57bff280b61906b71369ee0fdaa866d5&txTime=697c529d
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XO
-https://live.inplyr.com/room/472241.m3u8
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=4e728b6204dba6f520966886e415fc1e&txTime=6a7bb8ab
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BONBON
 https://live.inplyr.com/room/597924.m3u8
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE COCA 
@@ -804,98 +772,49 @@ https://live.inplyr.com/room/582342.m3u8
 https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VỊT BẠC
 https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769737053-0-0-8631d48a87a5404099c2a5b27cebf215
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HẢI THANH
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786476719-0-0-aeb7282ac5617745ee9c1c432be261fa
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HOA VINH
 https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1769652573-0-0-05c16b285ce5852a891fdb26c65a5e3f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SON 
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=0aca5a3ef2695df53decbb85bd24ef7a&txTime=697c5045
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8de25f0e9398fd55e861c00ca54d55bb&txTime=6a7bba4f
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT 
 https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG LÝ
 https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769652573-0-0-3794dc75c80cd1dc3add0bd171839d04
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KINH TẾ
 https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5dae4f9674706385c51282e1bedff3
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VINFAST
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1786475639-0-0-66afdeaa0a77749d0a6adff2bf08236f
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ANH TÀI
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=4f0589cf802d796ffa4c6c2d6f239b65&txTime=6a7bbac7
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MP3
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=04c30d1b313158713e56186c8655e5cd&txTime=6a7bbbb7
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A WIN
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786475939-0-0-216ba7e85f4536e06c55dbc6cefc66d8
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CURRY
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1786476239-0-0-45133c0d1964f7c263a82bb2add0019f
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TUẤN CÙI
+https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=544f6713e2103b83bf0c7ab38d413744&txTime=6a7bbd5b
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN TÓC ĐỎ
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f2c48b062164e6989b9c8ad92682ef0b&txTime=6a7bbd97
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BẢY
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786476359-0-0-ff07dce132263e67dbd388b0252ac723
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1786476599-0-0-d4f3395c1c851c625da826510378a111
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÁO
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1786476479-0-0-1c3993d0e303ba5c694782d65b47ea81
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1786476719-0-0-355f57b143496435dd7eef6388a0eeb4
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=361646476ab6d2213351bb9410e85d69&txTime=6a7bbec3
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
 
-
-#EXTINF:-1 group-title="LƯƠNG SƠN", YẾN THANH 
-https://hls.cdnfaster-a.live/live/YENTHANH1/index.m3u8?expire=1788427256&sign=a79cc8d996707223a0011d33d04d4582
-#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ QUỲ 
-https://hls.cdnfaster-a.live/live/LYQUY/index.m3u8?expire=1891408380&sign=4eb9451ad0178fa8207d583db7d469e3 
-#EXTINF:-1 group-title="LƯƠNG SƠN", SHINKA
-https://hls.cdnfaster-a.live/live/SHIN/index.m3u8?expire=1830276060&sign=2e2271dce625a0d03d328eeed8859587
-#EXTINF:-1 group-title="LƯƠNG SƠN", KENCHU
-https://hls.cdnfaster-a.live/live/KENCHU/index.m3u8?expire=1788427256&sign=8a3b6daede7290e4f261c1023ea33967
-#EXTINF:-1 group-title="LƯƠNG SƠN", THỜI THIÊN 
-https://hls.cdnfaster-a.live/live/THOITHIEN/index.m3u8?expire=1788427256&sign=27bac4255948ec798d8dc0d193806d86 
-#EXTINF:-1 group-title="LƯƠNG SƠN", VÕ TÒNG 
-https://hls.cdnfaster-a.live/live/VOTONG/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299 
-#EXTINF:-1 group-title="LƯƠNG SƠN", MÃ SIÊU 
-https://hls.cdnfaster-a.live/live/MASIEU/index.m3u8?expire=1788427256&sign=b91fcfc36fe72375e8f8cc813de0220b 
-#EXTINF:-1 group-title="LƯƠNG SƠN", KEVILL 
-https://hls.cdnfaster-a.live/live/KEVILL/index.m3u8?expire=1788427256&sign=189afcf7f800d4c6c8a5aa97649a1107 
-#EXTINF:-1 group-title="LƯƠNG SƠN", TỐNG GIANG 
-https://hls.cdnfaster-a.live/live/TONGGIANG/index.m3u8?expire=1788427256&sign=ac21cc5b5adee840dbf13de749dc2cca 
-#EXTINF:-1 group-title="LƯƠNG SƠN", HOA VINH 
-https://hls.cdnfaster-a.live/live/LOELOE6380K/index.m3u8?expire=1788427256&sign=86b4dafe54d1b6da2bffad6653671edb 
-#EXTINF:-1 group-title="LƯƠNG SƠN", HÀN TÍN
-https://hls.cdnfaster-a.live/live/HANTIN/index.m3u8?expire=1898537700&sign=546f072aa0beee54643020b57b8be5df
-#EXTINF:-1 group-title="LƯƠNG SƠN", MỘT CHÂN
-https://hls.cdnfaster-a.live/live/MOTCHAN1/index.m3u8?expire=1891347600&sign=cbb47d2000b9576a7b34114624ff8299
-#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d
-#EXTINF:-1 group-title="LƯƠNG SƠN", NGƯỜI THÉP
-https://hls.cdnfaster-a.live/live/NGUOITHEP/index.m3u8?expire=2556118740&sign=6d80f4e33c3761371f29a8ca0645fee5
-#EXTINF:-1 group-title="LƯƠNG SƠN", PHI HỔ
-https://hls.cdnfaster-a.live/live/PHIHO/index.m3u8?expire=2556118740&sign=ebc20a588b7a62eb65d12f7372d39a3f
-#EXTINF:-1 group-title="LƯƠNG SƠN", LEO
-https://hls.cdnfaster-a.live/live/LEO/index.m3u8?expire=1923642660&sign=58990a132e2f8d3f764c947b95b28af6
-#EXTINF:-1 group-title="LƯƠNG SƠN", VĂN VỸ 
-https://hls.cdnfaster-a.live/live/VANVY/index.m3u8?expire=1830276060&sign=554d3c30c8d3453c1feb32142851729a 
-#EXTINF:-1 group-title="LƯƠNG SƠN", LƯU BỊ 
-https://hls.cdnfaster-a.live/live/LUUBI/index.m3u8?expire=1788427256&sign=e15f8b184dc9c61cc5dacfd962841ae1 
-#EXTINF:-1 group-title="LƯƠNG SƠN", TẦN CA 
-https://hls.cdnfaster-a.live/live/TANCA/index.m3u8?expire=1788427256&sign=8ef329a1007f5bbf1c7100b2d7663d68 
-#EXTINF:-1 group-title="LƯƠNG SƠN", KAKA
-https://hls.cdnfaster-a.live/live/KAKA/index.m3u8?expire=1788427256&sign=c34e1c9b22c9ced94eca7e7bf7a81ae6
-#EXTINF:-1 group-title="LƯƠNG SƠN", TRƯƠNG THANH 
-https://hls.cdnfaster-a.live/live/TRUONGTHANH/index.m3u8?expire=1788427256&sign=e2fd813cd4d5e02d97e74e0417b1d973 
-#EXTINF:-1 group-title="LƯƠNG SƠN", QUAN VŨ 
-https://hls.cdnfaster-a.live/live/QUANVU/index.m3u8?expire=1788427256&sign=056d097a0bbbd810493fd64ccf4831b7 
-#EXTINF:-1 group-title="LƯƠNG SƠN", PELE
-https://hls.cdnfaster-a.live/live/NGUCA/index.m3u8?expire=1788427256&sign=abf9c93edd0de1c833f9ffc14381d526
-#EXTINF:-1 group-title="LƯƠNG SƠN", MAYBACH
-https://hls.cdnfaster-a.live/live/MAYBACH/index.m3u8?expire=1923468720&sign=862d9b5fa441bf644b6c2fbcec08487b
-#EXTINF:-1 group-title="LƯƠNG SƠN", TIỂU LANG
-https://hls.cdnfaster-a.live/live/AJUN/index.m3u8?expire=2556118740&sign=4cf66df9135854d82fa43d2c5f365419
-#EXTINF:-1 group-title="LƯƠNG SƠN", LÃO HẠC
-https://hls.cdnfaster-a.live/live/LAOHAC/index.m3u8?expire=2556118740&sign=d7e003f1201f61166a559ac474dc7491
-#EXTINF:-1 group-title="LƯƠNG SƠN", TRIỆU TỬ LONG 
-https://hls.cdnfaster-a.live/live/TRIEUTULONG/index.m3u8?expire=1788427256&sign=45e4fdc4bdb8472f513ccc78f57f6070 
-#EXTINF:-1 group-title="LƯƠNG SƠN", PHONG VÂN
-https://hls.cdnfaster-a.live/live/PHONGVAN/index.m3u8?expire=1788427256&sign=229eb7987abea75a3223a0789985834d
-#EXTINF:-1 group-title="LƯƠNG SƠN", LỮ BỐ 
-https://hls.cdnfaster-a.live/live/LUBO/index.m3u8?expire=1788427256&sign=fa2834495401eb5d1dc40ba2f3bd21c1 
-#EXTINF:-1 group-title="LƯƠNG SƠN", VƯƠNG LUÂN 
-https://hls.cdnfaster-a.live/live/VUONGLUAN/index.m3u8?expire=1788427256&sign=30a15463eec9495979c452130fd9c75f 
-#EXTINF:-1 group-title="LƯƠNG SƠN", A TỦA 
-https://hls.cdnfaster-a.live/live/ATUA/index.m3u8?expire=1830276060&sign=070cf2d17a1720d3e42600ba2dfaed74
-#EXTINF:-1 group-title="LƯƠNG SƠN", CHU ĐỒNG 
-https://hls.cdnfaster-a.live/live/CHUDONG/index.m3u8?expire=1788427256&sign=b7df620ef99aaa1798bda4e698168a46 
-#EXTINF:-1 group-title="LƯƠNG SƠN", LÝ ỨNG 
-https://hls.cdnfaster-a.live/live/LYUNG1/index.m3u8?expire=1788427256&sign=d5c6932fefdcb98268754f4ccd4aa45d 
-#EXTINF:-1 group-title="LƯƠNG SƠN", NHỊ CA 
-https://hls.cdnfaster-a.live/live/NHIKA1/index.m3u8?expire=1788427256&sign=91d8d858b7cdccb6dd825469190514bd 
-#EXTINF:-1 group-title="LƯƠNG SƠN", TÂY MÔN KHÁNH 
-https://hls.cdnfaster-a.live/live/TAYMONKHANH/index.m3u8?expire=1788427256&sign=b79b5be508185d24f76a0b1effca53da 
-#EXTINF:-1 group-title="LƯƠNG SƠN", TÔN LẬP 
-https://hls.cdnfaster-a.live/live/TONLAP/index.m3u8?expire=1788427256&sign=72cc58a29d787d621b0832b54e1a78df 
-#EXTINF:-1 group-title="LƯƠNG SƠN", KHỔNG MINH 
-https://hls.cdnfaster-a.live/live/KHONGMINH/index.m3u8?expire=1788427256&sign=003a6e74f0efdf441ba4b32785a21d31
-#EXTINF:-1 group-title="LƯƠNG SƠN", GIÁO SƯ XOAY 
-https://hls.cdnfaster-a.live/live/GIAOSUXOAY/index.m3u8?expire=1830276060&sign=5c3d0f8dfaaff97162618bfc6c7a62d0 
-#EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG QUÁ 
-https://hls.cdnfaster-a.live/live/DUONGQUA/index.m3u8?expire=1788427256&sign=be103035dabb5f17a7c94f423a96c981 
-#EXTINF:-1 group-title="LƯƠNG SƠN", DƯƠNG CHÍ
-https://hls.cdnfaster-a.live/live/VANCONAN/index.m3u8?expire=1830276060&sign=53991e2e589a2f7031dd37b82a585e33
 
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN 6 HD BR
 http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19057/index.m3u8
