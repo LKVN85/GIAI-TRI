@@ -1,12 +1,10 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="vtv6hd" group-title="PDTVHD" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://vtvprime.vn/sideLogoBig.png", ON FOOTBALL HD
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
 #EXTINF:-1 group-title="PDTVHD" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", Max Sport 1 HD
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
+#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
 #EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
 #EXTINF:-1 group-title="PDTVHD" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
@@ -414,6 +412,8 @@ https://eqr2hdarxfliv.vcdn.cloud/1786001574_hd/1786001574_hd@720p.m3u8
 https://eqr2hdarxfliv.vcdn.cloud/1786002064_hd/1786002064_hd@720p.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV SHIN 12
 https://eqr2hdarxfliv.vcdn.cloud/1786001521_hd/1786001521_hd@720p.m3u8
+#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
+https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
 https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV POCARI
@@ -471,8 +471,8 @@ http://de.seetv.cc/play/77/632F375BC8243BC/video.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischnlintl-lggb/playlist.m3u8
 #EXTINF:-1 group-title="TENNIS", | TA2
 https://jmp2.uk/plu-681109b688b9d85d0938c6ba.m3u8
-#EXTINF:-1 group-title="TENNIS", | Sky Sport F1
-http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
+#EXTINF:-1 group-title="TENNIS", | MAXSPORT
+http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228727&extension=ts&play_token=mwh0b4DmEo
 #EXTINF:-1 group-title="TENNIS", | Sky Sport Tennis
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149433&extension=ts&play_token=Y1kv3yxPS8
 #EXTINF:-1 group-title="TENNIS", | Sky Sport
@@ -597,6 +597,10 @@ https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 group-title="PHÁO HOA TV", DẾ LỬA
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
 
 
 #EXTINF:-1 group-title="COLA TV", COCA
@@ -814,6 +818,1336 @@ https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=361646476ab6d2213351
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
+
+#EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6546/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 1 HD AL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 2 HD AL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31564/index.m3u8
+#EXTINF:0 tvg-rec="0",Tring Sport 3 HD AL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31565/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 1 HD HU
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31568/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Футбол UHD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19430/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 UHD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19432/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport 2 HD HU
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31569/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 UHD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19431/index.m3u8
+#EXTINF:0 tvg-rec="0",Nova Sport 3 HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31570/index.m3u8
+#EXTINF:0 tvg-rec="0",Nova Sport 4 HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31571/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 1 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31572/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 2 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31573/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 3 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31574/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 5 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31575/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 6 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31576/index.m3u8
+#EXTINF:0 tvg-rec="0",Cytavision Sports 7 GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31577/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 1 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31578/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 2 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31579/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 3 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31581/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 4 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31582/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 5 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31583/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 6 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31584/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 7 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31585/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 8 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31586/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport 9 HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31587/index.m3u8
+#EXTINF:0 tvg-rec="0",Cosmote Sport Highlights HD GR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31588/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV+ HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31590/index.m3u8
+#EXTINF:0 tvg-rec="0",Canal 11 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31592/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Extra HD RO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31595/index.m3u8
+#EXTINF:0 tvg-rec="0",Liverpool FC TV UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Esport HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31597/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Fight HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31598/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 1 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31599/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 2 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31600/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Premium 3 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31601/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31602/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31603/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31605/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31606/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31607/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 7 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31608/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 8 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31609/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 9 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31610/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1x2 HD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31611/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Racing HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9335/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Premier League HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9334/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Mix HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9310/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Main Event HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9308/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Golf HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9293/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Football HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9289/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports F1 HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9283/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Cricket HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9258/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports+ HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9248/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sports Action HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/9155/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD 50 UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2160/index.m3u8
+#EXTINF:0 tvg-rec="0",Старт Триумф HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16034/index.m3u8
+#EXTINF:0 tvg-rec="0",5Sport 4K IL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16019/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Golf HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5043/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Premier League HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5042/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20004/index.m3u8
+#EXTINF:0 tvg-rec="0",Extreme Sports HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20028/index.m3u8
+#EXTINF:0 tvg-rec="0",Танцуй!
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14023/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +4 (Алтай)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15289/index.m3u8
+#EXTINF:0 tvg-rec="0",KHL Prime HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19396/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 1 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19422/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge Live 2 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19423/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX Be On Edge HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19424/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Страна
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/107/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6012/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +3 (Омск)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15432/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6023/index.m3u8
+#EXTINF:0 tvg-rec="3",Матч ТВ +8
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6052/index.m3u8
+#EXTINF:0 tvg-rec="3",Motorvision+ DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6112/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky 1 AU
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6122/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 2 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6113/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport 2 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6099/index.m3u8
+#EXTINF:0 tvg-rec="0",Band Sports BR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6158/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Планета
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/123/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/124/index.m3u8
+#EXTINF:0 tvg-rec="7",KHL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/519/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/522/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Арена
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/528/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Игра
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/529/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Футбол 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/530/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Премьер
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/531/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч ТВ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/535/index.m3u8
+#EXTINF:0 tvg-rec="7",Eurosport 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/141/index.m3u8
+#EXTINF:0 tvg-rec="7",Extreme Sports
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/144/index.m3u8
+#EXTINF:0 tvg-rec="7",Матч! Боец
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/150/index.m3u8
+#EXTINF:0 tvg-rec="7",Viju+ Sport
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/160/index.m3u8
+#EXTINF:0 tvg-rec="7",MMA-TV.com
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/843/index.m3u8
+#EXTINF:0 tvg-rec="7",Бокс ТВ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/870/index.m3u8
+#EXTINF:0 tvg-rec="3",Старт FHD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2154/index.m3u8
+#EXTINF:0 tvg-rec="3",Футбол
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5050/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport News HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2477/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 1 FHD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2478/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport 2 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2479/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Bundesliga 1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2480/index.m3u8
+#EXTINF:0 tvg-rec="3",Sky Sport Austria 1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 1 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 2 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2500/index.m3u8
+#EXTINF:0 tvg-rec="3",beIN Sports 3 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2501/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2502/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2503/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 FHD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2505/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 2 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2506/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Sports 2 IN
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2507/index.m3u8
+#EXTINF:0 tvg-rec="3",Star Sports 1 IN
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2508/index.m3u8
+#EXTINF:0 tvg-rec="3",YAS Sports AE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2511/index.m3u8
+#EXTINF:0 tvg-rec="3",ON Sport 1 HD EG
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2512/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 2 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2517/index.m3u8
+#EXTINF:0 tvg-rec="3",Eleven Sports 1 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2518/index.m3u8
+#EXTINF:0 tvg-rec="3",Canal+ Sport 5 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2519/index.m3u8
+#EXTINF:0 tvg-rec="3",TVP Sport HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2520/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 2 HD RO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2522/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 1 HD RO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2523/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 3 HD RO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2524/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 1 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2525/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 2 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2526/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 3 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2527/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 4 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2528/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport TV 5 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2529/index.m3u8
+#EXTINF:0 tvg-rec="3",Sporting TV FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2530/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 1 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2531/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 2 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2532/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 4 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2534/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 5 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2535/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 6 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2536/index.m3u8
+#EXTINF:0 tvg-rec="3",DIGI Sport 4 HD RO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2538/index.m3u8
+#EXTINF:0 tvg-rec="3",TV 2 Sport 2 HD NO
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2540/index.m3u8
+#EXTINF:0 tvg-rec="3",MTV Viihde HD FI
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2541/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 1 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2545/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 2 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2546/index.m3u8
+#EXTINF:0 tvg-rec="3",RMC Sport 3 HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2547/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 1 LT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2548/index.m3u8
+#EXTINF:0 tvg-rec="3",Arena Sport 1 FHD RS
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2550/index.m3u8
+#EXTINF:0 tvg-rec="3",ČT sport HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2551/index.m3u8
+#EXTINF:0 tvg-rec="3",Nova Sport 1 HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2555/index.m3u8
+#EXTINF:0 tvg-rec="3",Nova Sport 2 HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2556/index.m3u8
+#EXTINF:0 tvg-rec="3",Sport 2 HD CZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2557/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport 3 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2559/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2560/index.m3u8
+#EXTINF:0 tvg-rec="3",Ziggo Sport 2 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2561/index.m3u8
+#EXTINF:0 tvg-rec="3",Infosport+ HD FR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2544/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 HD orig
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6541/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2 HD orig
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6542/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6543/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6544/index.m3u8
+#EXTINF:0 tvg-rec="3",Окко Футбол HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6554/index.m3u8
+#EXTINF:0 tvg-rec="3",Premier Sports 1 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6555/index.m3u8
+#EXTINF:0 tvg-rec="3",Eurosport 2 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6556/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 3 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6564/index.m3u8
+#EXTINF:0 tvg-rec="3",TNT Sports 1 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6566/index.m3u8
+#EXTINF:0 tvg-rec="3",DAZN 3 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7062/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 2 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7234/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 3 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7235/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 5 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7237/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 6 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7238/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 7 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7239/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 8 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7240/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Bundesliga 9 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7241/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7263/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7264/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7265/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7266/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7267/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 FHD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7268/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 1 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7269/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 2 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7270/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 3 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7271/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 4 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7272/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 5 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7273/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 6 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7274/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 7 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7275/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub 8 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7276/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub Golf HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7277/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport Klub Fight HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7278/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 1 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7296/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 3 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7303/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 1 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7304/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Premium 2 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7305/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 3 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7306/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 4 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7307/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport 2 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7308/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 2 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7309/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Extra 1 HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7310/index.m3u8
+#EXTINF:0 tvg-rec="0",Polsat Sport Fight HD PL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7311/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 1 HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7322/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 2 HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7323/index.m3u8
+#EXTINF:0 tvg-rec="0",CBS Sports Network HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7324/index.m3u8
+#EXTINF:0 tvg-rec="0",NBC Sports Network HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7327/index.m3u8
+#EXTINF:0 tvg-rec="0",NHL Network HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7328/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 1 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7329/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 2 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7330/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 3 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7331/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 4 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7332/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 5 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7333/index.m3u8
+#EXTINF:0 tvg-rec="0",Arena Sport 6 HD HR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7334/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Premier League HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7335/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Football HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7336/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Main Event HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7337/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Mix HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7339/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Action HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7340/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Racing HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7341/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports F1 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7342/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Cricket HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7343/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sports Golf HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7344/index.m3u8
+#EXTINF:0 tvg-rec="0",TV 2 Sport HD DK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7355/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор SPORTS 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7360/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор SPORTS 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7361/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор SPORTS 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7362/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор SPORTS 4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7363/index.m3u8
+#EXTINF:0 tvg-rec="0",Триколор SPORTS 5
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7364/index.m3u8
+#EXTINF:0 tvg-rec="0",Мир Баскетбола
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/10033/index.m3u8
+#EXTINF:0 tvg-rec="0",Хоккей ТВ HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/10039/index.m3u8
+#EXTINF:0 tvg-rec="7",ТВ SPORTS HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/10057/index.m3u8
+#EXTINF:0 tvg-rec="7",Мяч HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/10058/index.m3u8
+#EXTINF:0 tvg-rec="7",StrahTV WWE Russian
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/11056/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Football SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/11110/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Vinter SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/11111/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Football HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12032/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Motor HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12033/index.m3u8
+#EXTINF:0 tvg-rec="0",TV4 Hits HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12034/index.m3u8
+#EXTINF:0 tvg-rec="0",TV4 Sportkanalen HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12035/index.m3u8
+#EXTINF:0 tvg-rec="0",TV4 Stars HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12042/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12047/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12048/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Extra SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12074/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Golf SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12077/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Vinter HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12078/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Premium SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12079/index.m3u8
+#EXTINF:0 tvg-rec="0",TV3 Sport SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12100/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14186/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14187/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14188/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14189/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 5
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14190/index.m3u8
+#EXTINF:0 tvg-rec="0",Окко Event 6
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/14191/index.m3u8
+#EXTINF:0 tvg-rec="0",Живи Активно HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15143/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 FHD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15179/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD UA orig
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15183/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA orig
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15184/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Sport.KG HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15238/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +2 (Уфа)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15307/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Липецк)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15314/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +7 (Владивосток)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15335/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +4 (Томск)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15387/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Белгород)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15409/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч ТВ +0 (Элиста)
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/15448/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16039/index.m3u8
+#EXTINF:0 tvg-rec="0",Red Bull TV HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/16040/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport 1 HD EE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18000/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport 2 HD EE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18001/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport 1 HD LV
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18011/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport 2 HD LV
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18012/index.m3u8
+#EXTINF:0 tvg-rec="0",Best4Sport HD LV
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18016/index.m3u8
+#EXTINF:0 tvg-rec="0",Best4Sport 2 HD LV
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18015/index.m3u8
+#EXTINF:0 tvg-rec="0",Go3 Sport Open HD LV
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/18025/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19022/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportdigital Fussball HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19023/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19027/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19028/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 3 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19030/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 4 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19031/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 5 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19032/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 6 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19033/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 7 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19034/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 8 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19035/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 9 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19036/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 10 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19037/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19042/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 HD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19043/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport UHD DE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19044/index.m3u8
+#EXTINF:0 tvg-rec="0",TNT Sports 4 HD UK
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19054/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN HD BR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 6 HD BR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN BR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19060/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD BR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19061/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Max 1 FHD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19062/index.m3u8
+#EXTINF:0 tvg-rec="0",beIN Sports Haber HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19064/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19067/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor FHD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19068/index.m3u8
+#EXTINF:0 tvg-rec="0",A Spor HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19069/index.m3u8
+#EXTINF:0 tvg-rec="0",TRT Spor HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19072/index.m3u8
+#EXTINF:0 tvg-rec="0",Spor Smart 2 HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19073/index.m3u8
+#EXTINF:0 tvg-rec="0",Tivibu Spor 1 HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19074/index.m3u8
+#EXTINF:0 tvg-rec="0",Tivibu Spor 3 HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19076/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport F1 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19105/index.m3u8
+#EXTINF:0 tvg-rec="0",Rai Sport HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19106/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 24 FHD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19107/index.m3u8
+#EXTINF:0 tvg-rec="0",Sportitalia Plus HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19108/index.m3u8
+#EXTINF:0 tvg-rec="0",Super Tennis HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19111/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Calcio HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19113/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19116/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 1 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19118/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 2 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19119/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 3 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19120/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 4 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19121/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 5 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19122/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 6 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19123/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 7 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19124/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 8 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19125/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Primafila 9 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19126/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport 24 HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19127/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Arena HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19128/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport Golf HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19132/index.m3u8
+#EXTINF:0 tvg-rec="0",Sky Sport MotoGP HD IT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19133/index.m3u8
+#EXTINF:0 tvg-rec="0",Tennis Channel US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19136/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports HD AR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19138/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports HD MX
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19139/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 506 HD AU
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19143/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports Racing US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19144/index.m3u8
+#EXTINF:0 tvg-rec="0",Fox Sports 501 Cricket HD AU
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19146/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports North US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19152/index.m3u8
+#EXTINF:0 tvg-rec="0",FanDuel Sports Midwest US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19153/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPNews US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19154/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19155/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN HD US
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19156/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19158/index.m3u8
+#EXTINF:0 tvg-rec="0",Benfica TV FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19160/index.m3u8
+#EXTINF:0 tvg-rec="0",V Sport Ultra HD SE
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19163/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 1 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19201/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 2 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19202/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 3 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19203/index.m3u8
+#EXTINF:0 tvg-rec="0",ESPN 4 HD NL
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19204/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Страна HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19219/index.m3u8
+#EXTINF:0 tvg-rec="0",Матч! Боец HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19221/index.m3u8
+#EXTINF:0 tvg-rec="0",MMA-TV.com HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19243/index.m3u8
+#EXTINF:0 tvg-rec="0",Футбол HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19244/index.m3u8
+#EXTINF:0 tvg-rec="0",Бокс ТВ HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19245/index.m3u8
+#EXTINF:0 tvg-rec="0",Spor Smart HD TR
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20060/index.m3u8
+#EXTINF:0 tvg-rec="0",Q Arena HD KZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20061/index.m3u8
+#EXTINF:0 tvg-rec="0",Q League HD KZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20062/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports 1 FHD KZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20065/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Moldova FHD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20074/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Baltic 1 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20081/index.m3u8
+#EXTINF:0 tvg-rec="0",CineMan Premium
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20112/index.m3u8
+#EXTINF:0 tvg-rec="3",Fint Ga 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20091/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20092/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20093/index.m3u8
+#EXTINF:0 tvg-rec="0",Fint Ga 4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31682/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20094/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20096/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20095/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20097/index.m3u8
+#EXTINF:0 tvg-rec="3",Pimple TV 5
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20098/index.m3u8
+#EXTINF:0 tvg-rec="0",Pimple TV 6
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31681/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20099/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 3
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20104/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20103/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 4
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20105/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 5
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20106/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 6
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20107/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 7
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20108/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 8
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20109/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 9
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20110/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 10
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20100/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 12
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20102/index.m3u8
+#EXTINF:0 tvg-rec="3",ViP Sport 11
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20101/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 13
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31674/index.m3u8
+#EXTINF:0 tvg-rec="0",Vital Sport Drive
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20160/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 1 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20166/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 2 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20167/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 3 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20168/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 4 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20169/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 5 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/20170/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 6 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31648/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast Live 7 HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31649/index.m3u8
+#EXTINF:0 tvg-rec="0",BOX SportCast HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31650/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 14
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31675/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 15
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31676/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 16
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31677/index.m3u8
+#EXTINF:0 tvg-rec="0",ViP Sport 17
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31678/index.m3u8
+#EXTINF:0 tvg-rec="0",Betking Live 1
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31679/index.m3u8
+#EXTINF:0 tvg-rec="0",Betking Live 2
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31680/index.m3u8
+#EXTINF:0 tvg-rec="0",StrahTV MMA TIME HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31710/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports UA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31754/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports HD UA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31755/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ UA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31756/index.m3u8
+#EXTINF:0 tvg-rec="0",Setanta Sports+ HD UA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31757/index.m3u8
+#EXTINF:0 tvg-rec="0",Суспільне SPORTS HD UA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31750/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 3 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31820/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 5 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31821/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 4 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31822/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31823/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31830/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 Bar HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31831/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 Bar HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31832/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN F1 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31834/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31835/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31842/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31844/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31845/index.m3u8
+#EXTINF:0 tvg-rec="0",Real Madrid TV ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31847/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31848/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 3 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31849/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 4 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31850/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 5 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31851/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31853/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31854/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN LaLiga 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31855/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN LaLiga HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31856/index.m3u8
+#EXTINF:0 tvg-rec="0",Teledeporte HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31857/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ LaLiga 3 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31858/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31859/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31860/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 3 Bar HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31861/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 4 Bar HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31862/index.m3u8
+#EXTINF:0 tvg-rec="0",Gol HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31863/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Liga de Campeones 4 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31864/index.m3u8
+#EXTINF:0 tvg-rec="0",LaLiga TV Hypermotion 3 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31865/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Vamos HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31867/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Deportes 6 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31874/index.m3u8
+#EXTINF:0 tvg-rec="0",M+ Golf 2 HD ES
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31878/index.m3u8
+#EXTINF:0 tvg-rec="0",We Sport TV HD MD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31904/index.m3u8
+#EXTINF:0 tvg-rec="0",Diema Sport 3 HD BG
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31917/index.m3u8
+#EXTINF:0 tvg-rec="0",Волейбол HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31920/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV HD AZ
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31926/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV+ FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31941/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 1 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31942/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 2 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31943/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 3 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31944/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 4 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31945/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 5 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31946/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 6 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31947/index.m3u8
+#EXTINF:0 tvg-rec="0",Sport TV 7 FHD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31948/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 1 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31949/index.m3u8
+#EXTINF:0 tvg-rec="0",Eurosport 2 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31950/index.m3u8
+#EXTINF:0 tvg-rec="0",A Bola TV HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31951/index.m3u8
+#EXTINF:0 tvg-rec="0",Benfica TV HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31952/index.m3u8
+#EXTINF:0 tvg-rec="0",Sporting TV HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31953/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 1 PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31954/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 2 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31955/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 3 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31956/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 4 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31957/index.m3u8
+#EXTINF:0 tvg-rec="0",DAZN 5 HD PT
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31958/index.m3u8
+#EXTINF:0 tvg-rec="0",W-Sport HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31959/index.m3u8
+#EXTINF:0 tvg-rec="0",Fight Network HD CA
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31960/index.m3u8
+#EXTINF:0 tvg-rec="0",FightBox HD
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31961/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports FHD AM
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30199/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 1 HD AM
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
+#EXTINF:0 tvg-rec="0",Fast Sports 2 HD AM
+#EXTGRP:SPORTS
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
 
 
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN 6 HD BR
@@ -1341,6 +2675,8 @@ https://eac.pdtvhd.com/wewatch/streams/rockaction.m3u8
 https://eac.pdtvhd.com/wewatch/streams/rockentertainment.m3u8
 
 
+#EXTINF:-1 group-title="PHIM CHIẾU RẠP", SPIDERMAN: KHỞI ĐẦU MỚI
+https://www.1phim21.com/pmm2/a01ba3f249589bcbfdb7eed0dc236efb.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", BOSS LEVEL: TRÙM CUỐI SIÊU ĐẲNG
 https://s6.kkphimplayer6.com/20260414/g9mvc0DJ/index.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", PEAKY BLINDERS-THE IMMORTAL MAN: BÓNG MA ANH QUỐC-NGƯỜI BẤT TỬ
