@@ -602,7 +602,14 @@ https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-
+#EXTINF:-1 group-title="PHÁO HOA TV", RƯỢU MƠ
+#EXTVLCOPT:http-referrer=https://vip2.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://wtyi0525.edgemaxcdn.org/live/x68-sd-1111/playlist.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", RICKY
+#EXTVLCOPT:http-referrer=https://vip2.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://wtyi0525.edgemaxcdn.org/live/x83-sd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA
 https://live05.meung.app/live/24561735.m3u8 
