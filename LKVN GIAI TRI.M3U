@@ -601,14 +601,6 @@ https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
-#EXTINF:-1 group-title="PHÁO HOA TV", RƯỢU MƠ
-#EXTVLCOPT:http-referrer=https://vip2.saoketv40.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://wtyi0525.edgemaxcdn.org/live/x68-sd-1111/playlist.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", RICKY
-#EXTVLCOPT:http-referrer=https://vip2.saoketv40.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://wtyi0525.edgemaxcdn.org/live/x83-sd-1111/playlist.m3u8
 
 #EXTINF:-1 group-title="COLA TV", COCA
 https://live05.meung.app/live/24561735.m3u8 
@@ -2756,3 +2748,2569 @@ https://vip.opstream14.com/20220317/1346_346b32dc/3000k/hls/mixed.m3u8
 https://vip.opstream12.com/20220427/13118_83a2f827/3000k/hls/mixed.m3u8
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", GODS OF EGYPT:NCÁC VỊ THẦN AI CÂP
 https://vip.opstream14.com/20220319/1818_b4990ddb/3000k/hls/mixed.m3u8
+#EXTM3U
+#EXTINF:0,
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75748097.flv
+#EXTINF:0,07:30 29/08 Boca Juniors vs Lanus (BLV SPRITE) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75748097.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Lanus (BLV SPRITE) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV SAMURAI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/07808742.flv
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV SAMURAI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV SAMURAI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:0,08:00 29/08 CLB Atlante vs Club Leon (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87547578.flv
+#EXTINF:0,08:00 29/08 CLB Atlante vs Club Leon (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:0,08:00 29/08 CLB Atlante vs Club Leon (BLV MOUNTAIN DEW) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream vs Portland Fire (BLV Cozy) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.flv
+#EXTINF:0,06:30 29/08 Atlanta Dream vs Portland Fire (BLV Cozy) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream vs Portland Fire (BLV Cozy) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/87379114.m3u8
+#EXTINF:0,06:30 29/08 Indiana Fever vs Connecticut Sun (BLV POCARI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.flv
+#EXTINF:0,06:30 29/08 Indiana Fever vs Connecticut Sun (BLV POCARI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.m3u8
+#EXTINF:0,06:30 29/08 Indiana Fever vs Connecticut Sun (BLV POCARI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/19919577.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks vs Washington Mystics (BLV 247) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/90865415.flv
+#EXTINF:0,09:00 29/08 Los Angeles Sparks vs Washington Mystics (BLV 247) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/90865415.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks vs Washington Mystics (BLV 247) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/90865415.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (BLV ROCKSTAR) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.flv
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (BLV ROCKSTAR) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (BLV ROCKSTAR) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/82054853.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs U.N.A.M._ Pumas (BLV GIÀ LÀNG) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14830711.flv
+#EXTINF:0,10:10 29/08 Club Tijuana vs U.N.A.M._ Pumas (BLV GIÀ LÀNG) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14830711.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs U.N.A.M._ Pumas (BLV GIÀ LÀNG) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/14830711.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs Lambton FC mới (BLV POCARI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.flv
+#EXTINF:0,11:00 29/08 Kahibah FC vs Lambton FC mới (BLV POCARI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs Lambton FC mới (BLV POCARI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/19919577.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City (BLV REDBULL) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/49572724.flv
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City (BLV REDBULL) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/49572724.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City (BLV REDBULL) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:0,13:45 29/08 Đội dự bị Launceston United vs Khu bảo tồn thành phố Devonport (BLV Cozy) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.flv
+#EXTINF:0,13:45 29/08 Đội dự bị Launceston United vs Khu bảo tồn thành phố Devonport (BLV Cozy) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.m3u8
+#EXTINF:0,13:45 29/08 Đội dự bị Launceston United vs Khu bảo tồn thành phố Devonport (BLV Cozy) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/87379114.m3u8
+#EXTINF:0,14:00 29/08 Moreton Bay Utd vs CLB Gold Coast Knights (BLV Cozy) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.flv
+#EXTINF:0,14:00 29/08 Moreton Bay Utd vs CLB Gold Coast Knights (BLV Cozy) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87379114.m3u8
+#EXTINF:0,14:00 29/08 Moreton Bay Utd vs CLB Gold Coast Knights (BLV Cozy) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/87379114.m3u8
+#EXTINF:0,15:00 29/08 Brisbane Strikers vs Broadbeach United (BLV MONSTER) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75915087.flv
+#EXTINF:0,15:00 29/08 Brisbane Strikers vs Broadbeach United (BLV MONSTER) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75915087.m3u8
+#EXTINF:0,15:00 29/08 Brisbane Strikers vs Broadbeach United (BLV MONSTER) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/75915087.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu FC vs Wuhan Three Towns (BLV POCARI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.flv
+#EXTINF:0,16:00 29/08 Qingdao Hainiu FC vs Wuhan Three Towns (BLV POCARI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/19919577.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu FC vs Wuhan Three Towns (BLV POCARI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/19919577.m3u8
+#EXTINF:0,16:00 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BLV  KHÔNG ĐỘ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/41943555.flv
+#EXTINF:0,16:00 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BLV  KHÔNG ĐỘ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/41943555.m3u8
+#EXTINF:0,16:00 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BLV  KHÔNG ĐỘ) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/41943555.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida (BLV STING) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14707124.flv
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida (BLV STING) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14707124.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida (BLV STING) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/14707124.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV ROCKSTAR) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.flv
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV ROCKSTAR) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV ROCKSTAR) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/82054853.m3u8
+#EXTINF:0,17:00 29/08 Tokyo Verdy vs Kashima Antlers (BLV FANTA) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/16226575.flv
+#EXTINF:0,17:00 29/08 Tokyo Verdy vs Kashima Antlers (BLV FANTA) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/16226575.m3u8
+#EXTINF:0,17:00 29/08 Tokyo Verdy vs Kashima Antlers (BLV FANTA) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/16226575.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV BÍ ĐAO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/99121525.flv
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV BÍ ĐAO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/99121525.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV BÍ ĐAO) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/99121525.m3u8
+#EXTINF:0,17:30 29/08 CLB Ulsan Hyundai vs Gimcheon Sangmu FC (BLV PEPSI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/59444581.flv
+#EXTINF:0,17:30 29/08 CLB Ulsan Hyundai vs Gimcheon Sangmu FC (BLV PEPSI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/59444581.m3u8
+#EXTINF:0,17:30 29/08 CLB Ulsan Hyundai vs Gimcheon Sangmu FC (BLV PEPSI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/59444581.m3u8
+#EXTINF:0,17:30 29/08 Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87547578.flv
+#EXTINF:0,17:30 29/08 Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/87547578.m3u8
+#EXTINF:0,17:30 29/08 Bucheon FC 1995 vs FC Anyang (BLV MOUNTAIN DEW) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/87547578.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (BLV SAMURAI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/07808742.flv
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (BLV SAMURAI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (BLV SAMURAI) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/07808742.m3u8
+#EXTINF:0,18:00 29/08 CLB KSC vs VfL Wolfsburg (BLV REDBULL) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/49572724.flv
+#EXTINF:0,18:00 29/08 CLB KSC vs VfL Wolfsburg (BLV REDBULL) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/49572724.m3u8
+#EXTINF:0,18:00 29/08 CLB KSC vs VfL Wolfsburg (BLV REDBULL) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/49572724.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional vs Câu lạc bộ bóng đá Yuxi Yukun (BLV SPRITE) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75748097.flv
+#EXTINF:0,18:00 29/08 Zhejiang Professional vs Câu lạc bộ bóng đá Yuxi Yukun (BLV SPRITE) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75748097.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional vs Câu lạc bộ bóng đá Yuxi Yukun (BLV SPRITE) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/75748097.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV REVIVE) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/33982309.flv
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV REVIVE) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV REVIVE) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/33982309.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV 7UP) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/78905744.flv
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV 7UP) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/78905744.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV 7UP) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/78905744.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV GIÀ LÀNG) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14830711.flv
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV GIÀ LÀNG) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/14830711.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV GIÀ LÀNG) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/14830711.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV SODA) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/02456966.flv
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV SODA) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/02456966.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Câu lạc bộ Bóng đá Nottingham Forest (BLV SODA) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/02456966.m3u8
+#EXTINF:0,18:30 29/08 Wolverhampton Wanderers vs CLB Stoke City (BLV MONSTER) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75915087.flv
+#EXTINF:0,18:30 29/08 Wolverhampton Wanderers vs CLB Stoke City (BLV MONSTER) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/75915087.m3u8
+#EXTINF:0,18:30 29/08 Wolverhampton Wanderers vs CLB Stoke City (BLV MONSTER) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/75915087.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Shenyang Urban FC (BLV 247) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/90865415.flv
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Shenyang Urban FC (BLV 247) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/90865415.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Shenyang Urban FC (BLV 247) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/90865415.m3u8
+#EXTINF:0,19:00 29/08 Henan Songshan Longmen vs Câu lạc bộ bóng đá Tongliangloong Trùng Khánh (BLV ROCKSTAR) [flv]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.flv
+#EXTINF:0,19:00 29/08 Henan Songshan Longmen vs Câu lạc bộ bóng đá Tongliangloong Trùng Khánh (BLV ROCKSTAR) [hls]
+#EXTVLCOPT:network-caching=1000
+https://live05.meung.app/live/82054853.m3u8
+#EXTINF:0,19:00 29/08 Henan Songshan Longmen vs Câu lạc bộ bóng đá Tongliangloong Trùng Khánh (BLV ROCKSTAR) [hls 2]
+#EXTVLCOPT:network-caching=1000
+https://live05.miekgo.app/live/82054853.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Lanus (Chuối Nhỏ) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:network-caching=1000
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (Chuối Chao) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:network-caching=1000
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs U.N.A.M. _ Pumas (Chuối Lá) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:network-caching=1000
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:0,12:30 29/08 Playford City Patriots vs Adelaide City (Chuối To) [FHD] [FHD]
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:network-caching=1000
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+#EXTINF:0,06:00 29/08 Atletico Ottawa vs Inter Toronto FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/0da135e49351891b0a456813ea56866c/playlist.m3u8
+#EXTINF:0,06:00 29/08 Atletico Ottawa vs Inter Toronto FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/0da135e49351891b0a456813ea56866c/playlist.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7bbe049eaf72de52af777f55cf73d73f/playlist.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7bbe049eaf72de52af777f55cf73d73f/playlist.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a7d9a286cbad3c478a0af3593c68a977/playlist.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a7d9a286cbad3c478a0af3593c68a977/playlist.m3u8
+#EXTINF:0,07:00 29/08 Charlotte Independence vs AV Alta (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8383f8edd43b3b38f99aa3a9993755ab/playlist.m3u8
+#EXTINF:0,07:00 29/08 Charlotte Independence vs AV Alta (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8383f8edd43b3b38f99aa3a9993755ab/playlist.m3u8
+#EXTINF:0,07:00 29/08 Tecnico Universitario vs Deportivo Cuenca (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/34e4cda166d79cbc186a34352cc85f45/playlist.m3u8
+#EXTINF:0,07:00 29/08 Tecnico Universitario vs Deportivo Cuenca (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/34e4cda166d79cbc186a34352cc85f45/playlist.m3u8
+#EXTINF:0,07:00 29/08 Gotham FC Women vs Portland Thorns FC Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/84b361055d77575dcc18f0a0fd57f7b8/playlist.m3u8
+#EXTINF:0,07:00 29/08 Gotham FC Women vs Portland Thorns FC Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/84b361055d77575dcc18f0a0fd57f7b8/playlist.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/94b6965de7982fe60829e7b9d301149d/playlist.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/94b6965de7982fe60829e7b9d301149d/playlist.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e3484a7be9007a0566ca738c52640b2d/playlist.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e3484a7be9007a0566ca738c52640b2d/playlist.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/6f62c04dc822617c60f5d44b94912d61/playlist.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/6f62c04dc822617c60f5d44b94912d61/playlist.m3u8
+#EXTINF:0,08:00 29/08 Gimnasia yTiro vs Chacarita juniors (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e202685b2a305b935ca023cb2b1f978e/playlist.m3u8
+#EXTINF:0,08:00 29/08 Gimnasia yTiro vs Chacarita juniors (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e202685b2a305b935ca023cb2b1f978e/playlist.m3u8
+#EXTINF:0,08:00 29/08 Union Magdalena vs Deportes Quindio (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e3f159cd2d9fa8aaa86281a53e5cc586/playlist.m3u8
+#EXTINF:0,08:00 29/08 Union Magdalena vs Deportes Quindio (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e3f159cd2d9fa8aaa86281a53e5cc586/playlist.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f9c731b6ff51a11ccf68f17db87d3069/playlist.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f9c731b6ff51a11ccf68f17db87d3069/playlist.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ba7618d37d6d4bc949e48dd5b477604e/playlist.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ba7618d37d6d4bc949e48dd5b477604e/playlist.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Atletico Morelia (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a9a50bf4662b62d22da9a3a53f83363d/playlist.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Atletico Morelia (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a9a50bf4662b62d22da9a3a53f83363d/playlist.m3u8
+#EXTINF:0,19:00 28/08 Rubin Kazan Reserves vs FK Krasnodar Youth (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f3a64d4e94ab0a21e5d32e56f6286ae4/playlist.m3u8
+#EXTINF:0,09:00 29/08 San Diego Wave Women vs Racing Louisville Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/26bc74e99b0fddf811a16d4b34032b33/playlist.m3u8
+#EXTINF:0,09:00 29/08 San Diego Wave Women vs Racing Louisville Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/26bc74e99b0fddf811a16d4b34032b33/playlist.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ffd988594f2d13929bbce679edf3ac3a/playlist.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ffd988594f2d13929bbce679edf3ac3a/playlist.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/358c5ecc7021b165168295f776d6fdbf/playlist.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/358c5ecc7021b165168295f776d6fdbf/playlist.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5e45e2878b899d8a3d668213ca99b7b2/playlist.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5e45e2878b899d8a3d668213ca99b7b2/playlist.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/1160e6c9449aabbb665ff202b852d308/playlist.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/1160e6c9449aabbb665ff202b852d308/playlist.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a87b944c674133fea27bec3fdd394972/playlist.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a87b944c674133fea27bec3fdd394972/playlist.m3u8
+#EXTINF:0,12:00 29/08 Melbourne City NPL vs Green Gully Cavaliers (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/49d6c8ddb3317dcc3cd7e466140a27f8/playlist.m3u8
+#EXTINF:0,12:00 29/08 Melbourne City NPL vs Green Gully Cavaliers (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/49d6c8ddb3317dcc3cd7e466140a27f8/playlist.m3u8
+#EXTINF:0,12:00 29/08 St Albans Saints vs Dandenong Thunder (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/2065eb8a1c2aa5a75ac9f891a2968029/playlist.m3u8
+#EXTINF:0,12:00 29/08 St Albans Saints vs Dandenong Thunder (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/2065eb8a1c2aa5a75ac9f891a2968029/playlist.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/dcec3edbd8034becd8243de5e20f99b2/playlist.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/dcec3edbd8034becd8243de5e20f99b2/playlist.m3u8
+#EXTINF:0,15:00 29/08 Briobecca Urayasu vs Minebea Mitsumi FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/dfec24dccf5e2792611622b8b679f52c/playlist.m3u8
+#EXTINF:0,15:00 29/08 Briobecca Urayasu vs Minebea Mitsumi FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/dfec24dccf5e2792611622b8b679f52c/playlist.m3u8
+#EXTINF:0,15:00 29/08 Brisbane Strikers vs Broadbeach United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7d6775572c2c93f56317a0505f1b4789/playlist.m3u8
+#EXTINF:0,15:00 29/08 Brisbane Strikers vs Broadbeach United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7d6775572c2c93f56317a0505f1b4789/playlist.m3u8
+#EXTINF:0,15:00 29/08 Hradec Kralove U19 vs Pardubice U19 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b15860fbdbd3a05d85e09a71b1672863/playlist.m3u8
+#EXTINF:0,15:00 29/08 Hradec Kralove U19 vs Pardubice U19 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b15860fbdbd3a05d85e09a71b1672863/playlist.m3u8
+#EXTINF:0,15:00 29/08 AFC Metalul Buzau vs Chindia Targoviste (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/503e8e8ea3de456072db32ef987cd643/playlist.m3u8
+#EXTINF:0,15:00 29/08 AFC Metalul Buzau vs Chindia Targoviste (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/503e8e8ea3de456072db32ef987cd643/playlist.m3u8
+#EXTINF:0,15:15 29/08 Benesov vs Povltava FA (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b3810ac46631faebb4b2b811cf931fad/playlist.m3u8
+#EXTINF:0,15:15 29/08 Benesov vs Povltava FA (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b3810ac46631faebb4b2b811cf931fad/playlist.m3u8
+#EXTINF:0,15:15 29/08 Spolana Neratovice vs SK Slovan Varnsdorf (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/898143762694ac0c02552b2877813fd5/playlist.m3u8
+#EXTINF:0,15:15 29/08 Spolana Neratovice vs SK Slovan Varnsdorf (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/898143762694ac0c02552b2877813fd5/playlist.m3u8
+#EXTINF:0,15:15 29/08 Slovan Liberec II vs Teplice B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/0cbe11b00d3c858106910c29cf37d14a/playlist.m3u8
+#EXTINF:0,15:15 29/08 Slovan Liberec II vs Teplice B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/0cbe11b00d3c858106910c29cf37d14a/playlist.m3u8
+#EXTINF:0,15:15 29/08 FK Horni Redice vs Hradec Kralove B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/27012f33e3c6e4a8b704ad5540dfe9eb/playlist.m3u8
+#EXTINF:0,15:15 29/08 FK Horni Redice vs Hradec Kralove B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/27012f33e3c6e4a8b704ad5540dfe9eb/playlist.m3u8
+#EXTINF:0,15:15 29/08 Aritma Praha vs FK Kraluv Dvur (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/3efe113cc8e0d1d28f67d0e985dce3f6/playlist.m3u8
+#EXTINF:0,15:15 29/08 Aritma Praha vs FK Kraluv Dvur (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/3efe113cc8e0d1d28f67d0e985dce3f6/playlist.m3u8
+#EXTINF:0,15:15 29/08 Chrudim vs Banik Most-Sous (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/fe394080410556ab901910ebe3e93207/playlist.m3u8
+#EXTINF:0,15:15 29/08 Chrudim vs Banik Most-Sous (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/fe394080410556ab901910ebe3e93207/playlist.m3u8
+#EXTINF:0,15:30 29/08 Velke Hamry vs Mlada Boleslav B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/3c1ff455dcf136b5611dfe2b9c02d423/playlist.m3u8
+#EXTINF:0,15:30 29/08 Velke Hamry vs Mlada Boleslav B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/3c1ff455dcf136b5611dfe2b9c02d423/playlist.m3u8
+#EXTINF:0,16:00 29/08 Lazio U20 vs AlbinoLeffe Youth (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/9a98932f2ea89b10d7d05a93ed54b07c/playlist.m3u8
+#EXTINF:0,16:00 29/08 Lazio U20 vs AlbinoLeffe Youth (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/9a98932f2ea89b10d7d05a93ed54b07c/playlist.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (Doanh Chính)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (Doanh Chính)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:0,16:00 29/08 Tuggeranong United vs Queanbeyan City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/02499c2c599b67f200f112b9991596c9/playlist.m3u8
+#EXTINF:0,16:00 29/08 Tuggeranong United vs Queanbeyan City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/02499c2c599b67f200f112b9991596c9/playlist.m3u8
+#EXTINF:0,16:00 29/08 Fukushima United FC vs Nara Club (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e712777cc48a621805b420328a9ef411/playlist.m3u8
+#EXTINF:0,16:00 29/08 Fukushima United FC vs Nara Club (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/e712777cc48a621805b420328a9ef411/playlist.m3u8
+#EXTINF:0,16:00 29/08 Veertien Mie vs VONDS Ichihara (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a3a2a5bc98873d89d3e78934d5bf067b/playlist.m3u8
+#EXTINF:0,16:00 29/08 Veertien Mie vs VONDS Ichihara (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a3a2a5bc98873d89d3e78934d5bf067b/playlist.m3u8
+#EXTINF:0,16:00 29/08 J-Lease FC vs Honda FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5935b1b5403f2fc39b4c9c0a2e446f9f/playlist.m3u8
+#EXTINF:0,16:00 29/08 J-Lease FC vs Honda FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5935b1b5403f2fc39b4c9c0a2e446f9f/playlist.m3u8
+#EXTINF:0,16:00 29/08 Inter Milan U20 vs Empoli U20 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b431f2c6a8c37d258d4d34c38101522c/playlist.m3u8
+#EXTINF:0,16:00 29/08 Inter Milan U20 vs Empoli U20 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b431f2c6a8c37d258d4d34c38101522c/playlist.m3u8
+#EXTINF:0,16:00 29/08 Kamatamare Sanuki vs Kagoshima United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/00ebb1ae6ab881182caef8a4f5314fe2/playlist.m3u8
+#EXTINF:0,16:00 29/08 Kamatamare Sanuki vs Kagoshima United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/00ebb1ae6ab881182caef8a4f5314fe2/playlist.m3u8
+#EXTINF:0,16:00 29/08 Shimizu S-Pulse vs Kashiwa Reysol (Huyền Diệp)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:0,16:00 29/08 Shimizu S-Pulse vs Kashiwa Reysol (Huyền Diệp)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:0,16:00 29/08 Dangjin Citizen vs Chuncheon Citizen (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/02f2d48766a97e2a103e01c636df6b5f/playlist.m3u8
+#EXTINF:0,16:00 29/08 Dangjin Citizen vs Chuncheon Citizen (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/02f2d48766a97e2a103e01c636df6b5f/playlist.m3u8
+#EXTINF:0,16:00 29/08 Mt Druitt Town Rangers FC vs Northern Tigers (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/6aa3926d91765da27535c82fc7c30b08/playlist.m3u8
+#EXTINF:0,16:00 29/08 Mt Druitt Town Rangers FC vs Northern Tigers (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/6aa3926d91765da27535c82fc7c30b08/playlist.m3u8
+#EXTINF:0,16:00 29/08 FC Gifu vs Tochigi SC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/4c1daaada4ea42c7093033cb756fbd17/playlist.m3u8
+#EXTINF:0,16:00 29/08 FC Gifu vs Tochigi SC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/4c1daaada4ea42c7093033cb756fbd17/playlist.m3u8
+#EXTINF:0,16:00 29/08 FC Ryukyu Okinawa vs SC Sagamihara (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/51e2bea7267e0d0f9c054dbaec917815/playlist.m3u8
+#EXTINF:0,16:00 29/08 FC Ryukyu Okinawa vs SC Sagamihara (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/51e2bea7267e0d0f9c054dbaec917815/playlist.m3u8
+#EXTINF:0,16:30 29/08 Tallinna FC Ararat TTU vs Nomme JK Kalju II (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/affde8eb97097b73fa5c2be9a5fad5a8/playlist.m3u8
+#EXTINF:0,16:30 29/08 Tallinna FC Ararat TTU vs Nomme JK Kalju II (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/affde8eb97097b73fa5c2be9a5fad5a8/playlist.m3u8
+#EXTINF:0,16:30 29/08 Flora Tallinn II vs JK Tallinna Kalev (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f24c65d8c5fd59fcf52c2acc7a49b32a/playlist.m3u8
+#EXTINF:0,16:30 29/08 Flora Tallinn II vs JK Tallinna Kalev (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f24c65d8c5fd59fcf52c2acc7a49b32a/playlist.m3u8
+#EXTINF:0,16:30 29/08 Rana FK vs Ullensaker/Kisa IL (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b464c1c64a7814c4311d2a5add4930ad/playlist.m3u8
+#EXTINF:0,16:30 29/08 Rana FK vs Ullensaker/Kisa IL (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/b464c1c64a7814c4311d2a5add4930ad/playlist.m3u8
+#EXTINF:0,16:30 29/08 Paide Linnameeskond (W) vs Viimsi JK Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/4a6f40c7e431a6e12fbb1913ed049b69/playlist.m3u8
+#EXTINF:0,16:30 29/08 Paide Linnameeskond (W) vs Viimsi JK Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/4a6f40c7e431a6e12fbb1913ed049b69/playlist.m3u8
+#EXTINF:0,16:30 29/08 CSKA Moscow Women vs Rubin Kazan Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/2af7817025eb043b02955f2126488667/playlist.m3u8
+#EXTINF:0,16:30 29/08 CSKA Moscow Women vs Rubin Kazan Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/2af7817025eb043b02955f2126488667/playlist.m3u8
+#EXTINF:0,16:30 29/08 Metrostars SC vs West Torrens Birkalla (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c03e339b16f5745d51838fcb7159a451/playlist.m3u8
+#EXTINF:0,16:30 29/08 Metrostars SC vs West Torrens Birkalla (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c03e339b16f5745d51838fcb7159a451/playlist.m3u8
+#EXTINF:0,16:30 29/08 Lozova vs Atlet Kiev (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5acd35db54bbe90966744a7f9798109e/playlist.m3u8
+#EXTINF:0,16:30 29/08 Lozova vs Atlet Kiev (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5acd35db54bbe90966744a7f9798109e/playlist.m3u8
+#EXTINF:0,16:30 29/08 Grange Thistle SC vs Moreton Bay United Reserves (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8b167c964b5cf1560e54bf4d4d1386f2/playlist.m3u8
+#EXTINF:0,16:30 29/08 Grange Thistle SC vs Moreton Bay United Reserves (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8b167c964b5cf1560e54bf4d4d1386f2/playlist.m3u8
+#EXTINF:0,16:30 29/08 Kuala Lumpur City FC vs DPMM FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c74228bc09b2a4387b486282e8371964/playlist.m3u8
+#EXTINF:0,16:30 29/08 Kuala Lumpur City FC vs DPMM FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c74228bc09b2a4387b486282e8371964/playlist.m3u8
+#EXTINF:0,16:30 29/08 FC Maardu vs Tallinna FC Levadia B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/fd62f6ffb6b1614ac28311b73037a0e4/playlist.m3u8
+#EXTINF:0,16:30 29/08 FC Maardu vs Tallinna FC Levadia B (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/fd62f6ffb6b1614ac28311b73037a0e4/playlist.m3u8
+#EXTINF:0,17:00 29/08 Lokomotiv Moscow Women vs Chertanovo Moscow Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/824adcd7e54e752e92d07348d1bd677b/playlist.m3u8
+#EXTINF:0,17:00 29/08 Lokomotiv Moscow Women vs Chertanovo Moscow Women (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/824adcd7e54e752e92d07348d1bd677b/playlist.m3u8
+#EXTINF:0,17:00 29/08 FC Avangard Kursk vs FC Rodina-M Moscow (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7e31b96d1ec44ba6c73d0ecce9860852/playlist.m3u8
+#EXTINF:0,17:00 29/08 FC Avangard Kursk vs FC Rodina-M Moscow (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/7e31b96d1ec44ba6c73d0ecce9860852/playlist.m3u8
+#EXTINF:0,17:00 29/08 Daejeon Korail vs Yangpyeong (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/92b4aa1506466db0f3b2067cdeb92c39/playlist.m3u8
+#EXTINF:0,17:00 29/08 Daejeon Korail vs Yangpyeong (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/92b4aa1506466db0f3b2067cdeb92c39/playlist.m3u8
+#EXTINF:0,17:00 29/08 Haman FC vs Pyeongchang United FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f6929174cd52f0156dcb2cd63767ea0b/playlist.m3u8
+#EXTINF:0,17:00 29/08 Haman FC vs Pyeongchang United FC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f6929174cd52f0156dcb2cd63767ea0b/playlist.m3u8
+#EXTINF:0,17:00 29/08 Pyeongtaek Citizen vs Gijang United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a743a387d80b530fb6d57881be4eea10/playlist.m3u8
+#EXTINF:0,17:00 29/08 Pyeongtaek Citizen vs Gijang United (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a743a387d80b530fb6d57881be4eea10/playlist.m3u8
+#EXTINF:0,17:00 29/08 Kolos Kovalivka U21 vs Obolon Kiev U21 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8992100d671d7e80ff79e52c80e85f90/playlist.m3u8
+#EXTINF:0,17:00 29/08 Kolos Kovalivka U21 vs Obolon Kiev U21 (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8992100d671d7e80ff79e52c80e85f90/playlist.m3u8
+#EXTINF:0,17:00 29/08 Tokyo Verdy vs Kashima Antlers (Tào Phi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:0,17:00 29/08 Tokyo Verdy vs Kashima Antlers (Tào Phi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:0,17:00 29/08 Gangneung Citizen vs Jeonbuk Hyundai Motors II (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c41fd43469873c8f2cb7d64b5fe06796/playlist.m3u8
+#EXTINF:0,17:00 29/08 Gangneung Citizen vs Jeonbuk Hyundai Motors II (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/c41fd43469873c8f2cb7d64b5fe06796/playlist.m3u8
+#EXTINF:0,17:00 29/08 Gangjin Swans Women vs Hwacheon KSPO WFC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8c60d4acd514aec79d7aa16ba942c657/playlist.m3u8
+#EXTINF:0,17:00 29/08 Gangjin Swans Women vs Hwacheon KSPO WFC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8c60d4acd514aec79d7aa16ba942c657/playlist.m3u8
+#EXTINF:0,17:00 29/08 Nagoya Grampus vs Fagiano Okayama (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ec8127abdffc2600af38045d4094580a/playlist.m3u8
+#EXTINF:0,17:00 29/08 Nagoya Grampus vs Fagiano Okayama (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/ec8127abdffc2600af38045d4094580a/playlist.m3u8
+#EXTINF:0,17:00 29/08 Portimonense vs Leixoes (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8f7a3e5679650e74ce32b5c078754288/playlist.m3u8
+#EXTINF:0,17:00 29/08 Portimonense vs Leixoes (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/8f7a3e5679650e74ce32b5c078754288/playlist.m3u8
+#EXTINF:0,17:00 29/08 Mungyeong Sangmu WFC vs Sejong Sportstoto WFC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/92f3a74da219ee25f176c17aeed5a6e6/playlist.m3u8
+#EXTINF:0,17:00 29/08 Mungyeong Sangmu WFC vs Sejong Sportstoto WFC (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/92f3a74da219ee25f176c17aeed5a6e6/playlist.m3u8
+#EXTINF:0,17:00 29/08 Kudrivka vs FK Epitsentr Dunayivtsi (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a54ff902e08132720ea31bc1c24995a0/playlist.m3u8
+#EXTINF:0,17:00 29/08 Kudrivka vs FK Epitsentr Dunayivtsi (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a54ff902e08132720ea31bc1c24995a0/playlist.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu Football Club (Nguyễn Huệ) [HD]
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu Football Club (Nguyễn Huệ) [HD]
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (Tào Duệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (Tào Duệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (Lưu Bang)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (Lưu Bang)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/15e05d59f78b45e025f43cc7552d63c1/playlist.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/15e05d59f78b45e025f43cc7552d63c1/playlist.m3u8
+#EXTINF:0,18:30 29/08 Wolverhampton Wanderers vs Stoke City (Phổ Nghi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
+#EXTINF:0,18:30 29/08 Wolverhampton Wanderers vs Stoke City (Phổ Nghi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/d9aa4db80a95997d8cb3950d1368e1a5/playlist.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/d9aa4db80a95997d8cb3950d1368e1a5/playlist.m3u8
+#EXTINF:0,20:30 29/08 1. FSV Mainz 05 vs SC Paderborn 07 (Tôn Quyền)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:0,20:30 29/08 1. FSV Mainz 05 vs SC Paderborn 07 (Tôn Quyền)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro4/index.m3u8
+#EXTINF:0,20:30 29/08 RB Leipzig vs Borussia Monchengladbach (Lê Lợi)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+#EXTINF:0,20:30 29/08 RB Leipzig vs Borussia Monchengladbach (Lê Lợi)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro5/index.m3u8
+#EXTINF:0,20:30 29/08 RB Leipzig vs Borussia Monchengladbach (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/57e65ae33a18edb407523bc5dc609f7c/playlist.m3u8
+#EXTINF:0,20:30 29/08 RB Leipzig vs Borussia Monchengladbach (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/57e65ae33a18edb407523bc5dc609f7c/playlist.m3u8
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (Trần Hoàng)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (Trần Hoàng)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5400d21f7f35483ad9d1b358102a5e33/playlist.m3u8
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/5400d21f7f35483ad9d1b358102a5e33/playlist.m3u8
+#EXTINF:0,20:30 29/08 1. FC Union Berlin vs Eintracht Frankfurt (Huyền Diệp)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+#EXTINF:0,20:30 29/08 1. FC Union Berlin vs Eintracht Frankfurt (Huyền Diệp)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro6/index.m3u8
+#EXTINF:0,20:30 29/08 1. FC Union Berlin vs Eintracht Frankfurt (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a73e806c5ddf0e835af890a051c9658b/playlist.m3u8
+#EXTINF:0,20:30 29/08 1. FC Union Berlin vs Eintracht Frankfurt (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/a73e806c5ddf0e835af890a051c9658b/playlist.m3u8
+#EXTINF:0,20:30 29/08 FC Köln vs TSG Hoffenheim (Lê Hoàn)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:0,20:30 29/08 FC Köln vs TSG Hoffenheim (Lê Hoàn)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:0,20:30 29/08 FC Köln vs TSG Hoffenheim (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/bb4ff33d06eb083eebab76df1d83f57a/playlist.m3u8
+#EXTINF:0,20:30 29/08 FC Köln vs TSG Hoffenheim (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/bb4ff33d06eb083eebab76df1d83f57a/playlist.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (Ngô Quyền)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (Ngô Quyền)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-thai-tu-lion/index.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f043434e549504220ad10e799a5c2649/playlist.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/f043434e549504220ad10e799a5c2649/playlist.m3u8
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (Lưu Triệt)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (Lưu Triệt)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-vuong-tu-neil/index.m3u8
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/99eb74afacd834a4a1e194e2a779292c/playlist.m3u8
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (Nhà Đài 1)
+#EXTVLCOPT:network-caching=1000
+https://station1-global.ebaclofen.org/live/99eb74afacd834a4a1e194e2a779292c/playlist.m3u8
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (Nguyễn Huệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (Nguyễn Huệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-te-tuong-alien/index.m3u8
+#EXTINF:0,22:15 29/08 RC Strasbourg Alsace vs RC Lens (Doanh Chính)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:0,22:15 29/08 RC Strasbourg Alsace vs RC Lens (Doanh Chính)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro1/index.m3u8
+#EXTINF:0,23:30 29/08 Sassuolo vs Torino (Trần Hoàng)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+#EXTINF:0,23:30 29/08 Sassuolo vs Torino (Trần Hoàng)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny5/index.m3u8
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (Tào Phi)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (Tào Phi)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro3/index.m3u8
+#EXTINF:0,23:30 29/08 Borussia Dortmund vs Hamburger SV (Phổ Nghi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:0,23:30 29/08 Borussia Dortmund vs Hamburger SV (Phổ Nghi)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/jonhny6/index.m3u8
+#EXTINF:0,23:30 29/08 Tottenham Hotspur vs Newcastle United (Lưu Bang)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:0,23:30 29/08 Tottenham Hotspur vs Newcastle United (Lưu Bang)
+#EXTVLCOPT:network-caching=1000
+https://cdn1-global.ebaclofen.org/live/pro2/index.m3u8
+#EXTINF:0,23:30 29/08 Monza vs Udinese (Tào Duệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
+#EXTINF:0,23:30 29/08 Monza vs Udinese (Tào Duệ)
+#EXTVLCOPT:network-caching=1000
+https://cdn-global.ebaclofen.org/vsc/vsc-hiep-si-tan/index.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (NGƯỜI NẶN) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/necaxa-cruz-mexliga/index.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (NGƯỜI NẶN) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/necaxa-cruz-mexliga.flv
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (NGƯỜI SÓI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/tijuana-pumas-mexliga/index.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (NGƯỜI SÓI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/tijuana-pumas-mexliga.flv
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (NGƯỜI BẠC) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/avondale-hume-npl/index.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (NGƯỜI BẠC) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/avondale-hume-npl.flv
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (NGƯỜI THỎ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/moreton-goldcoast-ausqld/index.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (NGƯỜI THỎ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/moreton-goldcoast-ausqld.flv
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (NGƯỜI PHÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/osaka-hiroshima-j1/index.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (NGƯỜI PHÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/osaka-hiroshima-j1.flv
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F.Marinos (NGƯỜI CAT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/urawa-yokohama-j1/index.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F.Marinos (NGƯỜI CAT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/urawa-yokohama-j1.flv
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu Football Club (NGƯỜI BẠC) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/ulsan-gimcheon-k1/index.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu Football Club (NGƯỜI BẠC) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/ulsan-gimcheon-k1.flv
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (NGƯỜI DÊ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/zhejiang-yunnan-csl/index.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (NGƯỜI DÊ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/zhejiang-yunnan-csl.flv
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (NGƯỜI NẶN) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/liv-nottingham-prem/index.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (NGƯỜI NẶN) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/liv-nottingham-prem.flv
+#EXTINF:0,19:00 29/08 Fakel Voronezh vs Zenit St. Petersburg (NGƯỜI PHÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/fakel-zenit-rusprem/index.m3u8
+#EXTINF:0,19:00 29/08 Fakel Voronezh vs Zenit St. Petersburg (NGƯỜI PHÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/fakel-zenit-rusprem.flv
+#EXTINF:0,20:00 29/08 Elfsborg vs Degerfors IF (NGƯỜI SẮT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/elfsborg-degerfors-swe/index.m3u8
+#EXTINF:0,20:00 29/08 Elfsborg vs Degerfors IF (NGƯỜI SẮT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/elfsborg-degerfors-swe.flv
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (NGƯỜI CHÈ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/elver-lever-bundesliga/index.m3u8
+#EXTINF:0,20:30 29/08 SV Elversberg vs Bayer 04 Leverkusen (NGƯỜI CHÈ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/elver-lever-bundesliga.flv
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (NGƯỜI THỎ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/coventry-hull-prem/index.m3u8
+#EXTINF:0,21:00 29/08 Coventry City vs Hull City (NGƯỜI THỎ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/coventry-hull-prem.flv
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (NGƯỜI DÊ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/bourn-everton-prem/index.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth AFC vs Everton (NGƯỜI DÊ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/bourn-everton-prem.flv
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (NGƯỜI PHÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/levante-betis-laliga/index.m3u8
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (NGƯỜI PHÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/levante-betis-laliga.flv
+#EXTINF:0,22:15 29/08 RC Strasbourg Alsace vs RC Lens (NGƯỜI CÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/strasbourg-lens-ligue1/index.m3u8
+#EXTINF:0,22:15 29/08 RC Strasbourg Alsace vs RC Lens (NGƯỜI CÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/strasbourg-lens-ligue1.flv
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (NGƯỜI BẠC) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/fiorentina-frosione-seriea/index.m3u8
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (NGƯỜI BẠC) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/fiorentina-frosione-seriea.flv
+#EXTINF:0,23:30 29/08 Tottenham Hotspur vs Newcastle United (NGƯỜI CAT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/tott-news-prem/index.m3u8
+#EXTINF:0,23:30 29/08 Tottenham Hotspur vs Newcastle United (NGƯỜI CAT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/tott-news-prem.flv
+#EXTINF:0,23:30 29/08 Borussia Dortmund vs Hamburger SV (NGƯỜI CHÈ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/dortmund-hamburger-bunliga/index.m3u8
+#EXTINF:0,23:30 29/08 Borussia Dortmund vs Hamburger SV (NGƯỜI CHÈ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/dortmund-hamburger-bunliga.flv
+#EXTINF:0,00:00 30/08 Viseu vs FC Porto (NGƯỜI SẮT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/viseu-porto-porliga/index.m3u8
+#EXTINF:0,00:00 30/08 Viseu vs FC Porto (NGƯỜI SẮT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/viseu-porto-porliga.flv
+#EXTINF:0,00:00 30/08 Real Sociedad vs Espanyol (NGƯỜI DÊ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/sociedad-espanyol-laliga/index.m3u8
+#EXTINF:0,00:00 30/08 Real Sociedad vs Espanyol (NGƯỜI DÊ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/sociedad-espanyol-laliga.flv
+#EXTINF:0,01:00 30/08 Al Fateh vs Al Ittihad Club (NGƯỜI CÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/fateh-ittihad-ksa/index.m3u8
+#EXTINF:0,01:00 30/08 Al Fateh vs Al Ittihad Club (NGƯỜI CÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/fateh-ittihad-ksa.flv
+#EXTINF:0,01:30 30/08 Galatasaray vs Goztepe (NGƯỜI SÓI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/galata-gozte-tursup/index.m3u8
+#EXTINF:0,01:30 30/08 Galatasaray vs Goztepe (NGƯỜI SÓI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/galata-gozte-tursup.flv
+#EXTINF:0,01:45 30/08 Juventus vs Parma (NGƯỜI CAT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/juve-parma-seriea/index.m3u8
+#EXTINF:0,01:45 30/08 Juventus vs Parma (NGƯỜI CAT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/juve-parma-seriea.flv
+#EXTINF:0,01:45 30/08 Lyon vs Havre Athletic Club (NGƯỜI CHÈ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/lyon-havre-ligue1/index.m3u8
+#EXTINF:0,01:45 30/08 Lyon vs Havre Athletic Club (NGƯỜI CHÈ) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/lyon-havre-ligue1.flv
+#EXTINF:0,02:00 30/08 Sevilla FC vs Atletico Madrid (NGƯỜI SẮT) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/sev-atm-laliga/index.m3u8
+#EXTINF:0,02:00 30/08 Sevilla FC vs Atletico Madrid (NGƯỜI SẮT) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/sev-atm-laliga.flv
+#EXTINF:0,03:30 30/08 Seattle Sounders vs Chicago Fire (NGƯỜI CÁO) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/seattle-chicago-mls/index.m3u8
+#EXTINF:0,03:30 30/08 Seattle Sounders vs Chicago Fire (NGƯỜI CÁO) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/seattle-chicago-mls.flv
+#EXTINF:0,06:00 30/08 Sao Paulo vs Red Bull Bragantino (NGƯỜI SÓI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/saopaulo-bragantino-brasa/index.m3u8
+#EXTINF:0,06:00 30/08 Sao Paulo vs Red Bull Bragantino (NGƯỜI SÓI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/saopaulo-bragantino-brasa.flv
+#EXTINF:0,06:30 30/08 Inter Miami CF vs Montreal Impact (NGƯỜI NẶN) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/miami-montreal-mls/index.m3u8
+#EXTINF:0,06:30 30/08 Inter Miami CF vs Montreal Impact (NGƯỜI NẶN) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/miami-montreal-mls.flv
+#EXTINF:0,08:05 30/08 Club America vs Puebla (NGƯỜI SÓI) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/cluba-puebla-mexliga/index.m3u8
+#EXTINF:0,08:05 30/08 Club America vs Puebla (NGƯỜI SÓI) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/cluba-puebla-mexliga.flv
+#EXTINF:0,09:30 30/08 San Diego vs Los Angeles Galaxy (NGƯỜI NẶN) [hls]
+#EXTVLCOPT:network-caching=1000
+https://hls.lauthaitv.cc/live/sandiego-lagalaxy-mls/index.m3u8
+#EXTINF:0,09:30 30/08 San Diego vs Los Angeles Galaxy (NGƯỜI NẶN) [flv]
+#EXTVLCOPT:network-caching=1000
+https://flv.lauthaitv.cc/live/sandiego-lagalaxy-mls.flv
+#EXTINF:0,06:00 29/08 Atletico Ottawa vs Inter Toronto FC (POLO)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel10.flv
+#EXTINF:0,06:00 29/08 Atletico Ottawa vs Inter Toronto FC (HD POLO) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-10.flv?auth_key=3000001787965282-0-0-b717559c84d0e1ace53508007aa21940
+#EXTINF:0,06:00 29/08 Supra Du Quebec vs Forge FC (RAVEN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel21.flv
+#EXTINF:0,06:00 29/08 Supra Du Quebec vs Forge FC (HD RAVEN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-21.flv?auth_key=3000001787965289-0-0-a74b82f6888c0cbc29eb456139c89553
+#EXTINF:0,07:00 29/08 Nữ Toluca vs Nữ Leon (JEAN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel7.flv
+#EXTINF:0,07:00 29/08 Nữ Toluca vs Nữ Leon (HD JEAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-7.flv?auth_key=3000001787965298-0-0-fccd17647c2b753e9043f4d551b80469
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (TONI)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel9.flv
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (HD TONI) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-9.flv?auth_key=3000001787965305-0-0-3cfa99efef743a0b2d5fab7bcb26fdb4
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (SILVA)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel20.flv
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (HD SILVA) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-20.flv?auth_key=3000001787965313-0-0-cd95b66de9ea72adbf92bc4aa4537ff5
+#EXTINF:0,06:30 29/08 Nữ Atlanta Dream vs Nữ Portland Fire (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel29.flv
+#EXTINF:0,06:30 29/08 Nữ Atlanta Dream vs Nữ Portland Fire (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-29.flv?auth_key=3000001787965333-0-0-9173a965a56125640915c195be1eff05
+#EXTINF:0,06:00 29/08 Diane Parry vs Li Ann (VIC)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel32.flv
+#EXTINF:0,06:00 29/08 Diane Parry vs Li Ann (HD VIC) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-32.flv?auth_key=3000001787965341-0-0-f8e336b5c0b4b8aa01f001a6919d16ce
+#EXTINF:0,08:00 29/08 Nikola Bartunkova vs Elise Mertens (VIC)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel32.flv
+#EXTINF:0,08:00 29/08 Nikola Bartunkova vs Elise Mertens (HD VIC) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-32.flv?auth_key=3000001787965348-0-0-f03f7534483133cac3e6f185b35ae006
+#EXTINF:0,09:00 29/08 Nữ Las Vegas Aces vs Nữ Toronto Tempo (ALAN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel25.flv
+#EXTINF:0,09:00 29/08 Nữ Las Vegas Aces vs Nữ Toronto Tempo (HD ALAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-25.flv?auth_key=3000001787965355-0-0-4cd1c32b886f686e6a72ef87917ab4b6
+#EXTINF:0,09:00 29/08 Nữ Los Angeles Sparks vs Nữ Mystics (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.gigabitdelivery.com/live/channel29.flv
+#EXTINF:0,09:00 29/08 Nữ Los Angeles Sparks vs Nữ Mystics (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.cachefluxlive.com/livecdn/channel-29.flv?auth_key=3000001787965363-0-0-08e88cc524e0f16ed30a00d128aeedca
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-29.flv
+#EXTINF:0,19:30 29/08 Bờ Biển Ngà vs Ai Cập (ALAN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:0,19:30 29/08 Bờ Biển Ngà vs Ai Cập (HD ALAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-25.flv
+#EXTINF:0,19:30 29/08 Hồ Chí Minh Wings vs Cần Thơ Catfish (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:0,19:30 29/08 Hồ Chí Minh Wings vs Cần Thơ Catfish (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-29.flv
+#EXTINF:0,22:30 29/08 CH Congo vs Mali (ALAN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:0,22:30 29/08 CH Congo vs Mali (HD ALAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-25.flv
+#EXTINF:0,00:00 30/08 Nữ NY Liberty vs Nữ Chicago Sky (STEP)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel26.flv
+#EXTINF:0,00:00 30/08 Nữ NY Liberty vs Nữ Chicago Sky (HD STEP) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-26.flv
+#EXTINF:0,08:15 30/08 Diablos Rojos del México vs Santos del Potosí (TOMMY)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel29.flv
+#EXTINF:0,08:15 30/08 Diablos Rojos del México vs Santos del Potosí (HD TOMMY) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-29.flv
+#EXTINF:0,09:30 30/08 Panteras de Aguascalientes vs Correcaminos UAT Victoria (STEP)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel26.flv
+#EXTINF:0,09:30 30/08 Panteras de Aguascalientes vs Correcaminos UAT Victoria (HD STEP) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-26.flv
+#EXTINF:0,13:00 30/08 New Zealand vs Syria (ALAN)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel25.flv
+#EXTINF:0,13:00 30/08 New Zealand vs Syria (HD ALAN) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-25.flv
+#EXTINF:0,16:15 29/08 Nữ Nhật Bản vs Nữ Thái Lan (TYSON)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel33.flv
+#EXTINF:0,16:15 29/08 Nữ Nhật Bản vs Nữ Thái Lan (HD TYSON) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-33.flv
+#EXTINF:0,19:00 29/08 Nữ Iran vs Nữ Trung Quốc (TYSON)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel33.flv
+#EXTINF:0,19:00 29/08 Nữ Iran vs Nữ Trung Quốc (HD TYSON) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-33.flv
+#EXTINF:0,22:00 29/08 Ba Lan vs USA (TYSON)
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel33.flv
+#EXTINF:0,22:00 29/08 Ba Lan vs USA (HD TYSON) [HD]
+#EXTVLCOPT:http-referrer=https://xlz.streamdeliverynet.com/
+#EXTVLCOPT:network-caching=1000
+https://live2.pro2cdnlive.com/live/channel-33.flv
+#EXTINF:0,05:30 29/08 Cobresal vs Palestino (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,05:30 29/08 Cobresal vs Palestino (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,05:30 29/08 Cobresal vs Palestino (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,05:30 29/08 Cobresal vs Palestino (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV LONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/132343.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV LONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/132343.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,05:30 29/08 Goias Esporte Clube vs Sao Bernardo (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (VINFAST) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/617313.m3u8
+#EXTINF:0,06:30 29/08 Nautico (PE) vs Athletic Club (VINFAST) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/617313.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,06:30 29/08 Gremio Novorizontino vs Sport Club do Recife (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (BLV CHIVAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (BLV CHIVAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,07:00 29/08 Toluca Women vs Leon Women (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (A CHÈ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/356042.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (A CHÈ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/356042.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream W vs Portland Fire W (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,06:30 29/08 Indiana Fever W vs Connecticut Sun W (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,06:30 29/08 Indiana Fever W vs Connecticut Sun W (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV CÁP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/610677.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV CÁP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/610677.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV FOX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620003.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs Club Atlético Lanús (BLV FOX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620003.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV ENZO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/380460.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV ENZO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/380460.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (LOGAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (LOGAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (LÃO LÂM) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527384.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (LÃO LÂM) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527384.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV TOMIA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/187579.m3u8
+#EXTINF:0,08:00 29/08 Atlante FC vs Club Leon (BLV TOMIA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/187579.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (CR Bưởi) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (CR Bưởi) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (RICKHANTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/123226.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (RICKHANTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/123226.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV GIÓ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (BLV GIÓ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (CƠM NẾP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/618950.m3u8
+#EXTINF:0,08:00 29/08 Correcaminos de la U.A.T. vs Alacranes de Durango (CƠM NẾP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/618950.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Club Atlético Morelia (BLV A WIN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/536185.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Club Atlético Morelia (BLV A WIN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/536185.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Club Atlético Morelia (T REX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619672.m3u8
+#EXTINF:0,08:00 29/08 Club Deportivo Dorados de Sinaloa vs Club Atlético Morelia (T REX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619672.m3u8
+#EXTINF:0,09:00 29/08 Sporting FC vs International San Carlos (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,09:00 29/08 Sporting FC vs International San Carlos (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,09:00 29/08 Sporting FC vs International San Carlos (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,09:00 29/08 Sporting FC vs International San Carlos (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (ZIDANE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (ZIDANE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV Củ Cải) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV Củ Cải) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV ENZO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/380460.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (BLV ENZO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/380460.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (THOMAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:0,10:10 29/08 Club Tijuana vs Pumas U.N.A.M. (THOMAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:0,11:00 29/08 South Hobart vs Kingborough Lions (CURRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622240.m3u8
+#EXTINF:0,11:00 29/08 South Hobart vs Kingborough Lions (CURRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622240.m3u8
+#EXTINF:0,11:00 29/08 South Hobart vs Kingborough Lions (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,11:00 29/08 South Hobart vs Kingborough Lions (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs New Lambton FC (BLV A WIN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/536185.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs New Lambton FC (BLV A WIN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/536185.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs New Lambton FC (T REX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619672.m3u8
+#EXTINF:0,11:00 29/08 Kahibah FC vs New Lambton FC (T REX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619672.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (BLV RÔSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/139384.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (BLV RÔSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/139384.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (LOGAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (LOGAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (BLV CÁO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/597929.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (BLV CÁO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/597929.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (HẢI THANH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/599634.m3u8
+#EXTINF:0,12:00 29/08 Caroline Springs George Cross vs South Melbourne (HẢI THANH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/599634.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (BLV LUCAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/304148.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (BLV LUCAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/304148.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (LÃO LÂM) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527384.m3u8
+#EXTINF:0,12:00 29/08 Heidelberg United vs Bentleigh greens (LÃO LÂM) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527384.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,12:00 29/08 Oakleigh Cannons vs Dandenong City SC (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (BLV COCA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/327159.m3u8
+#EXTINF:0,12:00 29/08 Preston Lions vs Altona Magic (BLV COCA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/327159.m3u8
+#EXTINF:0,12:30 29/08 Playford City vs Adelaide City FC (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,12:30 29/08 Playford City vs Adelaide City FC (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,12:30 29/08 Playford City vs Adelaide City FC (VINFAST) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/617313.m3u8
+#EXTINF:0,12:30 29/08 Playford City vs Adelaide City FC (VINFAST) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/617313.m3u8
+#EXTINF:0,13:00 29/08 Tigers FC vs Canberra Juventus (BLV WUKONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/511367.m3u8
+#EXTINF:0,13:00 29/08 Tigers FC vs Canberra Juventus (BLV WUKONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/511367.m3u8
+#EXTINF:0,13:00 29/08 Tigers FC vs Canberra Juventus (PEANUT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620084.m3u8
+#EXTINF:0,13:00 29/08 Tigers FC vs Canberra Juventus (PEANUT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620084.m3u8
+#EXTINF:0,13:00 29/08 Broadmeadow vs Weston Bears (BLV XO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/472241.m3u8
+#EXTINF:0,13:00 29/08 Broadmeadow vs Weston Bears (BLV XO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/472241.m3u8
+#EXTINF:0,13:00 29/08 Broadmeadow vs Weston Bears (BLV GIÓ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:0,13:00 29/08 Broadmeadow vs Weston Bears (BLV GIÓ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (BLV ALEX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/532081.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (BLV ALEX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/532081.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (BLV PEWPEW) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/109053.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (BLV PEWPEW) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/109053.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (A PÁO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/235232.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior FC vs Gold Coast Knights (A PÁO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/235232.m3u8
+#EXTINF:0,15:00 29/08 Politehnica Timisoara vs FC ASA Tg. Mures (BLV BÉO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:0,15:00 29/08 Politehnica Timisoara vs FC ASA Tg. Mures (BLV BÉO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:0,15:00 29/08 Politehnica Timisoara vs FC ASA Tg. Mures (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,15:00 29/08 Politehnica Timisoara vs FC ASA Tg. Mures (BLV HEHE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622241.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (CHÍ PHÈO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/273736.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (CHÍ PHÈO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/273736.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (BLV CÁP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/610677.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (BLV CÁP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/610677.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (A BỆU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/484845.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (A BỆU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/484845.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BÁ PHÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BÁ PHÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV TOMIA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/187579.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV TOMIA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/187579.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV A TINH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/598119.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV A TINH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/598119.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV MESSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/494201.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV MESSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/494201.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV A TÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/557845.m3u8
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (BLV A TÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/557845.m3u8
+#EXTINF:0,16:30 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BLV PIRLO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/351530.m3u8
+#EXTINF:0,16:30 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BLV PIRLO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/351530.m3u8
+#EXTINF:0,16:30 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BOSS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620504.m3u8
+#EXTINF:0,16:30 29/08 Shimizu S-Pulse vs Kashiwa Reysol (BOSS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620504.m3u8
+#EXTINF:0,16:30 29/08 V-Varen Nagasaki vs FC Tokyo (BLV CHIVAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:0,16:30 29/08 V-Varen Nagasaki vs FC Tokyo (BLV CHIVAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/485739.m3u8
+#EXTINF:0,16:30 29/08 V-Varen Nagasaki vs FC Tokyo (BLV NOVA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619108.m3u8
+#EXTINF:0,16:30 29/08 V-Varen Nagasaki vs FC Tokyo (BLV NOVA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619108.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV RÔSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/139384.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV RÔSI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/139384.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (LOKA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (LOKA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV ROBBEN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527383.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV ROBBEN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/527383.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV FOX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620003.m3u8
+#EXTINF:0,17:00 29/08 Kawasaki Frontale vs JEF United Ichihara Chiba (BLV FOX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620003.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (SAO LA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/462413.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (SAO LA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/462413.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (BLV VOI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/552716.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (CƠM NẾP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/618950.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (CƠM NẾP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/618950.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (NGƯỜI CÁ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/595335.m3u8
+#EXTINF:0,17:00 29/08 Urawa Red Diamonds vs Yokohama F. Marinos (NGƯỜI CÁ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/595335.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV YONE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/372746.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV ALEX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/532081.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV ALEX) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/532081.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV BÉO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV BÉO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV LONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/132343.m3u8
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (BLV LONG) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/132343.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu FC (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu FC (BLV RAMBO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/534055.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu FC (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,17:30 29/08 Ulsan HD FC vs Gimcheon Sangmu FC (HÀ DUY KIÊN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/607400.m3u8
+#EXTINF:0,18:00 29/08 Energie Cottbus vs SpVgg Greuther Fürth (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,18:00 29/08 Energie Cottbus vs SpVgg Greuther Fürth (NEKO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/625920.m3u8
+#EXTINF:0,18:00 29/08 Energie Cottbus vs SpVgg Greuther Fürth (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,18:00 29/08 Energie Cottbus vs SpVgg Greuther Fürth (BLV KAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/283501.m3u8
+#EXTINF:0,18:00 29/08 1. FC Heidenheim 1846 vs Dynamo Dresden (BLV ANH TÀI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/406865.m3u8
+#EXTINF:0,18:00 29/08 1. FC Heidenheim 1846 vs Dynamo Dresden (BLV ANH TÀI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/406865.m3u8
+#EXTINF:0,18:00 29/08 1. FC Heidenheim 1846 vs Dynamo Dresden (KENCHU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622602.m3u8
+#EXTINF:0,18:00 29/08 1. FC Heidenheim 1846 vs Dynamo Dresden (KENCHU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622602.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (RỒNG ĐẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620649.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (RỒNG ĐẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620649.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (BLV CÒ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/582342.m3u8
+#EXTINF:0,18:00 29/08 Karlsruher SC vs VfL Wolfsburg (BLV CÒ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/582342.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (BLV LION) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/603255.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (BLV VIP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/491873.m3u8
+#EXTINF:0,18:00 29/08 Zhejiang Professional FC vs Yunnan Yukun (BLV VIP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/491873.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (GRAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622093.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (GRAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622093.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,18:00 29/08 Tianjin Jinmen Tiger vs Qingdao West Coast (BÚN ĐẬU) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/619561.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV TAP) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (ZIDANE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (ZIDANE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168740.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV ZOWIE) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/434982.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV Củ Cải) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV Củ Cải) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BÁ PHÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BÁ PHÚ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/118206.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (THOMAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (THOMAS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (CR Bưởi) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (CR Bưởi) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/387694.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (CÔNG CHẤT) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/291277.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (RICKHANTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/123226.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (RICKHANTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/123226.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (QUỐC KHÁNH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602153.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (HẢI THANH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/599634.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (HẢI THANH) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/599634.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (BLV CUỘI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/256080.m3u8
+#EXTINF:0,18:30 29/08 Middlesbrough vs West Bromwich Albion (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,18:30 29/08 Middlesbrough vs West Bromwich Albion (CHAN ĐÊ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621887.m3u8
+#EXTINF:0,18:30 29/08 Middlesbrough vs West Bromwich Albion (BLV BẢY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621843.m3u8
+#EXTINF:0,18:30 29/08 Middlesbrough vs West Bromwich Albion (BLV BẢY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/621843.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (BLV RYO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602019.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (BLV RYO) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/602019.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (BOSS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620504.m3u8
+#EXTINF:0,18:35 29/08 Chengdu Rongcheng vs Liaoning Tieren (BOSS) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620504.m3u8
+#EXTINF:0,19:00 29/08 Henan FC vs Chongqing Tonglianglong (CURRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622240.m3u8
+#EXTINF:0,19:00 29/08 Henan FC vs Chongqing Tonglianglong (CURRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/622240.m3u8
+#EXTINF:0,19:00 29/08 Henan FC vs Chongqing Tonglianglong (BÒ TƯƠI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620797.m3u8
+#EXTINF:0,19:00 29/08 Henan FC vs Chongqing Tonglianglong (BÒ TƯƠI) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/620797.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (HUNTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/558264.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces W vs Toronto Tempo W (HUNTER) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/558264.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks W vs Washington Mystics W (A CHÈ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/356042.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks W vs Washington Mystics W (A CHÈ) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/356042.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks W vs Washington Mystics W (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks W vs Washington Mystics W (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,09:30 29/08 Panteras vs Correcaminos (KING) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168964.m3u8
+#EXTINF:0,09:30 29/08 Panteras vs Correcaminos (KING) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168964.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (BRIAN) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/122591.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (CHAN SENA) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/515530.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (KING) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168964.m3u8
+#EXTINF:0,15:30 29/08 Melbourne United vs Cairns Taipans (KING) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/168964.m3u8
+#EXTINF:0,19:30 29/08 Ivory Coast vs Egypt (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,19:30 29/08 Ivory Coast vs Egypt (BLV HENRY) [geo]
+#EXTVLCOPT:http-referrer=https://socolivep.cv/
+#EXTVLCOPT:network-caching=1000
+https://live.inplyr.com/room/428392.m3u8
+#EXTINF:0,06:30 29/08 Indiana Fever vs Connecticut Sun (Ben) [hls]
+#EXTVLCOPT:network-caching=1000
+https://eqr2hdarxfliv.vcdn.cloud/1787878836_hd/1787878836_hd@720p.m3u8
+#EXTINF:0,06:30 29/08 Atlanta Dream vs Portland Fire (Cầy) [hls]
+#EXTVLCOPT:network-caching=1000
+https://eqr2hdarxfliv.vcdn.cloud/1787879137_hd/1787879137_hd@720p.m3u8
+#EXTINF:0,05:40 29/08 Detroit Tigers vs Los Angeles Dodgers (Cận) [hls]
+#EXTVLCOPT:network-caching=1000
+https://eqr2hdarxfliv.vcdn.cloud/1787879392_hd/1787879392_hd@720p.m3u8
+#EXTINF:0,12:00 29/08 Avondale FC vs Hume City (blv-bon) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,14:00 29/08 vothuat] Nurmagomedov vs Song (cay+dory) [vothuat]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,15:00 29/08 T1 vs FearX (blv-ngu) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,16:00 29/08 Qingdao Hainiu vs Wuhan Three Towns (blv-tri) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,16:15 29/08 Thái Lan vs Nhật Bản (blv-sun) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham Forest (blv-tri) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,19:00 29/08 Iran vs Trung Quốc (blv-sun) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (blv-vit) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,09:00 29/08 Los Angeles Sparks vs Washington Mystics (blv-cay) [hls]
+#EXTVLCOPT:network-caching=1000
+https://freem3u.xyz/static/no-signal/low.m3u8
+#EXTINF:0,22:30 30/08 Manchester United vs Ipswich (Tày) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,22:30 30/08 Manchester United vs Ipswich (Kevin) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:0,13:00 29/08 Italy vs Cuba (Chim Nhỏ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:0,16:00 29/08 Gamba Osaka vs Sanfrecce Hiroshima (Tiểu Mây) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,16:15 29/08 Nhật Bản vs Thái Lan (KaKa) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:0,17:00 29/08 Vissel Kobe vs Cerezo Osaka (Văn Minh) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:0,18:30 29/08 Liverpool vs Nottingham (Người Lửa) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+#EXTINF:0,20:30 29/08 Elversberg vs Bayer Leverkusen (Pháo Thủ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:0,20:30 29/08 Union Berlin vs Eintracht Frankfurt (Văn Minh) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:0,21:00 29/08 Bournemouth vs Everton (Tày) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,21:00 29/08 Coventry vs Hull City (Kevin) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (Chim Nhỏ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:0,22:00 29/08 Ba Lan vs Mỹ (KaKa) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:0,22:15 29/08 Strasbourg vs Lens (Tiểu Mây) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (Pháo Thủ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:0,23:30 29/08 Dortmund vs Hamburger SV (Kevin) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:0,23:30 29/08 Tottenham vs Newcastle (Người Lửa) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+#EXTINF:0,00:00 30/08 Real Sociedad vs Espanyol (Tày) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,01:00 30/08 Al Fateh vs Al Ittihad (Văn Minh) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:0,01:45 30/08 Juventus vs Parma (Pháo Thủ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:0,01:45 30/08 Lyon vs Le Havre (Chim Nhỏ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:0,02:30 30/08 Sevilla vs Atl. Madrid (Kevin) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:0,06:30 30/08 Inter Miami vs CF Montreal (Chim Nhỏ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5bcdcabb081229f5406e5b07483d
+#EXTINF:0,17:15 30/08 Utrecht vs PSV (Tiểu Mây) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,18:00 30/08 Aberdeen vs Rangers (Văn Minh) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:0,20:00 30/08 Chelsea vs Brighton (Tày) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa8/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,20:00 30/08 Leeds vs Brentford (Kevin) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:0,20:00 30/08 Sunderland vs Fulham (Pháo Thủ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:0,20:30 30/08 Freiburg vs Werder Bremen (Văn Minh) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa3/index.m3u8?expire=1815505159&sign=32dbf97946c3646cdd7f664aebd7fa2a
+#EXTINF:0,22:00 30/08 Real Madrid vs Malaga (Người Lửa) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa1/index.m3u8?expire=1815505159&sign=9137553faeae361734eec8bda5ea16e2
+#EXTINF:0,22:30 30/08 Augsburg vs Schalke (Tiểu Mây) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa9/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
+#EXTINF:0,23:30 30/08 Napoli vs Como (Pháo Thủ) [hls]
+#EXTVLCOPT:network-caching=1000
+https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:0,07:30 29/08 Boca Juniors vs Lanús (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:0,08:00 29/08 Necaxa vs Cruz Azul (Củ Cải) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:0,12:30 29/08 Playford Patriots vs Adelaide City (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:0,14:00 29/08 Moreton City Excelsior vs Gold Coast Knights (Quang Huy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
+#EXTINF:0,16:00 29/08 Mito Hollyhock vs Machida Zelvia (Ba Rọi Béo) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:0,16:30 29/08 V-Varen Nagasaki vs FC Tokyo (Bút Chì) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:0,18:30 29/08 Liverpool vs Nottm Forest (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:0,20:30 29/08 Elversberg vs Leverkusen (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:0,20:30 29/08 RB Leipzig vs M'gladbach (Mơ) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:0,20:30 29/08 Union Berlin vs Frankfurt (Quang Huy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x1-hd-1111/playlist.m3u8
+#EXTINF:0,21:00 29/08 Bournemouth vs Everton (Củ Cải) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:0,21:00 29/08 Coventry vs Hull (Ba Rọi Béo) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x2-hd-1111/playlist.m3u8
+#EXTINF:0,22:00 29/08 Levante vs Real Betis (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:0,23:30 29/08 Fiorentina vs Frosinone (Mơ) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x68-hd-1111/playlist.m3u8
+#EXTINF:0,23:30 29/08 Tottenham vs Newcastle (Cà Rốt) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x10-hd-1111/playlist.m3u8
+#EXTINF:0,23:30 29/08 Dortmund vs Hamburger SV (Củ Cải) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x3-hd-1111/playlist.m3u8
+#EXTINF:0,00:00 30/08 Real Sociedad vs Espanyol (Bút Chì) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x22-hd-1111/playlist.m3u8
+#EXTINF:0,01:45 30/08 Juventus vs Parma (Teppy) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x31-hd-1111/playlist.m3u8
+#EXTINF:0,01:45 30/08 Lyon vs Le Havre (Ricky) [hls]
+#EXTVLCOPT:http-referrer=https://sk.mediastation.live/
+#EXTVLCOPT:network-caching=1000
+https://wtyi0525.edgemaxcdn.org/live/x83-hd-1111/playlist.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (FHD) [hls]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (FHD) [flv]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4_1080p.flv
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (HD) [hls]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4.m3u8
+#EXTINF:0,07:30 29/08 Boca Juniors vs CA Lanús (HD) [flv]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/6a7c0d8f65997681f18cacc4.flv
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (FHD) [hls]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (FHD) [flv]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56_1080p.flv
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (HD) [hls]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.m3u8
+#EXTINF:0,09:00 29/08 Las Vegas Aces vs Toronto Tempo (HD) [flv]
+#EXTVLCOPT:network-caching=1000
+https://playback.livetl001.com/live/69d37c3a4da3e15776b6db56.flv
+#EXTINF:0,Cập Nhật
+#EXTVLCOPT:network-caching=1000
+https://tinhlagi.pro/logo.jpg
+#EXTINF:0,Địa Chỉ IP Của Bạn
+#EXTVLCOPT:network-caching=1000
+https://tinhlagi.pro/logo.jpg
+#EXTINF:0,Chào Khách Lạ Hôm Nay
+#EXTVLCOPT:network-caching=1000
+https://tinhlagi.pro/logo.jpg
