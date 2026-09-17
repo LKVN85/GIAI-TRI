@@ -451,7 +451,7 @@ https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa2
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
-#EXTINF:-1 group-title="PHÁO HOA TV", BLV FAMY
+#EXTINF:-1 group-title="VOLLEYBALL", BLV FAMY
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
@@ -490,9 +490,9 @@ http://antman1.giize.com/live/valeri1./T9KJ65fzceats/109380.ts
 #EXTINF:-1 group-title="TENNIS", | Cosmote
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO1
-http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19432/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO2
-http://de.seetv.cc/play/5454/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19431/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | Arena Tenis HD RS
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/162185
 #EXTINF:-1 group-title="TENNIS", | Tennis TV Classic
@@ -810,39 +810,71 @@ https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789478103-0-0-5f93
 https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=af037e77b89c0bf226dbc49ce457f24e&txTime=6aa98b27
 
 
-#EXTINF:-1 group-title="PHALANGTV", RICKY
+#EXTINF:-1 group-title="PHÁ LÀNG TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", TiT
+#EXTINF:-1 group-title="PHÁ LÀNG TV", TEPPY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", TiT
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", QUANG HUY
+#EXTINF:-1 group-title="PHÁ LÀNG TV", QUANG HUY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
-
-#EXTINF:-1 group-title="PHALANGTV", Chuối Nhỏ
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTINF:-1 group-title="PHÁ LÀNG TV", MƠ
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", Chuối Chao
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/mo/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", CỦ CẢI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", Chuối Lá
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/cucai/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", BÚT CHÌ
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", Chuối To
-#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/butchi/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", KAI
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
-#EXTINF:-1 group-title="PHALANGTV", Chuối Tây
+https://stm6dad62063600.stream.hdplaylink.com/sklive/kai/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", CÀ RỐT
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/carot/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Tây
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoito/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoila/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Trốc Tru
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", A NGAO
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
+
 
 
 #EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
