@@ -1,39 +1,39 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtv6hd" group-title="PDTVHD" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="LKVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
+#EXTINF:-1 group-title="LKVN" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
+#EXTINF:-1 group-title="LKVN" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
+#EXTINF:-1 group-title="LKVN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
+#EXTINF:-1 group-title="LKVN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
-#EXTINF:-1 group-title="PDTVHD" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
+#EXTINF:-1 group-title="LKVN" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="PDTVHD",| SPORTV HD
+#EXTINF:-1 group-title="LKVN",| SPORTV HD
 http://ssrv88.com:80/7897442120/8964203798/205555.ts
-#EXTINF:-1 group-title="PDTVHD",| Arena Premium 1 FHD HR
+#EXTINF:-1 group-title="LKVN",| Arena Premium 1 FHD HR
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
-#EXTINF:-1 group-title="PDTVHD",| sport.tv1
-https://myip.pdtvhd.com/Sports/streams/sporttv1.m3u8
-#EXTINF:-1 group-title="PDTVHD",| CCTV5+
-https://myip.pdtvhd.com/Sports/streams/CCTV5pul.m3u8
-#EXTINF:-1 group-title="PDTVHD",| STRING SPORTTV
+#EXTINF:-1 group-title="LKVN",| sport.tv1
+https://myip.LKVN.com/Sports/streams/sporttv1.m3u8
+#EXTINF:-1 group-title="LKVN",| CCTV5+
+https://myip.LKVN.com/Sports/streams/CCTV5pul.m3u8
+#EXTINF:-1 group-title="LKVN",| STRING SPORTTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| BEIN 1
+#EXTINF:-1 group-title="LKVN",| BEIN 1
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| BEIN 2
+#EXTINF:-1 group-title="LKVN",| BEIN 2
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2500/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| SKY AU
+#EXTINF:-1 group-title="LKVN",| SKY AU
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| ESPN HD BR
+#EXTINF:-1 group-title="LKVN",| ESPN HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| ESPN 6 HD BR
+#EXTINF:-1 group-title="LKVN",| ESPN 6 HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| ESPN 1 HD
+#EXTINF:-1 group-title="LKVN",| ESPN 1 HD
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19060/index.m3u8
-#EXTINF:-1 group-title="PDTVHD",| ESPN 2 HD BR
+#EXTINF:-1 group-title="LKVN",| ESPN 2 HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19061/index.m3u8
 
 
@@ -438,7 +438,7 @@ https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/chec
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 group-title="VOLLEYBALL",BLV CHIM NHỎ
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -447,6 +447,14 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
+#EXTINF:-1 group-title="VOLLEYBALL", BLV ENZO
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
+#EXTINF:-1 group-title="PHÁO HOA TV", BLV FAMY
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
@@ -572,7 +580,7 @@ https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com
 #EXTINF:-1 group-title="PHÁO HOA TV", KAKA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+https://luong.phaohoa.live/live/phaohoa7/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
 #EXTINF:-1 group-title="PHÁO HOA TV", CHIM NHỎ
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -581,7 +589,7 @@ https://luong.phaohoa.live/live/phaohoa5/index.m3u8?expire=1815505159&sign=67cc5
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa4/index.m3u8?expire=1815505159&sign=faaa23580764370ed378ecd708c9f262
-#EXTINF:-1 group-title="PHÁO HOA TV", KEVIN
+#EXTINF:-1 group-title="PHÁO HOA TV", ENZO
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfcbaa36f949863f22cc89e1cc1afa
@@ -617,7 +625,7 @@ https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", ENZO
+#EXTINF:-1 group-title="PHÁO HOA TV", KENZO
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
@@ -800,14 +808,41 @@ https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789478103-0-0-920
 https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789478103-0-0-5f93903c806c82b13df1c43e609859f3
 #EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE QUỐC KHÁNH
 https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=af037e77b89c0bf226dbc49ce457f24e&txTime=6aa98b27
-#EXTINF:-1 group-title="PHALANGTV", LÝ LONG
-#EXTVLCOPT:http-referrer=https://phalang.live/
+
+
+#EXTINF:-1 group-title="PHALANGTV", RICKY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pull.digitalcdn.net/live/3f71ec0717074d16b76bc72d76df5c42/index.m3u8
-#EXTINF:-1 group-title="PHALANGTV", LÝ LIỀU LĨNH
-#EXTVLCOPT:http-referrer=https://phalang.live/
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", TiT
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://pull.digitalcdn.net/live/acc96b94668d480696f30b329af56c1f/index.m3u8
+https://stm6dad62063600.stream.hdplaylink.com/sklive/tit/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", QUANG HUY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/quanghuy/playlist.m3u8
+
+#EXTINF:-1 group-title="PHALANGTV", Chuối Nhỏ
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoinhohd/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", Chuối Chao
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoichaohd/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", Chuối Lá
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoilahd/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", Chuối To
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm9ee346727718.stream.hdplaylink.com/cctvlive/chuoitohd/playlist.m3u8
+#EXTINF:-1 group-title="PHALANGTV", Chuối Tây
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoitay/playlist.m3u8
 
 
 #EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
@@ -2645,25 +2680,25 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES", MOVIE BOX
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 group-title="MOVIES", CINEMAX
-https://restream.pdtvhd.com/memfs/1e857e71-d00c-4b27-8152-9910bf55b48b.m3u8
+https://restream.LKVN.com/memfs/1e857e71-d00c-4b27-8152-9910bf55b48b.m3u8
 #EXTINF:-1 group-title="MOVIES", HBO
-https://restream.pdtvhd.com/memfs/2dce569f-1c7d-4dbc-b1a4-d4e98bbc4818_output_0.m3u8?session=aa76bap9wQHnL6kSiLMCsu
+https://restream.LKVN.com/memfs/2dce569f-1c7d-4dbc-b1a4-d4e98bbc4818_output_0.m3u8?session=aa76bap9wQHnL6kSiLMCsu
 #EXTINF:-1 group-title="MOVIES", HBO2
-https://restream.pdtvhd.com/memfs/526d5297-1392-49af-8538-3e73d48846b0_output_0.m3u8?session=MqsUHR4Rmq2odBiE9XZUaJ
+https://restream.LKVN.com/memfs/526d5297-1392-49af-8538-3e73d48846b0_output_0.m3u8?session=MqsUHR4Rmq2odBiE9XZUaJ
 #EXTINF:-1 group-title="MOVIES", CINEWORLD 1
-https://eac.pdtvhd.com/wewatch/streams/cinemaworld1.m3u8
+https://eac.LKVN.com/wewatch/streams/cinemaworld1.m3u8
 #EXTINF:-1 group-title="MOVIES", CINEWORLD 2
-https://eac.pdtvhd.com/wewatch/streams/cinemaworld2.m3u8
+https://eac.LKVN.com/wewatch/streams/cinemaworld2.m3u8
 #EXTINF:-1 group-title="MOVIES", STAR MOVIES
-https://restream.pdtvhd.com/memfs/12e0742d-8262-44ba-aa3c-8317dbd35ac4_output_0.m3u8?session=FNZBjztmxtz2Bk3XjUWujw
+https://restream.LKVN.com/memfs/12e0742d-8262-44ba-aa3c-8317dbd35ac4_output_0.m3u8?session=FNZBjztmxtz2Bk3XjUWujw
 #EXTINF:-1 group-title="MOVIES", AXN
-https://eac.pdtvhd.com/wewatch/streams/axnmovie.m3u8
+https://eac.LKVN.com/wewatch/streams/axnmovie.m3u8
 #EXTINF:-1 group-title="MOVIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
 #EXTINF:-1 group-title="MOVIES", ROCK ACTION
-https://eac.pdtvhd.com/wewatch/streams/rockaction.m3u8
+https://eac.LKVN.com/wewatch/streams/rockaction.m3u8
 #EXTINF:-1 group-title="MOVIES", ROCK ENT
-https://eac.pdtvhd.com/wewatch/streams/rockentertainment.m3u8
+https://eac.LKVN.com/wewatch/streams/rockentertainment.m3u8
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", SPIDERMAN: KHỞI ĐẦU MỚI
