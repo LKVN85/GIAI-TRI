@@ -91,7 +91,22 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19064/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30015/index.m3u8
 #EXTINF:-1 group-title="LKVNENT",| BEIN SPORTS XTRA ESP 4K 
 https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
-
+#EXTINF:-1 group-title="LKVNENT",| Sport 1 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12249/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Sport 2 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12250/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Sport 3 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12251/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Sport 4 HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12252/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| 5Sport FHD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2341/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| 5Sport Live FHD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2362/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| 5Sport Stars HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12232/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| 5Sport Gold HD IL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/12254/index.m3u8
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
 https://vips-livecdn.fptplay.net/live/media/vtv1/live247-hls-avc/vtv1-avc1_5600000=10000-mp4a_131600=20000.m3u8
@@ -436,7 +451,7 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
-#EXTINF:-1 group-title="VOLLEYBALL", LEE SIN
+#EXTINF:-1 group-title="VOLLEYBALL", BLV LEE SIN
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
@@ -609,15 +624,15 @@ https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa10/index.m3u8?expire=1815822079&sign=9a0c1792a57466ace2166ab62a2ea149
-#EXTINF:-1 group-title="PHÁO HOA TV", TAMAO
-#EXTVLCOPT:http-referrer=https://phaohoa1.live/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
 #EXTINF:-1 group-title="PHÁO HOA TV", CONAN
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://livecdn.cdnfastter.xyz/live/livehub1/index.m3u8
+#EXTINF:-1 group-title="PHÁO HOA TV", COZAN
+#EXTVLCOPT:http-referrer=https://phaohoa1.live/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub2/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", KENZO
+#EXTINF:-1 group-title="PHÁO HOA TV", CACA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub3/index.m3u8
@@ -633,11 +648,11 @@ https://livecdn.cdnfastter.xyz/live/livehub5/index.m3u8
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub6/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", CHÈ
+#EXTINF:-1 group-title="PHÁO HOA TV", VĂN TÀI
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub7/index.m3u8
-#EXTINF:-1 group-title="PHÁO HOA TV", LÁ CHANH
+#EXTINF:-1 group-title="PHÁO HOA TV", TAM MAO
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub8/index.m3u8
@@ -2591,14 +2606,17 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/5068/index.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", KZ: Viju+ Sport HD
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/2007/index.m3u8
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Setanta Sports+ Ukraine HD
-http://boxviptv.com:25461/Roma0675/31865526/207
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Setanta Qazaqstan
-http://boxviptv.com:25461/Roma0675/31865526/1100
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Setanta Sports 1 HD 
-http://boxviptv.com:25461/Roma0675/31865526/1112
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Setanta Sports 2 HD 
-http://boxviptv.com:25461/Roma0675/31865526/1113
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7166/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", GE: Setanta Sports 1 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7169/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", GE: Setanta Sports 2 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7168/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", GE: Setanta Sports 3 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2209/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", UA: Setanta Sports+ FHD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5068/index.m3u8
+#EXTINF:-1 group-title="AS | SPORTS HD", UA: Setanta Baltic
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/5069/index.m3u8
 
 
 
