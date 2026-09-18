@@ -1,40 +1,96 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="vtv6hd" group-title="LKVN" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
+#EXTINF:-1 tvg-id="vtv6hd" group-title="LKVNENT" tvg-logo="https://raw.githubusercontent.com/vuminhthanh12/Logo/refs/heads/main/VTV6.png", VTV6
 https://vips-livecdn.fptplay.net/live/media/vtv6/live247-hls-avc/vtv6-avc1_5600000=10000-mp4a_131600=20000.m3u8
-#EXTINF:-1 group-title="LKVN" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", MUTV
 http://line.ciao-ott.net:80/play/live.php?mac=00:1A:79:C8:7B:30&stream=1312824&extension=ts&play_token=3ouilCRXf9
-#EXTINF:-1 group-title="LKVN" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://m.media-amazon.com/images/I/611NwkDJjOL.png", LVTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31596/index.m3u8
-#EXTINF:-1 group-title="LKVN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/er6tz11641505761.png", SKYS
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=1149423&extension=ts&play_token=1jkVQWGCqc
-#EXTINF:-1 group-title="LKVN" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://r2.thesportsdb.com/images/media/channel/logo/8qhlj81641505795.png", Max Sport 2 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228726&extension=ts&play_token=1WFblY6SIm
-#EXTINF:-1 group-title="LKVN" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
+#EXTINF:-1 group-title="LKVNENT" tvg-logo="https://msatcable.com/wp-content/uploads/2023/05/xoceudhlccd61ha1z10u8orii5.png", Max Sport 4 HD
 http://line.watchtivo-8k.com:80/play/live.php?mac=00:1A:79:3F:0C:96&stream=228724&extension=ts&play_token=TJrfSv76Xi
-#EXTINF:-1 group-title="LKVN",| SPORTV HD
-http://ssrv88.com:80/7897442120/8964203798/205555.ts
-#EXTINF:-1 group-title="LKVN",| Arena Premium 1 FHD HR
+#EXTINF:-1 group-title="LKVNENT",| A SPORTV HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6832/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| Arena Premium 1 FHD HR
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/92238
-#EXTINF:-1 group-title="LKVN",| sport.tv1
-https://myip.LKVN.com/Sports/streams/sporttv1.m3u8
-#EXTINF:-1 group-title="LKVN",| CCTV5+
-https://myip.LKVN.com/Sports/streams/CCTV5pul.m3u8
-#EXTINF:-1 group-title="LKVN",| STRING SPORTTV
+#EXTINF:-1 group-title="LKVNENT",| STRING SPORTTV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31563/index.m3u8
-#EXTINF:-1 group-title="LKVN",| BEIN 1
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
-#EXTINF:-1 group-title="LKVN",| BEIN 2
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2500/index.m3u8
-#EXTINF:-1 group-title="LKVN",| SKY AU
+#EXTINF:-1 group-title="LKVNENT",| SKY AU
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2492/index.m3u8
-#EXTINF:-1 group-title="LKVN",| ESPN HD BR
+
+#EXTINF:-1 group-title="LKVNENT",| ESPN HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19156/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
-#EXTINF:-1 group-title="LKVN",| ESPN 6 HD BR
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
-#EXTINF:-1 group-title="LKVN",| ESPN 1 HD
+#EXTINF:-1 group-title="LKVNENT",| ESPN 1 HD
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19060/index.m3u8
-#EXTINF:-1 group-title="LKVN",| ESPN 2 HD BR
+#EXTINF:-1 group-title="LKVNENT",| ESPN 1 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19201/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 2 HD BR
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19061/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 2 HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19155/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 2 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19202/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 3 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19203/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 4 HD NL
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19204/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN 6 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPNews US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19154/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPNews HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30066/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPN Deportes HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30063/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| ESPNU HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30067/index.m3u8
+
+#EXTINF:-1 group-title="LKVNENT",| BEIN 1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 1 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31051/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 1 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6781/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2500/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 2 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6818/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 3
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6124/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 3 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6821/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 4
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6125/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 4 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2499/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 4 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6823/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 5
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6126/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 5 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31052/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 6
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6127/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 6 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31053/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 7
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6128/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN 7 US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/31054/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN MAX 1 TR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6824/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN MAX 1
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2501/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN HABER
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19064/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| beIN Sports En Español HD US
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30015/index.m3u8
+#EXTINF:-1 group-title="LKVNENT",| BEIN SPORTS XTRA ESP 4K 
+https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 
 
 #EXTINF:-1 tvg-id="vtv1hd" group-title="ĐỊA PHƯƠNG" tvg-logo="https://i.ytimg.com/vi/dGohEWXz7Sk/maxresdefault.jpg", VTV1
@@ -90,7 +146,7 @@ https://live.fptplay53.net/live/media/vinhlong2/live247-hls-avc/vinhlong2-avc1_3
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL3
 https://vips-livecdn.fptplay.net/live/media/vinhlong3/live247-hls-avc/vinhlong3-avc1_5600000=10000-mp4a_131600=20000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL4 
-https://live.fptplay53.net/epzhd2/vinhlong4hd_vhls.smil/chunklist_b5000000.m3u8
+https://live.fptplay53.net/epzhd2/vinhlong4-hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", THVL5
 https://live.fptplay53.net/epzhd2/vinhlong5hd_vhls.smil/chunklist_b5000000.m3u8
 #EXTINF:-1 group-title="ĐỊA PHƯƠNG", ĐỒNG THÁP 1 
@@ -340,90 +396,15 @@ https://live.fptplay53.net/live/media/event-10/hls_avc_v6/index.m3u8
 https://live.fptplay53.net/live/media/su-kien-11/hls_avc_v6/index.m3u8
 #EXTINF:-1 group-title=" SỰ KIỆN ", FPT Event 11
 https://live.fptplay53.net/live/media/event-11/hls_avc_v6/index.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+1
-https://vietanhtv.id.vn/tv360/2554/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+2
-https://vietanhtv.id.vn/tv360/1/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+3
-https://vietanhtv.id.vn/tv360/148/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+4
-https://vietanhtv.id.vn/tv360/2458/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+5
-https://vietanhtv.id.vn/tv360/9867/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+6
-https://vietanhtv.id.vn/tv360/9877/index.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+9
-https://vietanhtv.id.vn/tv360/9887/index.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+10
-https://vietanhtv.id.vn/tv360/9957/index.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+11
-https://vietanhtv.id.vn/tv360/9958/index.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN ", TV360+12
-https://vietanhtv.id.vn/tv360/10001/index.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 1
-https://liveh12vng.vtvprime.vn/hls/ONSPORT1/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 2
-https://liveh12vng.vtvprime.vn/hls/ONSPORT2/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 3
-https://liveh12vng.vtvprime.vn/hls/ONSPORT3/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 4
-https://liveh12vng.vtvprime.vn/hls/ONSPORT4/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 5
-https://liveh12vng.vtvprime.vn/hls/ONSPORT5/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 6
-https://liveh12vng.vtvprime.vn/hls/ONSPORT6/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 7
-https://liveh12vng.vtvprime.vn/hls/ONSPORT7/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 8
-https://liveh12vng.vtvprime.vn/hls/ONSPORT8/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 9
-https://liveh12vng.vtvprime.vn/hls/ONSPORT9/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 10
-https://liveh12vng.vtvprime.vn/hls/ONSPORT10/04.m3u8
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 11
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
-https://livevliatmcdw.seenow.vn/live/data8/SKSS1/Live_DASHDRM/SKSS1.mpd
-#EXTINF:-1 group-title=" SỰ KIỆN " tvg-logo="https://vtvprime.vn/sideLogoBig.png", VTVPrime 12
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ca0576ec419f490789860894bb50c977:25d2e703eee38718240e7038d1908fef
-https://livevliatmcdw.seenow.vn/live/data8/SKSS2/Live_DASHDRM/SKSS2.mpd
 
-
-#EXTINF:-1 group-title="BASKETBALL", BLV KING
-https://eqr2hdarxfliv.vcdn.cloud/1785956050_hd/1785956050_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV CHAN SENA 
-https://eqr2hdarxfliv.vcdn.cloud/1785955303_hd/1785955303_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV HENDRY
-https://eqr2hdarxfliv.vcdn.cloud/1785955597_hd/1785955597_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV HUNTER
-https://eqr2hdarxfliv.vcdn.cloud/1785955774_hd/1785955774_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV BRIAN 19
-https://eqr2hdarxfliv.vcdn.cloud/1786043306_hd/1786043306_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV A CHÈ 02
-https://eqr2hdarxfliv.vcdn.cloud/1786043360_hd/1786043360_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV YẾN THANH 03
-https://eqr2hdarxfliv.vcdn.cloud/1786001574_hd/1786001574_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV LÝ QUỲ 09
-https://eqr2hdarxfliv.vcdn.cloud/1786002064_hd/1786002064_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV SHIN 12
-https://eqr2hdarxfliv.vcdn.cloud/1786001521_hd/1786001521_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
-https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV COZY
 https://live05.meung.app/live/87379114.m3u8
 #EXTINF:-1 group-title="BASKETBALL", BLV POCARI
 https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV A LỎ 17
-https://eqr2hdarxfliv.vcdn.cloud/1786049725_hd/1786049725_hd@720p.m3u8
-#EXTINF:-1 group-title="BASKETBALL", BLV PHONG VÂN
-https://hls.cdnfaster-b.site/live/PHONGVAN/index.m3u8?expire=1863524400&sign=2ea6d74fb4865fad42a1fb2c3b23b753
+#EXTINF:-1 group-title="BASKETBALL", BLV ROCKSTAR
+https://live05.meung.app/live/82054853.m3u8
 #EXTINF:-1 group-title="BASKETBALL", NBA TV
-http://de.seetv.cc/play/9984/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
 #EXTINF:-1 group-title="BASKETBALL", | Sky Sport Basket
 http://lordstreams.live:80/9857855271/8369553594/661335
 #EXTINF:-1 group-title="BASKETBALL", | Arena Basket
@@ -431,9 +412,9 @@ http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT
 #EXTINF:-1 group-title="BASKETBALL", | SK Basket
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/17257
 #EXTINF:-1 group-title="BASKETBALL", | S Sport 1
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess1.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6825/index.m3u8
 #EXTINF:-1 group-title="BASKETBALL", | S SPORT 2
-https://api.codetabs.com/v1/proxy/?quest=https://andro.okan9gote10sokan.cfd/checklist/androstreamlivess2.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 
 #EXTINF:-1 group-title="VOLLEYBALL", BLV KAKA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
@@ -455,6 +436,15 @@ https://luong.phaohoa.live/live/phaohoa2/index.m3u8?expire=1815505159&sign=d3bfc
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://luong.phaohoa.live/live/phaohoa6/index.m3u8?expire=1815505159&sign=16059952b038cc8982ab6d1980711dc9
+#EXTINF:-1 group-title="VOLLEYBALL", BLV RICKY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/ricky/playlist.m3u8
+#EXTINF:-1 group-title="VOLLEYBALL", BLV TEPPY
+#EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://stm6dad62063600.stream.hdplaylink.com/sklive/teppy/playlist.m3u8
+
 #EXTINF:-1 group-title="VOLLEYBALL", Superliga Feminina SERIE A
 http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="VOLLEYBALL", Polsat Sport 1
@@ -468,11 +458,12 @@ http://de.seetv.cc/play/5447/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL",  Polsat Sport Premium 2 HD
 http://de.seetv.cc/play/5448/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", TRT SPOR HD
-http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/19068/index.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19068/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", TRT SPOR YILDIZ
-http://boxviptv.com:25461/Roma0675/31865526/1353
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/2145/index.m3u8
 #EXTINF:-1 group-title="VOLLEYBALL", Viju+ Sport
-http://de.seetv.cc/play/77/632F375BC8243BC/video.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/160/index.m3u8
+
 
 
 #EXTINF:-1 group-title="TENNIS", | TA
@@ -490,9 +481,9 @@ http://antman1.giize.com/live/valeri1./T9KJ65fzceats/109380.ts
 #EXTINF:-1 group-title="TENNIS", | Cosmote
 http://sewv654wfcsdwfi87fwvgbngh.siauliairsavlt.pw/iptv/PVFZ87KXVB7CRKU5522SXEKT/31584/index.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO1
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19432/index.m3u8
+http://de.seetv.cc/play/5453/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="TENNIS", | EURO2
-http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19431/index.m3u8
+http://de.seetv.cc/play/5454/632F375BC8243BC/video.m3u8
 #EXTINF:-1 group-title="TENNIS", | Arena Tenis HD RS
 http://tv.rapidiptv.tvip.xyz:80/KAD5v8fAxs302/OPTt9l072/162185
 #EXTINF:-1 group-title="TENNIS", | Tennis TV Classic
@@ -568,14 +559,6 @@ https://cdn.livega.tv/live/00a2f7fc549fc71336f7e38b3f5082fe/index.m3u8
 https://cdn.livega.tv/live/8eef6cecd0622651b5c666b1dfea552d/index.m3u8
 #EXTINF:-1 group-title="BADMINTON vs POOL", SABong 6
 https://cdn.livega.tv/live/dc09d2cf9561f03e6ab63583a1724dfc/index.m3u8
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 1 BAOJI China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210881306721061_AiSD.m3u8?txSecret=df9d9d31fd969c2d32401abbf7c60cd9&txTime=6A067010
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 2 BAOJI China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210881503355061_AiSD.m3u8?txSecret=7c174dde258d4f4e63acf8f1b2baf020&txTime=6A067010
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 3 BAOJI China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210881676976061_AiSD.m3u8?txSecret=3e2177f71ea49f20b87c5867471dad20&txTime=6A067010
-#EXTINF:-1 group-title="BADMINTON vs POOL", COURT 4 BAOJI China Masters 2026
-https://052d33b4b506ff051775da149c5848eb.v.smtcdns.net/play.cbalive.weibisai.com/live/4210882092859061_AiSD.m3u8?txSecret=943845d6e7b213f074a2f80a21289042&txTime=6A067010
 
 #EXTINF:-1 group-title="PHÁO HOA TV", KAKA
 #EXTVLCOPT:http-referrer=https://phaohoa1.live/
@@ -658,158 +641,6 @@ https://livecdn.cdnfastter.xyz/live/livehub9/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://livecdn.cdnfastter.xyz/live/livehub10/index.m3u8
 
-
-
-
-#EXTINF:-1 group-title="COLA TV", COCA
-https://live05.meung.app/live/24561735.m3u8 
-#EXTINF:-1 group-title="COLA TV", COZY
-https://live05.meung.app/live/87379114.m3u8
-#EXTINF:-1 group-title="COLA TV", FANTA
-https://live05.meung.app/live/71426314.m3u8
-#EXTINF:-1 group-title="COLA TV", AQUA
-https://live05.meung.app/live/18812304.m3u8
-#EXTINF:-1 group-title="COLA TV", LAVIE
-https://live05.meung.app/live/90725470.m3u8
-#EXTINF:-1 group-title="COLA TV", MONSTER 
-https://live05.meung.app/live/75915087.m3u8 
-#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
-https://live05.meung.app/live/87547578.m3u8 
-#EXTINF:-1 group-title="COLA TV", PEPSI
-https://live05.meung.app/live/43612277.m3u8
-#EXTINF:-1 group-title="COLA TV", REDBULL
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", REVIVE
-https://live05.meung.app/live/33982309.m3u8
-#EXTINF:-1 group-title="COLA TV", ROCKSTAR
-https://live05.meung.app/live/82054853.m3u8
-#EXTINF:-1 group-title="COLA TV", POCARI 
-https://live05.meung.app/live/19919577.m3u8
-#EXTINF:-1 group-title="COLA TV", SAMURAI 
-https://live05.meung.app/live/07808742.m3u8
-#EXTINF:-1 group-title="COLA TV", SODA 
-https://live05.meung.app/live/02456966.m3u8
-#EXTINF:-1 group-title="COLA TV", SPRITE 
-https://live05.meung.app/live/75748097.m3u8
-#EXTINF:-1 group-title="COLA TV", STING 
-https://live05.meung.app/live/14707124.m3u8 
-#EXTINF:-1 group-title="COLA TV", TEPPY 
-https://live05.meung.app/live/59444581.m3u8 
-#EXTINF:-1 group-title="COLA TV", WARRIOR 
-https://live05.meung.app/live/97885009.m3u8 
-#EXTINF:-1 group-title="COLA TV", 7 UP 
-https://live05.meung.app/live/78905744.m3u8 
-#EXTINF:-1 group-title="COLA TV", 247
-https://live05.meung.app/live/90865415.m3u8 
-#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
-https://live05.meung.app/live/99121525.m3u8
-#EXTINF:-1 group-title="COLA TV", C2 
-https://live05.meung.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
-https://live05.meung.app/live/08552895.m3u8 
-#EXTINF:-1 group-title="COLA TV", DR THANH 
-https://live05.meung.app/live/79665343.m3u8 
-#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
-https://live05.meung.app/live/14830711.m3u8
-#EXTINF:-1 group-title="COLA TV", HỔ VẰN
-https://live05.meung.app/live/07428422.m3u8
-#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
-https://live05.meung.app/live/41943555.m3u8
-#EXTINF:-1 group-title="COLA TV", Ô LONG 
-https://live05.meung.app/live/97312754.m3u8 
-#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
-https://live05.meung.app/live/88508431.m3u8 
-
-
-
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TAP 
-https://pull.niur.live/live/stream-9912041_lhd.m3u8?txSecret=f1516f9d7b1dc247c47b9603d2db8f69&txTime=6aa96d6f
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LÃO LÂM
-https://pull.niues.live/live/stream-527384_lhd.m3u8?auth_key=1789470530-0-0-d8fc0a105da6a91d09482a7daf1a1cdb
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ZOWIE
-https://pull.niues.live/live/stream-9912110_lhd.m3u8?auth_key=1789470535-0-0-8414e4ecedd66aff73f1cba921605375
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TẠ BIÊN GIỚI
-https://pull.niues.live/live/stream-9912144_lhd.m3u8?auth_key=1789470539-0-0-a8e25849117ca721d04cafd753cad46e
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦI
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789480982-0-0-76bc9965e11a765c15fa7bf6d7e4ff37
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CUỘI
-https://pull.niues.live/live/stream-9912146_lhd.m3u8?auth_key=1789470542-0-0-b6ffaf94d46f56b3f66c8554e0f5fdd2
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CỦ CẢI
-https://pull.niues.live/live/stream-9912091_lhd.m3u8?auth_key=1789470545-0-0-b1cb8a065a5b66a58b07fa967761fd1c
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RAMBO
-https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=ba5fe95dce391083523d74dff03885cb&txTime=6aa96ede
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PEANUT
-https://pull.niues.live/live/stream-620084_lhd.m3u8?auth_key=1789470869-0-0-3f2f67821833a30148164dd820cd2edf
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BLV VOI
-https://pull.niues.live/live/stream-9912114_lhd.m3u8?auth_key=1789470870-0-0-5d3ca55aa58e47dd0142d462a154c9f9
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BÚN ĐẬU
-https://pull.niues.live/live/stream-619561_lhd.m3u8?auth_key=1789470870-0-0-4c6c0fba246f5e5c7620be8514bfa7bf
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PIRLO
-https://pull.niur.live/live/stream-9912127_lhd.m3u8?txSecret=dc6e299fd97abe7f9e022c18fd66bc01&txTime=6aa96f46
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE VIP
-https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=71c5b9653c5545161f3c163c441eeabf&txTime=6aa96f48
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XO
-https://pull.niur.live/live/stream-9912132_lhd.m3u8?txSecret=4a2ae142f918b77553f157e101ab3251&txTime=6aa96f49
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÒ
-https://pull.niues.live/live/stream-582342_lhd.m3u8?auth_key=1789470969-0-0-63da681454b719d8e0ff9f3fe48f5fe5
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A MÂN
-https://pull.niues.live/live/stream-627718_lhd.m3u8?auth_key=1789470970-0-0-17c7088812e1c745a5f410f510014a65
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE PEWPEW
-https://pull.niues.live/live/stream-9912135_lhd.m3u8?auth_key=1789470971-0-0-24d652098cc394ff4cf414dc416a0b66
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ROBBEN
-https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1789471175-0-0-b69d34c64dd9c2b842a2f5b104e53795
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KENCHU
-https://pull.niues.live/live/stream-9912124_lhd.m3u8?auth_key=1789471178-0-0-35e334a318bfa608795cb7eaca43c0d9
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CHIVAS
-
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE GIÓ
-https://pull.niur.live/live/stream-321443_lhd.m3u8?txSecret=72a0b4d6f503bf0715f54aca7a18a4f2&txTime=6aa97020
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ZINDANE
-https://pull.niues.live/live/stream-9912145_lhd.m3u8?auth_key=1789471270-0-0-07523fb3a2a8e78fe739352ee35ea807
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE RICKHANTER
-https://pull.niur.live/live/stream-9912122_lhd.m3u8?txSecret=e85c27caee3a995a56e7b01ca181aa52&txTime=6aa97079
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TOMIA
-https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1789471275-0-0-5bf2195b85d93b3da10608531dc0f872
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NGƯỜI CÁ
-https://pull.niues.live/live/stream-9912143_lhd.m3u8?auth_key=1789471276-0-0-b9bc2a876018d57b7b6adfe29a349383
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CR BƯỞI
-https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=bceed7ba107429a8fab8dcdacfdda812&txTime=6aa9707c
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE BLV HEHE
-https://pull.niues.live/live/stream-622241_lhd.m3u8?auth_key=1789471277-0-0-040004d54bc7a71269059e014c40b916
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LUCAS
-https://pull.niues.live/live/stream-304148_lhd.m3u8?auth_key=1789471396-0-0-c72346a3137a86218a7a139f5765e1f3
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE THOMAS
-https://pull.niur.live/live/stream-414317_lhd.m3u8?txSecret=f4e6298fc005d341e945654abe6cd30c&txTime=6aa970f7
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE KAN
-https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=0a812c6f1f880dccb5d32e0eb1afa333&txTime=6aa970f8
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE TRÀ ĐÁ
-https://pull.niues.live/live/stream-603914_lhd.m3u8?auth_key=1789471401-0-0-1d5b5ef6a5971aade286046be35fc93d
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE A TÚ
-https://pull.niues.live/live/stream-9912130_lhd.m3u8?auth_key=1789471488-0-0-65cd52af40e41c8fb85331cb238b3264
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE XUÂN SƠN
-https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=bcba068beefe66cc6633f579c0ee9d8a&txTime=6aa97152
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE HẢI THANH
-https://pull.niues.live/live/stream-9912119_lhd.m3u8?auth_key=1789471492-0-0-b4fb0e726f26246652e3f6a5f2a90097
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LOGAN
-https://pull.niur.live/live/stream-552832_lhd.m3u8?txSecret=888598f6217e31fc8b75e1269fb0f52f&txTime=6aa97155
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CÔNG CHẤT
-https://pull.niur.live/live/stream-291277_lhd.m3u8?txSecret=f7edbf0a85847821eb699dfeea7eadcc&txTime=6aa97157
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE NEKO
-https://pull.niues.live/live/stream-625920_lhd.m3u8?auth_key=1789471498-0-0-9b6e4b9567d48444e323070b81929f67
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE LONG
-https://pull.niur.live/live/stream-9912136_lhd.m3u8?txSecret=97c342f9a00dcc88f22a9e87b3b4f95e&txTime=6aa98b27
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE CACAO
-https://pull.niues.live/live/stream-9912128_lhd.m3u8?auth_key=1789478103-0-0-c182bbc13dbb4382b35103f5397c3308
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE SAOLA
-https://pull.niur.live/live/stream-9912140_lhd.m3u8?txSecret=6d76001f16d84c5dc8ce6304f7b23740&txTime=6aa98b27
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE MESSI
-https://pull.niues.live/live/stream-9912141_lhd.m3u8?auth_key=1789478103-0-0-9200be93ed20ac218f3303d44599c4d2
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE ALEX
-https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1789478103-0-0-5f93903c806c82b13df1c43e609859f3
-#EXTINF:-1 group-title="SOCOLIVE", SOCOLIVE QUỐC KHÁNH
-https://pull.niur.live/live/stream-9912129_lhd.m3u8?txSecret=af037e77b89c0bf226dbc49ce457f24e&txTime=6aa98b27
-
-
 #EXTINF:-1 group-title="PHÁ LÀNG TV", RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
@@ -875,6 +706,214 @@ https://gckc0525.edgemaxcdn.org/live/troctru/playlist.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/angao/playlist.m3u8
 
+
+#EXTINF:-1 group-title="COLA TV", COCA
+https://live05.meung.app/live/24561735.m3u8 
+#EXTINF:-1 group-title="COLA TV", COZY
+https://live05.meung.app/live/87379114.m3u8
+#EXTINF:-1 group-title="COLA TV", FANTA
+https://live05.meung.app/live/71426314.m3u8
+#EXTINF:-1 group-title="COLA TV", AQUA
+https://live05.meung.app/live/18812304.m3u8
+#EXTINF:-1 group-title="COLA TV", LAVIE
+https://live05.meung.app/live/90725470.m3u8
+#EXTINF:-1 group-title="COLA TV", MONSTER 
+https://live05.meung.app/live/75915087.m3u8 
+#EXTINF:-1 group-title="COLA TV", MUONTAIN DEW 
+https://live05.meung.app/live/87547578.m3u8 
+#EXTINF:-1 group-title="COLA TV", PEPSI
+https://live05.meung.app/live/43612277.m3u8
+#EXTINF:-1 group-title="COLA TV", REDBULL
+https://live05.meung.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", REVIVE
+https://live05.meung.app/live/33982309.m3u8
+#EXTINF:-1 group-title="COLA TV", ROCKSTAR
+https://live05.meung.app/live/82054853.m3u8
+#EXTINF:-1 group-title="COLA TV", POCARI 
+https://live05.meung.app/live/19919577.m3u8
+#EXTINF:-1 group-title="COLA TV", SAMURAI 
+https://live05.meung.app/live/07808742.m3u8
+#EXTINF:-1 group-title="COLA TV", SODA 
+https://live05.meung.app/live/02456966.m3u8
+#EXTINF:-1 group-title="COLA TV", SPRITE 
+https://live05.meung.app/live/75748097.m3u8
+#EXTINF:-1 group-title="COLA TV", STING 
+https://live05.meung.app/live/14707124.m3u8 
+#EXTINF:-1 group-title="COLA TV", TEPPY 
+https://live05.meung.app/live/59444581.m3u8 
+#EXTINF:-1 group-title="COLA TV", WARRIOR 
+https://live05.meung.app/live/97885009.m3u8 
+#EXTINF:-1 group-title="COLA TV", 7 UP 
+https://live05.meung.app/live/78905744.m3u8 
+#EXTINF:-1 group-title="COLA TV", 247
+https://live05.meung.app/live/90865415.m3u8 
+#EXTINF:-1 group-title="COLA TV", BÍ ĐAO
+https://live05.meung.app/live/99121525.m3u8
+#EXTINF:-1 group-title="COLA TV", C2 
+https://live05.meung.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", CHANH MUỐI
+https://live05.meung.app/live/08552895.m3u8 
+#EXTINF:-1 group-title="COLA TV", DR THANH 
+https://live05.meung.app/live/79665343.m3u8 
+#EXTINF:-1 group-title="COLA TV", GIÀ LÀNG
+https://live05.meung.app/live/14830711.m3u8
+#EXTINF:-1 group-title="COLA TV", HỔ VẰN
+https://live05.meung.app/live/07428422.m3u8
+#EXTINF:-1 group-title="COLA TV", KHÔNG ĐỘ
+https://live05.meung.app/live/41943555.m3u8
+#EXTINF:-1 group-title="COLA TV", Ô LONG 
+https://live05.meung.app/live/97312754.m3u8 
+#EXTINF:-1 group-title="COLA TV", RỒNG ĐỎ 
+https://live05.meung.app/live/88508431.m3u8 
+
+#EXTINF:-1 group-title="SOCOLIVE", SCL TAP 
+https://live.inplyr.com/room/147801.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL DECO 
+https://pull.niues.live/live/stream-9912060_lhd.m3u8?auth_key=1769651973-0-0-5c60b91d99a464112a61c463a8df6ed2
+#EXTINF:-1 group-title="SOCOLIVE", SCL CỦ CẢI
+https://live.inplyr.com/room/360663.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL TẠ BIÊN GIỚI
+https://pull.niues.live/live/stream-9912108_lhd.m3u8?auth_key=1769652033-0-0-bc8d70ff68e433939044a00215c53b67 
+#EXTINF:-1 group-title="SOCOLIVE", SCL FANTA
+https://pull.niur.live/live/stream-9912108_lsd.m3u8?txSecret=cc5159292314dbeaec35f876a18fa69e&txTime=694ea565 
+#EXTINF:-1 group-title="SOCOLIVE", SCL TAM MAO 
+https://live.inplyr.com/room/113906.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL CRIS
+https://pull.niur.live/live/stream-9912100_lhd.m3u8?txSecret=d548657c375ac859da56b910abb2d86e&txTime=694ea529
+#EXTINF:-1 group-title="SOCOLIVE", SCL TOMMY 
+https://live.inplyr.com/room/414317.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL ĐỐM
+https://live.inplyr.com/room/414317.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SCL PIRLO
+https://live.inplyr.com/room/351530.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL ENZO 
+https://pull.niues.live/live/stream-380460_lhd.m3u8?auth_key=1766582849-0-0-b324bd8c09b03f6f4197f5b4e5e866d8 
+#EXTINF:-1 group-title="SOCOLIVE", SCL MESSI 
+https://pull.niues.live/live/stream-494201_lhd.m3u8?auth_key=1786476668-0-0-35256c63ba20c2ce051f8028f5a1e065
+#EXTINF:-1 group-title="SOCOLIVE", SCL CR BƯỞI
+https://pull.niur.live/live/stream-387694_lhd.m3u8?txSecret=1beba3620ffa1d49f5e7704a228b7b13&txTime=6a7ba1b3
+#EXTINF:-1 group-title="SOCOLIVE", SCL XAVI
+https://live.inplyr.com/room/525090.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL MIXI
+https://pull.niues.live/live/stream-290928_lhd.m3u8?auth_key=1769654253-0-0-6f12d38e3a21b9b83b4510f71bdb74d1
+#EXTINF:-1 group-title="SOCOLIVE", SCL GÔN
+https://live.inplyr.com/room/445260.m3u8 
+#EXTINF:-1 group-title="SOCOLIVE", SCL KAN
+https://pull.niur.live/live/stream-283501_lhd.m3u8?txSecret=a455a57f57785f62decc768bdb8e0257&txTime=697c51e9
+#EXTINF:-1 group-title="SOCOLIVE", SCL TOMIA 
+https://pull.niues.live/live/stream-9912008_lhd.m3u8?auth_key=1766583329-0-0-c7cabd9cabda4eb17f6c80c672c84df9 
+#EXTINF:-1 group-title="SOCOLIVE", SCL NIBO 
+https://pull.niues.live/live/stream-372746_lhd.m3u8?auth_key=1766582069-0-0-82bfd2ddec023861a4679bfbbea213f7 
+#EXTINF:-1 group-title="SOCOLIVE", SCL VƯƠNG ANH
+https://live.inplyr.com/room/548860.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL LÃO LÂM
+https://pull.niues.live/live/stream-527384_lsd.m3u8?auth_key=1769650953-0-0-0c0c43b2e4ccd8c06bed967d7b623f9f
+#EXTINF:-1 group-title="SOCOLIVE", SCL A LONG 
+https://pull.niur.live/live/stream-9912050_lhd.m3u8?txSecret=469a4b4104d376d5fe5db7986aebe3a6&txTime=694dad31 
+#EXTINF:-1 group-title="SOCOLIVE", SCL NGỌA LONG 
+https://pull.niues.live/live/stream-538979_lhd.m3u8?auth_key=1766592089-0-0-7e97ef548bf98263ccf61bbf8db61416 
+#EXTINF:-1 group-title="SOCOLIVE", SCL RAMBO 
+https://pull.niur.live/live/stream-534055_lhd.m3u8?txSecret=a26ef2cc28e28f133e140f2170536336&txTime=697b07ad
+#EXTINF:-1 group-title="SOCOLIVE", SCL WUKONG 
+https://pull.niur.live/live/stream-511367_lhd.m3u8?txSecret=83251956c0eb14d207f22268bd0a37d6&txTime=6a7bbbb7
+#EXTINF:-1 group-title="SOCOLIVE", SCL FIREMAN 
+https://pull.niues.live/live/stream-991140_lhd.m3u8?auth_key=1786475459-0-0-e44f7815c040480640a0229129f39986
+#EXTINF:-1 group-title="SOCOLIVE", SCL JACKMAN 
+https://pull.niues.live/live/stream-542758_lhd.m3u8?auth_key=1766594490-0-0-31d93c7b91d4d74a6f3054fe56e4fe30  
+#EXTINF:-1 group-title="SOCOLIVE", SCL PEWPEW
+https://live.inplyr.com/room/109053.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL LOGAN
+https://live.inplyr.com/room/552832.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL LUCAS
+https://pull.niues.live/live/stream-304148_lsd.m3u8?auth_key=1769651073-0-0-55d5779d7b68e2912baddb2501998fc0
+#EXTINF:-1 group-title="SOCOLIVE", SCL TYPN 
+https://pull.niues.live/live/stream-9912009_lhd.m3u8?auth_key=1766581949-0-0-a52a4765691ec42595f2a9bd7a98742a 
+#EXTINF:-1 group-title="SOCOLIVE", SCL SAO ĐỎ 
+https://pull.niur.live/live/stream-519740_lhd.m3u8?txSecret=aa3feb42834840903ae5b1d87c3cbbd3&txTime=694c555d 
+#EXTINF:-1 group-title="SOCOLIVE", SCL LOKA
+https://live.inplyr.com/room/589848.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL SATIVA
+https://live.inplyr.com/room/321443.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL SEVEN
+https://pull.niur.live/live/stream-618546_lhd.m3u8?txSecret=2ad1f84fa6e07c5382e32c87841c2390&txTime=6a7bb833
+#EXTINF:-1 group-title="SOCOLIVE", SCL ROSI
+https://pull.niur.live/live/stream-9912102_lhd.m3u8?txSecret=2ad1f84fa6e07c5382e32c87841c2390&txTime=6a7bb833
+#EXTINF:-1 group-title="SOCOLIVE", SCL ROBBEN
+https://pull.niues.live/live/stream-527383_lhd.m3u8?auth_key=1786471379-0-0-11796f6f8ee02110e7fd41db3786335f
+#EXTINF:-1 group-title="SOCOLIVE", SCL VIP
+https://pull.niur.live/live/stream-491873_lhd.m3u8?txSecret=77ace473c356762ecedc663238640de1&txTime=6a7bb95f
+#EXTINF:-1 group-title="SOCOLIVE", SCL KENCHU
+https://pull.niues.live/live/stream-622602_lhd.m3u8?auth_key=1786474859-0-0-2292012f03f064de51052bc542f66fd2
+#EXTINF:-1 group-title="SOCOLIVE", SCL RICKHANTER
+https://live.inplyr.com/room/9912101.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL A PÁO
+https://pull.niur.live/live/stream-235232_lhd.m3u8?txSecret=86e8300ea7f18129221af2114d9a7ab9&txTime=6a7bb293
+#EXTINF:-1 group-title="SOCOLIVE", SCL A WIN
+https://live.inplyr.com/room/536185.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL SÙNG A MÚP 
+https://pull.niues.live/live/stream-9912097_lhd.m3u8?auth_key=1766524528-0-0-9c0a75b41e227af68d5608b366f3ff79 
+#EXTINF:-1 group-title="SOCOLIVE", SCL THẠCH TÚ 
+https://pull.niur.live/live/stream-344370_lhd.m3u8?txSecret=b989ec9299293e9f678fa328f31e8ad5&txTime=694c1e85 
+#EXTINF:-1 group-title="SOCOLIVE", SCL VODKA 
+https://pull.niues.live/live/stream-500605_lhd.m3u8?auth_key=1766582489-0-0-a956b90ff7871234bf07597604796bfc 
+#EXTINF:-1 group-title="SOCOLIVE", SCL CHIVAS
+https://pull.niur.live/live/stream-485739_lhd.m3u8?txSecret=57bff280b61906b71369ee0fdaa866d5&txTime=697c529d
+#EXTINF:-1 group-title="SOCOLIVE", SCL XO
+https://pull.niur.live/live/stream-472241_lhd.m3u8?txSecret=4e728b6204dba6f520966886e415fc1e&txTime=6a7bb8ab
+#EXTINF:-1 group-title="SOCOLIVE", SCL BONBON
+https://live.inplyr.com/room/597924.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL COCA 
+https://pull.niues.live/live/stream-327159_lhd.m3u8?auth_key=1766744069-0-0-002b5f05356ffbcb7ffd5cf067d9405f 
+#EXTINF:-1 group-title="SOCOLIVE", SCL KEM 
+https://pull.niues.live/live/stream-513394_lhd.m3u8?auth_key=1766582070-0-0-032c2833d11d0e3d594eb134d2df5694 
+#EXTINF:-1 group-title="SOCOLIVE",SOCOLIVE KAI 
+https://pull.niues.live/live/stream-313971_lhd.m3u8?auth_key=1766582009-0-0-7a86ccd94a7e3c65ac1cc52ff5909c7f 
+#EXTINF:-1 group-title="SOCOLIVE", SCL THỎ 
+https://pull.niues.live/live/stream-548260_lhd.m3u8?auth_key=1766581890-0-0-4519e47e80d2dc7190f6626ca6ed0824 
+#EXTINF:-1 group-title="SOCOLIVE", SCL BÉO
+https://live.inplyr.com/room/459401.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL CÒ
+https://live.inplyr.com/room/582342.m3u8
+#EXTINF:-1 group-title="SOCOLIVE", SCL SÓI
+https://pull.niues.live/live/stream-427562_lhd.m3u8?auth_key=1767191310-0-0-74a7df8ae9a9cf5dc3886a1feb5c00f3
+#EXTINF:-1 group-title="SOCOLIVE", SCL VỊT BẠC
+https://pull.niues.live/live/stream-474421_lhd.m3u8?auth_key=1769737053-0-0-8631d48a87a5404099c2a5b27cebf215
+#EXTINF:-1 group-title="SOCOLIVE", SCL HẢI THANH
+https://pull.niues.live/live/stream-599634_lhd.m3u8?auth_key=1786476719-0-0-aeb7282ac5617745ee9c1c432be261fa
+#EXTINF:-1 group-title="SOCOLIVE", SCL HOA VINH
+https://pull.niues.live/live/stream-579055_lhd.m3u8?auth_key=1769652573-0-0-05c16b285ce5852a891fdb26c65a5e3f
+#EXTINF:-1 group-title="SOCOLIVE", SCL XUÂN SON 
+https://pull.niur.live/live/stream-501412_lhd.m3u8?txSecret=8de25f0e9398fd55e861c00ca54d55bb&txTime=6a7bba4f
+#EXTINF:-1 group-title="SOCOLIVE", SCL CÔNG CHẤT 
+https://pull.niues.live/live/stream-291277_lhd.m3u8?auth_key=1766584289-0-0-30985b
+#EXTINF:-1 group-title="SOCOLIVE", SCL CÔNG LÝ
+https://pull.niues.live/live/stream-9912035_lhd.m3u8?auth_key=1769652573-0-0-3794dc75c80cd1dc3add0bd171839d04
+#EXTINF:-1 group-title="SOCOLIVE", SCL KINH TẾ
+https://pull.niues.live/live/stream-532999_lsd.m3u8?auth_key=1769652333-0-0-eb5dae4f9674706385c51282e1bedff3
+#EXTINF:-1 group-title="SOCOLIVE", SCL VINFAST
+https://pull.niues.live/live/stream-617313_lhd.m3u8?auth_key=1786475639-0-0-66afdeaa0a77749d0a6adff2bf08236f
+#EXTINF:-1 group-title="SOCOLIVE", SCL ANH TÀI
+https://pull.niur.live/live/stream-406865_lhd.m3u8?txSecret=4f0589cf802d796ffa4c6c2d6f239b65&txTime=6a7bbac7
+#EXTINF:-1 group-title="SOCOLIVE", SCL MP3
+https://pull.niur.live/live/stream-621840_lhd.m3u8?txSecret=04c30d1b313158713e56186c8655e5cd&txTime=6a7bbbb7
+#EXTINF:-1 group-title="SOCOLIVE", SCL A WIN
+https://pull.niues.live/live/stream-536185_lhd.m3u8?auth_key=1786475939-0-0-216ba7e85f4536e06c55dbc6cefc66d8
+#EXTINF:-1 group-title="SOCOLIVE", SCL CURRY
+https://pull.niues.live/live/stream-622240_lhd.m3u8?auth_key=1786476239-0-0-45133c0d1964f7c263a82bb2add0019f
+#EXTINF:-1 group-title="SOCOLIVE", SCL TUẤN CÙI
+https://pull.niur.live/live/stream-400722_lhd.m3u8?txSecret=544f6713e2103b83bf0c7ab38d413744&txTime=6a7bbd5b
+#EXTINF:-1 group-title="SOCOLIVE", SCL XUÂN TÓC ĐỎ
+https://pull.niur.live/live/stream-610518_lhd.m3u8?txSecret=f2c48b062164e6989b9c8ad92682ef0b&txTime=6a7bbd97
+#EXTINF:-1 group-title="SOCOLIVE", SCL BẢY
+https://pull.niues.live/live/stream-621843_lhd.m3u8?auth_key=1786476359-0-0-ff07dce132263e67dbd388b0252ac723
+#EXTINF:-1 group-title="SOCOLIVE", SCL ALEX
+https://pull.niues.live/live/stream-532081_lhd.m3u8?auth_key=1786476599-0-0-d4f3395c1c851c625da826510378a111
+#EXTINF:-1 group-title="SOCOLIVE", SCL CÁO
+https://pull.niues.live/live/stream-597929_lhd.m3u8?auth_key=1786476479-0-0-1c3993d0e303ba5c694782d65b47ea81
+#EXTINF:-1 group-title="SOCOLIVE", SCL CHÍ PHÈO
+https://pull.niues.live/live/stream-273736_lhd.m3u8?auth_key=1786476719-0-0-355f57b143496435dd7eef6388a0eeb4
+#EXTINF:-1 group-title="SOCOLIVE", SCL SAO LA
+https://pull.niur.live/live/stream-462413_lhd.m3u8?txSecret=361646476ab6d2213351bb9410e85d69&txTime=6a7bbec3
 
 
 #EXTINF:0 tvg-rec="0",Sky Sports Tennis HD 50 UK
@@ -2208,10 +2247,14 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30200/index.m3u8
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/30201/index.m3u8
 
 
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN 6 HD BR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19057/index.m3u8
-#EXTINF:-1 group-title="NSA | SPORTS HD", BR| ESPN HD BR
-http://atc9uyud.socminlt.com/iptv/MZ5Q7LH6922249Z9ERFAV5ZQ/19056/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",BR| ESPN HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19056/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",BR| ESPN 6 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19057/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",BR| ESPN 1 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19060/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",BR| ESPN 2 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19061/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| SPORTV HD
 http://ssrv88.com:80/7897442120/8964203798/205555.ts
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| SPORTV 2 HD
@@ -2219,159 +2262,33 @@ http://ssrv88.com:80/7897442120/8964203798/205563.ts
 #EXTINF:-1 group-title="NSA | SPORTS HD", BR| SPORTV 3 HD
 http://ssrv88.com:80/7897442120/8964203798/205571.ts
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 1 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15929
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6521/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 2 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15928
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6492/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 3 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15927
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6522/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 4 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15926
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6445/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD", CA| TSN 5 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15925
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| FOX SPORT HD MEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12008
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| FOX SPORT 2 HD MEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12009
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| FOX SPORT 3 HD MEX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/12010
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| ESPN HD MX
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11991
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| ESPN 2 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11989
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| ESPN 3 MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11990
-#EXTINF:-1 group-title="NSA | SPORTS HD", MX| ESPN PLUS MX HD
-http://planettvweb.com:8091/pablotorres/Ferpab8719/11992
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BIG TEN NETWORK
-http://kstv.us:8080/c2Q2HDqQfM/111770/23355
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6517/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | Bein Sports
 http://kstv.us:8080/c2Q2HDqQfM/111770/15922
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | CBS Sports Network HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15944
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | ELEVEN SPORTS HD
 http://kstv.us:8080/c2Q2HDqQfM/111770/23327
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN 2
-http://kstv.us:8080/c2Q2HDqQfM/111770/15950
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15951
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN News HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15952
+#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN 1 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19202/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN 2HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19201/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN 3 HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19203/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | ESPN U HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15949
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | FOX DEPORTES
-http://kstv.us:8080/c2Q2HDqQfM/111770/23316
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Fight Network
-http://kstv.us:8080/c2Q2HDqQfM/111770/15901
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Fox Soccer Plus
-http://kstv.us:8080/c2Q2HDqQfM/111770/23315
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Fox Sports 1 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15948
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Fox Sports 2 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15947
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Golf HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15943
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | MAV TV
-http://kstv.us:8080/c2Q2HDqQfM/111770/25946
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | MLB Network HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15904
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | MSG +
-http://kstv.us:8080/c2Q2HDqQfM/111770/23289
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC Golf
-http://kstv.us:8080/c2Q2HDqQfM/111770/22500
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19204/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | NFL Channel HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15945
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NFL Network HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/22491
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6424/index.m3u8
 #EXTINF:-1 group-title="NSA | SPORTS HD",US | NHL Network HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15941
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | SEC NETWORK
-http://kstv.us:8080/c2Q2HDqQfM/111770/23258
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | SPORTSMAN CHANNEL
-http://kstv.us:8080/c2Q2HDqQfM/111770/23204
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Sports Net 360 HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15938
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Sportsnet One
-http://kstv.us:8080/c2Q2HDqQfM/111770/15930
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | SportsNet Ontario HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15937
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Sportsnet West HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/15903
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Sportsnet World
-http://kstv.us:8080/c2Q2HDqQfM/111770/15936
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | UNIVISION TUDN
-http://kstv.us:8080/c2Q2HDqQfM/111770/23235
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | WORLD FISHING NETWORK
-http://kstv.us:8080/c2Q2HDqQfM/111770/23203
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | YES NETWORK
-http://kstv.us:8080/c2Q2HDqQfM/111770/23230
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | SportsNet NY (SNY)
-http://kstv.us:8080/c2Q2HDqQfM/111770/46400
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | ACC Network
-http://kstv.us:8080/c2Q2HDqQfM/111770/46401
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | MARQUEE SPORTS NETWORK
-http://kstv.us:8080/c2Q2HDqQfM/111770/47466
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NESN
-http://kstv.us:8080/c2Q2HDqQfM/111770/47467
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | AT&T SportsNet Pittsburgh
-http://kstv.us:8080/c2Q2HDqQfM/111770/47473
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Space City Home Network
-http://kstv.us:8080/c2Q2HDqQfM/111770/47475
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | WWE
-http://kstv.us:8080/c2Q2HDqQfM/111770/47642
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | UFC 24/7
-http://kstv.us:8080/c2Q2HDqQfM/111770/47643
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Gol TV (ENGLISH)
-http://kstv.us:8080/c2Q2HDqQfM/111770/48241
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Root Sports Northwest
-http://kstv.us:8080/c2Q2HDqQfM/111770/48334
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Altitude Sports
-http://kstv.us:8080/c2Q2HDqQfM/111770/48335
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | MSG 2
-http://kstv.us:8080/c2Q2HDqQfM/111770/48366
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Bein Sports Xtra
-http://kstv.us:8080/c2Q2HDqQfM/111770/48383
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | Monumental Sports Network
-http://kstv.us:8080/c2Q2HDqQfM/111770/48523
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS DETROIT
-http://kstv.us:8080/c2Q2HDqQfM/111770/31589
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS MIDWEST (Missouri)
-http://kstv.us:8080/c2Q2HDqQfM/111770/31588
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS NORTH
-http://kstv.us:8080/c2Q2HDqQfM/111770/31587
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS Grate Lakes
-http://kstv.us:8080/c2Q2HDqQfM/111770/31586
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS PRIME TICKET
-http://kstv.us:8080/c2Q2HDqQfM/111770/31585
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS SAN DIEGO
-http://kstv.us:8080/c2Q2HDqQfM/111770/31584
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS SOUTH
-http://kstv.us:8080/c2Q2HDqQfM/111770/31583
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS SOUTHEAST
-http://kstv.us:8080/c2Q2HDqQfM/111770/31582
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS SOUTHWEST
-http://kstv.us:8080/c2Q2HDqQfM/111770/31581
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS FLORIDA
-http://kstv.us:8080/c2Q2HDqQfM/111770/47468
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS OKLAHOMA
-http://kstv.us:8080/c2Q2HDqQfM/111770/47469
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS SUN
-http://kstv.us:8080/c2Q2HDqQfM/111770/47470
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS WEST
-http://kstv.us:8080/c2Q2HDqQfM/111770/47471
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS CINCINATTI
-http://kstv.us:8080/c2Q2HDqQfM/111770/47472
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | BALLY SPORTS Ohio
-http://kstv.us:8080/c2Q2HDqQfM/111770/47720
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC SPORTS (BAY AREA) HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/28744
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC SPORTS (BOSTON) HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/28743
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC Sports (California) HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/28742
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC Sports (Chicago) HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/28741
-#EXTINF:-1 group-title="NSA | SPORTS HD",US | NBC Sports (Philadelphia) HD
-http://kstv.us:8080/c2Q2HDqQfM/111770/28738
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7328/index.m3u8
+#EXTINF:-1 group-title="NSA | SPORTS HD",US | HNL Network HD
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6500/index.m3u8
 
 
 #EXTINF:-1 group-title="EU | SPORTS HD",UK: WORLD POKER TOUR
@@ -2633,8 +2550,6 @@ http://lordstreams.live:80/9857855271/8369553594/661330
 
 #EXTINF:-1 group-title="AS | SPORTS HD", KR: AFREECA TV
 https://9a81dd4ee3884d0dbcacafaf0d81327a.mediatailor.us-east-1.amazonaws.com/v1/master/04fd913bb278d8775298c26fdca9d9841f37601f/RakutenTV-eu_BilliardsTV/playlist.m3u8
-#EXTINF:-1 group-title="AS | SPORTS HD", QA: BEIN SPORTS XTRA ESP 4K 
-https://bein-esp-xumo.amagi.tv/playlistR720P.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", BR: Bahrain Sports 1
 https://5c7b683162943.streamlock.net/live/ngrp:sportsone_all/playlist.m3u8
 #EXTINF:-1 group-title="AS | SPORTS HD", BR: Bahrain Sports 2 
@@ -2675,26 +2590,7 @@ http://boxviptv.com:25461/Roma0675/31865526/1100
 http://boxviptv.com:25461/Roma0675/31865526/1112
 #EXTINF:-1 group-title="AS | SPORTS HD", RS: Setanta Sports 2 HD 
 http://boxviptv.com:25461/Roma0675/31865526/1113
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Окко Sport HD
-http://boxviptv.com:25461/Roma0675/31865526/1608
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Окко Football HD
-http://boxviptv.com:25461/Roma0675/31865526/1610
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Окко 1
-http://boxviptv.com:25461/Roma0675/31865526/1013
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Окко 2
-http://boxviptv.com:25461/Roma0675/31865526/1607
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Окко 3
-http://boxviptv.com:25461/Roma0675/31865526/1609
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Megogo Sport HD
-http://boxviptv.com:25461/Roma0675/31865526/1603
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Megogo Football 1 HD
-http://boxviptv.com:25461/Roma0675/31865526/1604
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Megogo Football 2 HD
-http://boxviptv.com:25461/Roma0675/31865526/1281
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Megogo Football 3 HD
-http://boxviptv.com:25461/Roma0675/31865526/1605
-#EXTINF:-1 group-title="AS | SPORTS HD", RS: Megogo Football 4 HD
-http://boxviptv.com:25461/Roma0675/31865526/1606
+
 
 
 #EXTINF:-1 group-title="MOVIES", TVB VIỆT NAM
@@ -2712,25 +2608,36 @@ https://fxtvhls.wns.live/hls/stream.m3u8
 #EXTINF:-1 group-title="MOVIES", MOVIE BOX
 https://cdn4.skygo.mn/live/disk1/Moviebox/HLSv3-FTA/Moviebox.m3u8
 #EXTINF:-1 group-title="MOVIES", CINEMAX
-https://restream.LKVN.com/memfs/1e857e71-d00c-4b27-8152-9910bf55b48b.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6152/index.m3u8
 #EXTINF:-1 group-title="MOVIES", HBO
-https://restream.LKVN.com/memfs/2dce569f-1c7d-4dbc-b1a4-d4e98bbc4818_output_0.m3u8?session=aa76bap9wQHnL6kSiLMCsu
-#EXTINF:-1 group-title="MOVIES", HBO2
-https://restream.LKVN.com/memfs/526d5297-1392-49af-8538-3e73d48846b0_output_0.m3u8?session=MqsUHR4Rmq2odBiE9XZUaJ
-#EXTINF:-1 group-title="MOVIES", CINEWORLD 1
-https://eac.LKVN.com/wewatch/streams/cinemaworld1.m3u8
-#EXTINF:-1 group-title="MOVIES", CINEWORLD 2
-https://eac.LKVN.com/wewatch/streams/cinemaworld2.m3u8
-#EXTINF:-1 group-title="MOVIES", STAR MOVIES
-https://restream.LKVN.com/memfs/12e0742d-8262-44ba-aa3c-8317dbd35ac4_output_0.m3u8?session=FNZBjztmxtz2Bk3XjUWujw
-#EXTINF:-1 group-title="MOVIES", AXN
-https://eac.LKVN.com/wewatch/streams/axnmovie.m3u8
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7014/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO 2
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7005/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO 3
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6987/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19046/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO 2 HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19045/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO Mundi HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19047/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO+ BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19048/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO Pop BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19049/index.m3u8
+#EXTINF:-1 group-title="MOVIES", HBO Signature HD BR
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19050/index.m3u8http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/19046/index.m3u8
+
+#EXTINF:-1 group-title="MOVIES", AXN White RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6950/index.m3u8
+#EXTINF:-1 group-title="MOVIES", AXN Black RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6952/index.m3u8
+#EXTINF:-1 group-title="MOVIES", AXN HD RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7008/index.m3u8
+#EXTINF:-1 group-title="MOVIES", Pro Cinema RO
+http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6951/index.m3u8
 #EXTINF:-1 group-title="MOVIES", SONY CINE
 https://a-cdn.klowdtv.com/live1/cine_720p/chunks.m3u8
-#EXTINF:-1 group-title="MOVIES", ROCK ACTION
-https://eac.LKVN.com/wewatch/streams/rockaction.m3u8
-#EXTINF:-1 group-title="MOVIES", ROCK ENT
-https://eac.LKVN.com/wewatch/streams/rockentertainment.m3u8
 
 
 #EXTINF:-1 group-title="PHIM CHIẾU RẠP", SPIDERMAN: KHỞI ĐẦU MỚI
