@@ -790,6 +790,14 @@ https://gckc0525.edgemaxcdn.org/live/chuoinho/playlist.m3u8
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://gckc0525.edgemaxcdn.org/live/chuoichao/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Kem
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoikem/playlist.m3u8
+#EXTINF:-1 group-title="PHÁ LÀNG TV", Chuối Sấy
+#EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://gckc0525.edgemaxcdn.org/live/chuoisay/playlist.m3u8
 #EXTINF:-1 group-title="PHÁ LÀNG TV", Trốc Tru
 #EXTVLCOPT:http-referrer=https://live.chuoichien.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
