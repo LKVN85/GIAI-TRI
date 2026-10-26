@@ -554,6 +554,11 @@ https://live05.yefpwmc.app/live/19919577_tsc.m3u8
 https://live05.yefpwmc.app/live/82054853_tsc.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL", | BLV 247
 https://live05.yefpwmc.app/live/90865415_tsc.m3u8 
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV TOMMY 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live2.jorvakstreamcache.com/live/channel29.flv
 #EXTINF:-1 group-title="🏀 BASKETBALL", | NBA TV
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6491/index.m3u8
 #EXTINF:-1 group-title="🏀 BASKETBALL",  | Sky Sport Basket
@@ -611,7 +616,15 @@ https://live2.jorvakstreamcache.com/live/channel33.flv
 https://live2.domaincdn.cc/livecdn/channel-33.flv?auth_key=3000001792489086-0-0-7c2919e4e816035906001e33b897f8df
 
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Superliga Feminina SERIE A
-http://ssrv88.com:80/7897442120/8964203798/205563.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel81.flv?wsSecret=ec0047edda1fe2b0ce7d90da890ad5eb&wsABSTime=1793098407
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", |Superliga MEN SERIE A
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
+#EXTVLCOPT:network-caching=1000
+https://live1.quickscoreboardz.com/live/channel80.flv?wsSecret=795aec0c78bf2504c827e5236fe0b33e&wsABSTime=1793098547
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport 1 HD PL
 http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/7296/index.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", |Polsat Sport 2 HD PL
@@ -1359,11 +1372,11 @@ https://live2.jorvakstreamcache.com/live/channel15.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel-15.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (BRADY)Channel 15  
+#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (BRADY)Channel 15++  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel15.flv
+https://live2.domaincdn.cc/livecdn/channel-15.flv?auth_key=3000001793055691-0-0-676fb888feef2602b382adebbd9115a3
 #EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (RIO) Channel 16  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
@@ -1504,23 +1517,22 @@ https://live2.jorvakstreamcache.com/live/channel28.flv
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel-28.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (XOILAC)Channel 29  
+#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (TOMMY)Channel 29  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel29.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (XOILAC)Channel 29+ (HD MARTY) 
+#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (TOMMY)Channel 29+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
 https://live2.jorvakstreamcache.com/live/channel-29.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (TOMMY)Channel 30  
+#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 MARTY Channel 30  
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
-https://live2.jorvakstreamcache.com/live/channel29.flv
 https://live2.jorvakstreamcache.com/live/channel30.flv
-#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 (TOMMY)Channel 30+ (HD MARTY) 
+#EXTINF:-1 group-title="⚽ XÔI LẠC ", 🟢 MARTY Channel 30+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 #EXTVLCOPT:http-referrer=https://xlz.domainkqt.cc/
 #EXTVLCOPT:network-caching=1000
