@@ -752,6 +752,10 @@ https://tradatv-s1.b-cdn.net/live/loaton_s18655cdd8.m3u8
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 https://gn-live.saigon999.live/live01/index-8386live.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KKK
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/123kaka/123kaka@hnstream.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
@@ -759,56 +763,15 @@ https://gn-live.saigon999.live/123che/123che@hnstream.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP 
 #EXTVLCOPT:http-referrer=https://nembientv.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://live.nembientv.com/nembien_tv_wait_hls/index.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV THÉP +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
 https://gn-live.saigon999.live/123thep/123thep@hnstream.m3u8
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live08.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LONG CA +
+https://gn-live.saigon999.live/123longca/123longca@hnstream.m3u8
+#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIEEE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live08.m3u8
-
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live05/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV LAVIE +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live05.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live04/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV CHÈ +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live04.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", BLV KAKA +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live01.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live02.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KỀN KỀN +
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live01/index-8386live.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://geo.saigon999.live/live/live03.m3u8
-#EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A", KAAKAA+
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
-https://ivsplay.saigon999.live/live/live03.m3u8
+https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
 
 #EXTINF:-1 group-title="⚽ 🏐 KHÁN ĐÀI A" tvg-logo="https://xoiche2.live/images/logo-220.webp", BLV Xôi Xéo
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
