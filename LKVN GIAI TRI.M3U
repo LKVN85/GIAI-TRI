@@ -499,26 +499,14 @@ http://lutik.kazaktelekom.com/iptv/5UVGP564T2GFDE/6828/index.m3u8
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
 https://gn-live.saigon999.live/live01/index-8386live.m3u8
+#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KKK
+#EXTVLCOPT:http-referrer=https://khandaia.one/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Mobile Safari/537.36
+https://gn-live.saigon999.live/123kaka/123kaka@hnstream.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LAVIE
 #EXTVLCOPT:http-referrer=https://khandaia.one/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/144.0.0.0 Mobile Safari/537.36
-https://gn-live.saigon999.live/live02/index-8386live.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV PHÁO THỦ
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live03.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV ENZO
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live04.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV KỀN KỀN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live05.m3u8
-#EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV LEE SIN
-#EXTVLCOPT:http-referrer=https://khandaia.one/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://cdn.saigon999.live/live/live06.m3u8
+https://gn-live.saigon999.live/123lavie/123lavie@hnstream.m3u8
 #EXTINF:-1 group-title="🏐 VOLLEYBALL", | BLV RICKY
 #EXTVLCOPT:http-referrer=https://vip3.saoketv40.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
